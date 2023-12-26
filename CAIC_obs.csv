@@ -1,0 +1,4206 @@
+Date,Zone,Trigger,Elevation,Aspect,R-Size,D-Size
+10/15/21,Aspen,N,TL,E,R1,D1.5
+10/15/21,Aspen,N,TL,NE,R1,D1
+10/22/21,Gunnison,N,>TL,W,R1,D1
+10/24/21,Vail & Summit County,AS,>TL,E,R1,D1
+10/26/21,South San Juan,N,TL,NW,R1,D1.5
+10/27/21,Gunnison,N,>TL,NE,R1,D1.5
+10/27/21,Gunnison,N,>TL,NE,R1,D1.5
+10/27/21,Gunnison,N,>TL,NE,R1,D1.5
+10/27/21,Gunnison,N,>TL,NE,R2,D2
+10/27/21,Gunnison,N,>TL,S,R1,D1
+10/28/21,Front Range,N,TL,N,R1,D1
+10/28/21,Front Range,AX,TL,N,R1,D1
+10/28/21,Front Range,AX,TL,N,R1,D1.5
+10/28/21,Front Range,AX,TL,N,R2,D1
+10/28/21,Front Range,AX,TL,N,R2,D1.5
+10/28/21,Front Range,AX,,N,R1,D1
+10/29/21,Vail & Summit County,AS,>TL,NE,R1,D1.5
+10/29/21,Vail & Summit County,AS,>TL,NE,R1,D1.5
+10/29/21,Vail & Summit County,AS,>TL,NE,R1,D1.5
+10/30/21,Gunnison,AW,TL,NE,R1,D1
+11/1/21,North San Juan,AS,>TL,N,R1,D2
+11/1/21,UNK,U,,,,
+11/2/21,Gunnison,N,>TL,NE,R2,D2
+11/4/21,Gunnison,N,>TL,NE,R1,D1.5
+11/4/21,Gunnison,N,>TL,NE,R1,D1.5
+11/4/21,Gunnison,N,>TL,NE,R1,D1.5
+11/4/21,Gunnison,N,>TL,NE,R1,D1.5
+11/4/21,Gunnison,N,>TL,NE,R1,D1.5
+11/4/21,Gunnison,N,>TL,NE,R1,D1.5
+11/4/21,Gunnison,N,>TL,NE,R1,D1.5
+11/5/21,Aspen,N,TL,NW,R1,D1
+11/7/21,Sawatch,N,>TL,SE,R1,D1.5
+11/7/21,UNK,AA,>TL,,R2,D1.5
+11/8/21,Front Range,U,>TL,E,R1,D1
+11/9/21,UNK,AH,,,,
+11/10/21,Gunnison,N,>TL,NE,R1,D1
+11/10/21,Gunnison,N,>TL,NE,R1,D1
+11/10/21,Gunnison,N,>TL,NE,R1,D1
+11/10/21,Gunnison,N,>TL,NE,R2,D2
+11/10/21,Gunnison,AS,TL,NE,R1,D1
+11/10/21,Gunnison,AS,TL,NE,R1,D1
+11/10/21,Gunnison,AS,>TL,E,R1,D1.5
+11/10/21,Gunnison,N,>TL,NE,R2,D2
+11/10/21,Gunnison,N,>TL,NE,R2,D2
+11/10/21,Gunnison,N,>TL,E,R2,D2
+11/10/21,Gunnison,N,>TL,E,R1,D1.5
+11/11/21,North San Juan,N,>TL,NE,R1,D1
+11/11/21,Gunnison,N,TL,NE,,D2
+11/11/21,Gunnison,N,TL,,,D1.5
+11/11/21,North San Juan,N,>TL,,R1,D1
+11/11/21,Aspen,N,>TL,NE,R2,D2
+11/11/21,Aspen,N,>TL,N,R2,D2
+11/11/21,Gunnison,N,>TL,NW,R2,D2
+11/11/21,Gunnison,N,>TL,NE,R1,D1.5
+11/11/21,Gunnison,N,>TL,NE,R1,D1.5
+11/11/21,Gunnison,N,>TL,NE,R1,D1.5
+11/11/21,Front Range,AX,TL,E,R2,D2
+11/11/21,Front Range,AX,TL,N,R2,D1.5
+11/11/21,Front Range,AX,TL,N,R1,D1
+11/11/21,Front Range,AX,TL,N,R2,D1.5
+11/11/21,Front Range,AX,TL,N,R2,D1.5
+11/12/21,Gunnison,N,>TL,E,R1,D1
+11/12/21,Gunnison,N,>TL,SE,R1,D1
+11/12/21,Gunnison,N,>TL,E,R1,D1
+11/12/21,Gunnison,N,>TL,E,R1,D1
+11/12/21,Gunnison,U,>TL,NE,R1,D1.5
+11/12/21,Gunnison,N,>TL,SE,,D1.5
+11/12/21,Vail & Summit County,AS,>TL,NE,R1,D1.5
+11/12/21,Sawatch,N,>TL,E,R2,D2
+11/12/21,Vail & Summit County,N,>TL,E,R2,D2
+11/12/21,Vail & Summit County,N,TL,E,R2,D2
+11/12/21,Front Range,AS,>TL,E,R1,D1.5
+11/14/21,Sawatch,N,>TL,SE,R1,D1
+11/14/21,Sawatch,N,>TL,SE,R1,D1
+11/14/21,Sawatch,N,>TL,SE,R1,D1
+11/14/21,Vail & Summit County,AS,TL,NE,R1,D1.5
+11/14/21,Vail & Summit County,N,>TL,E,R1,D1.5
+11/15/21,Vail & Summit County,N,>TL,N,R1,D1
+11/15/21,Vail & Summit County,N,>TL,E,R1,D2
+11/15/21,Sawatch,N,>TL,NE,R2,D1.5
+11/19/21,UNK,AS,>TL,NE,R3,D5
+11/20/21,Gunnison,AS,>TL,NE,R1,D1
+11/20/21,Front Range,AS,<TL,N,,D1
+11/21/21,Sawatch,AS,>TL,E,R1,D1.5
+11/21/21,Gunnison,AS,TL,E,R1,D1
+11/21/21,Front Range,AS,>TL,NE,,D1
+11/21/21,Front Range,AS,>TL,NE,,D1
+11/21/21,Front Range,AS,>TL,NE,,D1.5
+11/21/21,Vail & Summit County,AS,>TL,E,,D1.5
+11/23/21,Front Range,N,>TL,E,R1,D1
+11/24/21,South San Juan,N,>TL,N,R1,D1.5
+11/24/21,South San Juan,N,>TL,N,R1,D1.5
+11/24/21,Gunnison,N,TL,NE,R1,D1
+11/24/21,Gunnison,N,TL,NE,R1,D1
+11/24/21,Gunnison,N,TL,NE,R1,D1
+11/24/21,Gunnison,N,TL,N,R1,D1
+11/24/21,Gunnison,N,TL,N,R1,D1
+11/24/21,Gunnison,N,>TL,E,R1,D1.5
+11/24/21,Gunnison,N,>TL,E,R1,D1.5
+11/24/21,Gunnison,N,>TL,E,R1,D1.5
+11/24/21,Gunnison,N,>TL,SE,R1,D1.5
+11/24/21,South San Juan,N,>TL,N,R1,D1
+11/24/21,Gunnison,N,>TL,NE,R1,D1
+11/24/21,Gunnison,N,>TL,NE,R1,D1
+11/24/21,Gunnison,N,>TL,NE,R1,D1
+11/24/21,Gunnison,N,>TL,NE,R1,D1
+11/25/21,Vail & Summit County,AS,>TL,SE,R1,D1
+11/26/21,North San Juan,N,TL,NE,R1,D1
+11/26/21,Aspen,AS,>TL,NW,R1,D1
+11/27/21,Vail & Summit County,AS,>TL,NE,R1,D1
+11/28/21,South San Juan,AS,TL,NE,R1,D1
+11/28/21,Front Range,N,<TL,N,R1,D1
+11/28/21,Front Range,N,TL,E,R2,D2
+11/29/21,Gunnison,N,>TL,W,R1,D1.5
+12/1/21,Gunnison,N,>TL,SE,R1,D1
+12/1/21,Gunnison,N,>TL,SE,R1,D1
+12/1/21,Sawatch,N,>TL,E,R1,D1
+12/1/21,Sawatch,N,>TL,E,R1,D1
+12/6/21,Steamboat & Flat Tops,AS,TL,E,R1,D1
+12/7/21,Sawatch,AS,>TL,E,R1,D1
+12/7/21,Gunnison,AS,>TL,E,R1,D1
+12/7/21,Aspen,AS,<TL,E,R1,D1
+12/8/21,Gunnison,AS,>TL,NE,R1,D1
+12/8/21,Gunnison,AS,TL,NE,R1,D1
+12/8/21,Gunnison,AS,TL,NE,R1,D1
+12/8/21,North San Juan,AS,<TL,NE,R1,D1
+12/9/21,South San Juan,AS,TL,NE,R2,D1.5
+12/9/21,North San Juan,N,TL,SW,R1,D1
+12/9/21,North San Juan,N,TL,SW,R1,D1
+12/9/21,North San Juan,N,TL,SW,R1,D1
+12/9/21,North San Juan,N,TL,E,R1,D1
+12/9/21,North San Juan,N,TL,E,R1,D1
+12/9/21,North San Juan,N,TL,E,R1,D1
+12/9/21,Sawatch,AS,TL,E,R1,D1
+12/9/21,Gunnison,N,<TL,N,R1,D1
+12/9/21,Gunnison,N,<TL,N,R1,D1
+12/9/21,Gunnison,N,<TL,N,R1,D1
+12/9/21,Gunnison,N,<TL,N,R1,D1
+12/9/21,Gunnison,N,<TL,N,R1,D1
+12/9/21,Gunnison,N,<TL,N,R1,D1
+12/9/21,Aspen,N,>TL,SW,R2,D2
+12/9/21,Gunnison,N,TL,NE,R2,D2
+12/9/21,Gunnison,N,TL,NE,R2,D2
+12/9/21,Gunnison,N,TL,NE,R2,D2
+12/9/21,Gunnison,N,TL,NE,R2,D2
+12/9/21,Gunnison,N,TL,NE,R2,D2
+12/9/21,Gunnison,N,TL,NE,R2,D2
+12/9/21,Gunnison,N,TL,NE,R2,D2
+12/9/21,Gunnison,N,>TL,E,R2,D2
+12/9/21,Gunnison,N,TL,E,R2,D2
+12/9/21,Gunnison,N,<TL,NE,R2,D1.5
+12/9/21,Gunnison,N,<TL,NE,R2,D2
+12/9/21,Gunnison,N,<TL,NE,R1,D1
+12/9/21,Gunnison,N,<TL,N,R2,D1.5
+12/9/21,Gunnison,N,TL,NE,R1,D1.5
+12/9/21,Gunnison,N,TL,NE,R1,D1.5
+12/9/21,Gunnison,N,TL,NE,R1,D1.5
+12/9/21,Gunnison,N,TL,NE,R1,D1.5
+12/9/21,Gunnison,N,TL,N,R2,D2
+12/9/21,Gunnison,N,TL,N,R2,D2
+12/9/21,Gunnison,N,TL,N,R2,D2
+12/9/21,Gunnison,N,TL,N,R2,D2
+12/9/21,Gunnison,N,TL,N,R2,D2
+12/9/21,Gunnison,N,TL,NE,R2,D2
+12/9/21,Gunnison,N,TL,NE,R2,D2
+12/9/21,Gunnison,N,TL,NE,R2,D2
+12/9/21,Aspen,AS,TL,NW,R1,D2
+12/9/21,Aspen,AS,>TL,NE,R2,D2.5
+12/9/21,Aspen,N,<TL,S,R1,D1
+12/9/21,Gunnison,N,TL,N,R2,D2
+12/9/21,Gunnison,N,TL,N,R2,D2
+12/9/21,Gunnison,N,TL,N,R2,D2
+12/9/21,Gunnison,N,TL,N,R2,D2
+12/9/21,Gunnison,N,TL,N,R2,D2
+12/9/21,Gunnison,N,>TL,NE,R2,D2
+12/9/21,Gunnison,N,>TL,NE,R2,D2
+12/9/21,Gunnison,N,>TL,NE,R2,D2
+12/9/21,Gunnison,N,TL,E,R2,D2
+12/9/21,Gunnison,N,<TL,N,R1,D1
+12/9/21,Gunnison,N,<TL,N,R1,D1
+12/9/21,Gunnison,N,<TL,N,R1,D1
+12/9/21,Gunnison,N,<TL,N,R1,D1
+12/9/21,Gunnison,N,<TL,N,R1,D1
+12/9/21,Gunnison,N,<TL,N,R1,D1
+12/9/21,Gunnison,N,TL,SE,R1,D1.5
+12/9/21,Aspen,N,>TL,NW,R2,D2
+12/9/21,Aspen,N,>TL,NW,R2,D2
+12/9/21,Gunnison,N,TL,NE,R1,D1.5
+12/9/21,Gunnison,N,TL,NE,R1,D1.5
+12/9/21,Gunnison,N,TL,NE,R1,D1.5
+12/9/21,Gunnison,N,TL,NE,R1,D1.5
+12/9/21,Gunnison,N,<TL,N,R2,D1.5
+12/9/21,Gunnison,N,<TL,N,R2,D1.5
+12/9/21,Gunnison,N,<TL,NE,R1,D1
+12/9/21,Gunnison,N,<TL,NE,R1,D1
+12/9/21,Gunnison,N,<TL,NE,R1,D1
+12/9/21,Gunnison,N,<TL,NE,R1,D1
+12/9/21,Gunnison,N,<TL,NE,R2,D1.5
+12/9/21,Gunnison,N,<TL,NE,R2,D2
+12/9/21,Gunnison,N,<TL,NE,R2,D2
+12/9/21,Gunnison,N,<TL,NE,R2,D2
+12/9/21,Gunnison,N,<TL,W,R2,D2
+12/9/21,Gunnison,N,TL,NE,R2,D2
+12/9/21,Gunnison,AS,<TL,NE,R1,D1
+12/9/21,Gunnison,AS,<TL,NE,R1,D1
+12/9/21,Gunnison,AS,<TL,NE,R1,D1
+12/9/21,Gunnison,AS,<TL,NE,R1,D1
+12/9/21,Gunnison,AS,<TL,NE,R1,D1
+12/9/21,Gunnison,AS,<TL,NE,R2,D2
+12/9/21,Gunnison,AS,<TL,NE,R2,D2
+12/9/21,Gunnison,AS,TL,NE,R2,D2
+12/9/21,Gunnison,AS,TL,NE,R2,D2
+12/9/21,Gunnison,AS,<TL,NE,R2,D1.5
+12/9/21,Gunnison,N,<TL,NE,R1,D1.5
+12/9/21,Gunnison,N,<TL,NE,R1,D1.5
+12/9/21,Gunnison,N,<TL,NE,R1,D1.5
+12/9/21,Gunnison,N,<TL,NE,R1,D1.5
+12/9/21,Gunnison,N,<TL,NE,R1,D1.5
+12/9/21,Gunnison,N,<TL,NE,R1,D1.5
+12/9/21,Gunnison,N,<TL,NE,R1,D1.5
+12/9/21,Gunnison,N,<TL,NE,R1,D1.5
+12/9/21,Gunnison,N,<TL,NE,R1,D1.5
+12/9/21,Gunnison,N,<TL,NE,R1,D1.5
+12/9/21,Gunnison,N,<TL,NE,R1,D1.5
+12/9/21,Gunnison,N,<TL,NE,R1,D1.5
+12/9/21,Gunnison,N,TL,E,R2,D2
+12/9/21,Gunnison,N,TL,E,R2,D2
+12/9/21,Gunnison,N,TL,E,R2,D2
+12/9/21,Gunnison,N,TL,NE,R2,D2
+12/9/21,Gunnison,N,TL,NE,R2,D2
+12/9/21,Gunnison,N,TL,NE,R2,D2
+12/9/21,Gunnison,N,TL,NE,R2,D2
+12/9/21,Gunnison,N,<TL,NE,R1,D1
+12/9/21,Gunnison,AS,<TL,NE,R1,D1
+12/9/21,Gunnison,AS,<TL,NE,R1,D1
+12/9/21,North San Juan,N,<TL,SE,R2,D1
+12/10/21,North San Juan,N,TL,E,R1,D1
+12/10/21,North San Juan,AS,<TL,NE,R1,D1.5
+12/10/21,North San Juan,N,<TL,NE,R1,D1
+12/10/21,North San Juan,AS,<TL,N,R2,D2
+12/10/21,North San Juan,AS,<TL,NE,R2,D2
+12/10/21,North San Juan,AS,TL,E,R2,D2
+12/10/21,North San Juan,AS,<TL,SE,R2,D2
+12/10/21,Vail & Summit County,U,<TL,NE,R2,D1
+12/10/21,South San Juan,N,<TL,N,R1,D1
+12/10/21,South San Juan,N,TL,N,R1,D1.5
+12/10/21,Gunnison,N,<TL,NW,R2,D1.5
+12/10/21,South San Juan,AS,TL,N,R2,D2
+12/10/21,South San Juan,U,<TL,N,,D1.5
+12/10/21,South San Juan,U,<TL,N,,D1.5
+12/10/21,South San Juan,U,<TL,N,,D1.5
+12/10/21,South San Juan,N,<TL,N,R1,D1
+12/10/21,South San Juan,N,<TL,N,R1,D1
+12/10/21,South San Juan,N,<TL,N,R1,D1
+12/10/21,South San Juan,N,<TL,N,R1,D1
+12/10/21,South San Juan,N,<TL,N,R1,D1
+12/10/21,North San Juan,N,<TL,SE,R2,D1
+12/10/21,South San Juan,N,TL,N,R1,D1.5
+12/10/21,South San Juan,N,TL,N,R1,D1.5
+12/10/21,South San Juan,N,TL,N,R1,D1.5
+12/10/21,North San Juan,N,>TL,NE,R3,D2
+12/10/21,North San Juan,N,<TL,E,R2,D1.5
+12/10/21,North San Juan,N,<TL,E,R2,D1.5
+12/10/21,North San Juan,N,>TL,NW,R2,D2
+12/10/21,North San Juan,N,<TL,NE,R2,D1
+12/10/21,Sawatch,N,TL,NE,R1,D1.5
+12/10/21,Gunnison,N,<TL,NE,R2,D1.5
+12/10/21,Gunnison,N,<TL,NE,R2,D1.5
+12/10/21,Gunnison,N,<TL,NE,R2,D1.5
+12/10/21,Gunnison,N,<TL,NE,R2,D1.5
+12/10/21,Gunnison,N,<TL,NE,R2,D1.5
+12/10/21,Gunnison,N,<TL,NE,R2,D1.5
+12/10/21,Gunnison,N,<TL,NW,R2,D1.5
+12/10/21,Gunnison,N,<TL,NW,R2,D1.5
+12/10/21,Gunnison,N,TL,E,R2,D2
+12/10/21,Gunnison,N,TL,NE,R2,D2
+12/10/21,Gunnison,N,TL,NE,R2,D2
+12/10/21,Gunnison,N,<TL,NE,R2,D2
+12/10/21,South San Juan,N,>TL,E,R3,D2
+12/10/21,South San Juan,N,>TL,NE,R1,D2
+12/10/21,North San Juan,N,,N,R1,D1.5
+12/10/21,North San Juan,N,,N,R1,D1.5
+12/10/21,North San Juan,N,,N,R1,D1.5
+12/10/21,North San Juan,N,,N,R1,D1.5
+12/10/21,North San Juan,N,,N,R1,D1.5
+12/10/21,North San Juan,N,,N,R1,D1.5
+12/10/21,North San Juan,N,,N,R1,D1.5
+12/10/21,North San Juan,N,,NE,R1,D1.5
+12/10/21,North San Juan,N,,NE,R1,D1.5
+12/10/21,North San Juan,N,,NE,R1,D1.5
+12/10/21,North San Juan,N,,NE,R1,D1.5
+12/10/21,North San Juan,N,,NE,R1,D1.5
+12/10/21,North San Juan,N,,NE,R1,D1.5
+12/10/21,North San Juan,N,,NE,R1,D1.5
+12/10/21,Aspen,N,>TL,S,R2,D2
+12/10/21,Aspen,N,>TL,E,R2,D2
+12/10/21,Aspen,N,>TL,E,R2,D2
+12/10/21,North San Juan,N,>TL,NW,R2,D2
+12/10/21,North San Juan,N,TL,W,R2,D2
+12/10/21,North San Juan,N,>TL,NE,R2,D1.5
+12/10/21,North San Juan,N,<TL,N,R2,D1.5
+12/10/21,North San Juan,N,>TL,E,R2,D2
+12/10/21,North San Juan,N,>TL,NE,R2,D2
+12/10/21,North San Juan,N,>TL,W,R2,D2
+12/10/21,North San Juan,N,>TL,NW,R2,D2
+12/10/21,North San Juan,N,>TL,NW,R2,D2
+12/10/21,North San Juan,N,>TL,NE,R2,D2
+12/10/21,North San Juan,N,>TL,NE,R2,D2
+12/10/21,North San Juan,N,>TL,NE,R2,D2
+12/10/21,Vail & Summit County,U,>TL,NE,R1,D2
+12/10/21,Gunnison,N,TL,NE,R3,D2
+12/10/21,Gunnison,N,>TL,NE,R2,D3
+12/10/21,Gunnison,N,>TL,NE,R2,D3
+12/10/21,Gunnison,N,>TL,NE,R2,D3
+12/10/21,Gunnison,N,>TL,E,R2,D2
+12/10/21,Gunnison,N,>TL,SE,R2,D2.5
+12/10/21,Gunnison,N,TL,E,R2,D2
+12/10/21,Aspen,N,TL,E,R1,D2
+12/10/21,Aspen,N,TL,NE,R1,D2
+12/10/21,Aspen,N,TL,NE,R1,D2
+12/10/21,Aspen,N,TL,NE,R1,D1.5
+12/10/21,Aspen,N,TL,NE,R1,D1.5
+12/10/21,Aspen,N,TL,NE,R1,D1.5
+12/10/21,Gunnison,N,TL,NE,R2,D2
+12/10/21,Gunnison,N,TL,NE,R2,D2
+12/10/21,Gunnison,N,TL,NE,R2,D2
+12/10/21,Aspen,N,>TL,NE,R2,D2.5
+12/10/21,Aspen,N,>TL,NE,R2,D2.5
+12/10/21,Aspen,N,TL,NE,R1,D1
+12/10/21,Aspen,N,>TL,E,R1,D2
+12/10/21,Aspen,N,TL,NW,R2,D2
+12/10/21,Aspen,N,>TL,NE,R1,D2
+12/10/21,Aspen,N,>TL,NE,R1,D2
+12/10/21,Aspen,N,>TL,E,R1,D1
+12/10/21,Aspen,N,<TL,NE,R2,D1
+12/10/21,Aspen,N,<TL,NE,R2,D1.5
+12/10/21,Aspen,N,<TL,NE,R2,D1.5
+12/10/21,Aspen,N,<TL,NE,R2,D1
+12/10/21,Aspen,N,<TL,NE,R2,D1
+12/10/21,Aspen,N,<TL,NE,R2,D1
+12/10/21,Aspen,N,<TL,NE,R2,D1.5
+12/10/21,Aspen,N,>TL,E,R1,D2
+12/10/21,Aspen,N,>TL,E,R1,D1.5
+12/10/21,Gunnison,N,<TL,NE,R1,D1
+12/10/21,Gunnison,N,<TL,NE,R1,D1
+12/10/21,Gunnison,N,<TL,NE,R1,D1
+12/10/21,Gunnison,N,<TL,E,R2,D2
+12/10/21,Gunnison,N,<TL,E,R2,D2
+12/10/21,Gunnison,N,>TL,NE,R1,D1.5
+12/10/21,Gunnison,N,>TL,NE,R1,D1.5
+12/10/21,Gunnison,N,>TL,SE,R1,D1.5
+12/10/21,Gunnison,N,>TL,SE,R1,D1.5
+12/10/21,Gunnison,N,TL,W,R2,D1.5
+12/10/21,Gunnison,N,<TL,NE,R2,D2
+12/10/21,North San Juan,N,TL,N,R2,D2
+12/10/21,North San Juan,N,TL,N,R2,D2
+12/10/21,North San Juan,N,TL,N,R2,D2
+12/10/21,North San Juan,N,TL,N,R2,D2
+12/10/21,North San Juan,N,>TL,NW,R2,D2
+12/10/21,North San Juan,N,>TL,NW,R2,D2
+12/10/21,North San Juan,N,>TL,N,R2,D2
+12/10/21,North San Juan,N,<TL,N,R2,D2
+12/10/21,North San Juan,N,<TL,N,R2,D2
+12/10/21,North San Juan,N,<TL,N,R2,D2
+12/10/21,Gunnison,N,<TL,N,R1,D1
+12/10/21,Gunnison,N,<TL,N,R1,D1
+12/10/21,Gunnison,N,<TL,N,R1,D1
+12/10/21,Gunnison,N,<TL,N,R1,D1
+12/10/21,Gunnison,N,<TL,N,R1,D1
+12/10/21,Gunnison,N,<TL,N,R1,D1
+12/10/21,Gunnison,AS,<TL,NE,R1,D1
+12/10/21,Gunnison,AS,<TL,NE,R1,D2
+12/10/21,Aspen,N,TL,NW,R2,D2
+12/10/21,Aspen,N,TL,NE,R2,D1
+12/10/21,South San Juan,N,>TL,NE,,D2
+12/10/21,South San Juan,N,TL,N,,D1.5
+12/10/21,South San Juan,N,TL,N,,D1.5
+12/10/21,South San Juan,N,TL,N,,D1.5
+12/10/21,South San Juan,N,TL,N,,D1.5
+12/10/21,South San Juan,N,TL,N,,D1.5
+12/10/21,South San Juan,N,TL,N,,D1.5
+12/10/21,South San Juan,N,>TL,NW,,D2
+12/10/21,Gunnison,N,>TL,W,R2,D2
+12/10/21,Gunnison,N,>TL,S,R2,D2
+12/10/21,Gunnison,N,>TL,S,R2,D2
+12/10/21,Gunnison,N,>TL,S,R2,D2
+12/10/21,Gunnison,N,<TL,N,R1,D1
+12/10/21,Gunnison,N,<TL,N,R1,D1
+12/10/21,Gunnison,N,>TL,SE,R1,D1.5
+12/10/21,Gunnison,N,TL,NW,R2,D2
+12/10/21,Gunnison,N,>TL,E,R2,D2
+12/10/21,Gunnison,N,>TL,E,R2,D2
+12/10/21,Gunnison,N,>TL,E,R2,D2
+12/10/21,Gunnison,N,>TL,E,R2,D2
+12/10/21,Gunnison,N,>TL,E,R2,D2
+12/10/21,Gunnison,N,>TL,E,R2,D2
+12/10/21,Gunnison,N,>TL,E,R2,D2
+12/10/21,Gunnison,N,>TL,E,R2,D2
+12/10/21,Gunnison,N,>TL,E,R2,D2
+12/10/21,Gunnison,N,>TL,E,R2,D2
+12/10/21,Gunnison,N,>TL,SE,R2,D2
+12/10/21,Gunnison,N,>TL,SE,R2,D2
+12/10/21,Gunnison,N,>TL,SE,R2,D2
+12/10/21,Gunnison,N,>TL,SE,R2,D2
+12/10/21,Gunnison,N,>TL,SE,R2,D2
+12/10/21,Gunnison,N,<TL,W,R2,D2
+12/10/21,Gunnison,N,TL,N,R2,D2
+12/10/21,Gunnison,N,TL,N,R2,D2
+12/10/21,Gunnison,N,TL,N,R2,D2
+12/10/21,Gunnison,N,>TL,E,R2,D2
+12/10/21,Gunnison,N,>TL,E,R2,D2
+12/10/21,Gunnison,N,<TL,NE,R1,D1
+12/10/21,Gunnison,N,>TL,NE,R2,D2
+12/10/21,Gunnison,N,>TL,NE,R2,D2
+12/10/21,Gunnison,N,>TL,SE,R1,D1.5
+12/10/21,Gunnison,N,<TL,E,R2,D2
+12/10/21,Gunnison,N,<TL,E,R2,D2
+12/10/21,Gunnison,N,TL,E,R2,D2
+12/10/21,Gunnison,N,>TL,NE,R1,D1.5
+12/10/21,Gunnison,N,>TL,NE,R1,D1.5
+12/10/21,Gunnison,N,<TL,NE,R1,D1
+12/10/21,Gunnison,N,<TL,NE,R1,D1
+12/10/21,Gunnison,N,<TL,NE,R1,D1
+12/10/21,Gunnison,N,>TL,NE,R2,D2.5
+12/10/21,Gunnison,N,>TL,NE,R2,D2.5
+12/10/21,Gunnison,N,>TL,NE,R2,D2.5
+12/10/21,Gunnison,N,>TL,NE,R2,D2.5
+12/10/21,Gunnison,N,>TL,NE,R3,D2
+12/10/21,Gunnison,N,>TL,N,R3,D3
+12/10/21,Gunnison,N,<TL,NE,R2,D1.5
+12/10/21,Gunnison,N,<TL,NE,R2,D1.5
+12/10/21,Gunnison,N,<TL,NE,R2,D1.5
+12/10/21,Gunnison,N,<TL,NE,R2,D1.5
+12/10/21,Gunnison,N,<TL,NE,R2,D1.5
+12/10/21,Gunnison,N,<TL,NE,R2,D1.5
+12/10/21,Gunnison,N,>TL,NE,R2,D2
+12/10/21,Gunnison,N,>TL,NE,R2,D2
+12/10/21,Gunnison,N,>TL,NE,R2,D2
+12/10/21,Gunnison,N,>TL,NE,R2,D2
+12/10/21,Gunnison,N,<TL,NW,R2,D1.5
+12/10/21,Gunnison,N,<TL,N,R2,D2
+12/10/21,Gunnison,N,<TL,N,R2,D2
+12/10/21,Gunnison,N,<TL,N,R2,D2
+12/10/21,Gunnison,N,TL,SE,R1,D1.5
+12/10/21,Gunnison,N,>TL,NE,R2,D2
+12/10/21,Gunnison,N,>TL,E,R2,D2
+12/10/21,Gunnison,N,<TL,NE,R2,D2
+12/10/21,Gunnison,N,<TL,NE,R2,D2
+12/10/21,Gunnison,N,<TL,NE,R2,D2
+12/10/21,Gunnison,N,<TL,NE,R2,D2
+12/10/21,Gunnison,N,<TL,NE,R2,D2
+12/10/21,Gunnison,N,<TL,E,R1,D1.5
+12/10/21,Gunnison,N,<TL,E,R1,D1.5
+12/10/21,Gunnison,N,<TL,E,R1,D1.5
+12/10/21,Aspen,N,>TL,NE,R2,D2
+12/10/21,Aspen,N,>TL,NE,R2,D2
+12/10/21,Aspen,N,>TL,NE,R2,D2
+12/10/21,Gunnison,N,>TL,SE,R2,D2
+12/10/21,Gunnison,N,>TL,E,R2,D2
+12/10/21,Gunnison,N,TL,NE,R2,D2
+12/10/21,Gunnison,N,TL,NE,R2,D2
+12/10/21,Gunnison,N,TL,NE,R2,D2
+12/10/21,Gunnison,N,TL,NE,R2,D2
+12/10/21,Gunnison,N,TL,NE,R2,D2
+12/10/21,Gunnison,N,<TL,E,R1,D1.5
+12/10/21,Gunnison,N,<TL,E,R1,D1.5
+12/10/21,Gunnison,N,<TL,E,R1,D1.5
+12/10/21,Gunnison,N,<TL,E,R1,D1.5
+12/10/21,Gunnison,N,<TL,E,R1,D1.5
+12/10/21,Gunnison,N,>TL,NE,R2,D2
+12/10/21,Gunnison,N,>TL,NE,R2,D2
+12/10/21,Gunnison,N,TL,E,R1,D1.5
+12/10/21,Gunnison,N,TL,E,R1,D1.5
+12/10/21,Gunnison,N,TL,E,R1,D1.5
+12/10/21,Gunnison,N,TL,E,R1,D1.5
+12/10/21,Gunnison,N,TL,N,R1,D1.5
+12/10/21,Gunnison,N,TL,N,R1,D1.5
+12/10/21,Gunnison,N,TL,N,R1,D1.5
+12/10/21,Gunnison,N,TL,N,R1,D1.5
+12/10/21,Gunnison,N,<TL,NE,R2,D1.5
+12/10/21,Gunnison,N,<TL,NE,R2,D1.5
+12/10/21,Gunnison,N,<TL,NE,R2,D1.5
+12/10/21,Gunnison,N,<TL,N,R1,D1
+12/10/21,Gunnison,N,<TL,N,R1,D1
+12/10/21,Gunnison,N,TL,NE,R1,D1.5
+12/10/21,Gunnison,N,TL,NE,R1,D1.5
+12/10/21,Gunnison,N,TL,NE,R1,D1.5
+12/10/21,Gunnison,N,TL,N,R1,D1.5
+12/10/21,Gunnison,N,TL,N,R1,D1.5
+12/10/21,Gunnison,N,TL,NE,R1,D2
+12/10/21,South San Juan,N,TL,NE,R2,D2
+12/10/21,South San Juan,N,<TL,N,R1,D1
+12/10/21,South San Juan,N,<TL,N,R1,D1
+12/10/21,South San Juan,N,<TL,NE,R1,D1
+12/10/21,South San Juan,N,<TL,NE,R1,D1
+12/10/21,South San Juan,N,<TL,E,R1,D1
+12/10/21,South San Juan,N,<TL,E,R1,D1
+12/10/21,South San Juan,N,>TL,E,R1,D2
+12/10/21,Grand Mesa,N,<TL,N,R2,D1.5
+12/10/21,Grand Mesa,N,<TL,W,R2,D1.5
+12/10/21,Grand Mesa,N,<TL,NW,R2,D1.5
+12/10/21,Front Range,AX,<TL,N,R2,D1.5
+12/10/21,Front Range,AX,,N,R2,D1
+12/10/21,Front Range,AX,TL,N,R2,D1.5
+12/10/21,Front Range,AX,>TL,N,R2,D1.5
+12/10/21,Front Range,AX,TL,N,R2,D1
+12/10/21,North San Juan,N,<TL,NE,R2,D1.5
+12/10/21,North San Juan,N,<TL,NE,R2,D1.5
+12/10/21,Grand Mesa,AE,<TL,SE,R1,D1
+12/10/21,Grand Mesa,AE,<TL,SW,R1,D1
+12/10/21,Grand Mesa,AE,<TL,NW,R2,D1
+12/10/21,North San Juan,N,<TL,E,R2,D1
+12/10/21,North San Juan,AE,<TL,SE,R2,D2
+12/10/21,North San Juan,AE,<TL,E,R1,D1.5
+12/10/21,North San Juan,AE,<TL,SE,R1,D1.5
+12/10/21,Sawatch,N,>TL,SE,R1,D1
+12/10/21,North San Juan,AR,<TL,N,R1,D1.5
+12/10/21,Sawatch,N,>TL,NE,R2,D2
+12/10/21,Front Range,U,TL,E,R2,D1
+12/10/21,Front Range,N,>TL,E,R2,D1.5
+12/10/21,Front Range,N,>TL,E,R1,D1
+12/10/21,North San Juan,AE,<TL,SE,R2,D2
+12/10/21,North San Juan,AE,<TL,E,R1,D1.5
+12/11/21,Vail & Summit County,U,>TL,NE,R2,D2
+12/11/21,Vail & Summit County,U,TL,NW,R1,D1
+12/11/21,Vail & Summit County,U,TL,E,R2,D1.5
+12/11/21,Vail & Summit County,U,TL,E,R2,D1.5
+12/11/21,South San Juan,N,TL,NW,R1,D1
+12/11/21,South San Juan,N,TL,N,R1,D1
+12/11/21,Gunnison,N,>TL,NE,R2,D2
+12/11/21,Gunnison,N,>TL,NE,R2,D2
+12/11/21,Gunnison,N,>TL,NE,R2,D2
+12/11/21,Gunnison,N,>TL,NE,R2,D2
+12/11/21,Gunnison,N,>TL,NE,R2,D2
+12/11/21,Gunnison,N,>TL,NE,R2,D2
+12/11/21,North San Juan,AS,<TL,NE,R2,D2
+12/11/21,Sawatch,N,>TL,NE,R1,D1.5
+12/11/21,Sawatch,AS,TL,NE,R1,D1
+12/11/21,Vail & Summit County,N,<TL,E,R2,D1.5
+12/11/21,Sawatch,N,<TL,NE,R2,D1.5
+12/11/21,Gunnison,N,<TL,NE,R1,D2
+12/11/21,Gunnison,N,<TL,NE,R1,D2
+12/11/21,Gunnison,N,<TL,NE,R1,D2
+12/11/21,Gunnison,N,,N,R1,D1.5
+12/11/21,Gunnison,N,,N,R1,D1.5
+12/11/21,Gunnison,N,,N,R1,D1.5
+12/11/21,Vail & Summit County,N,TL,E,R3,D2
+12/11/21,Gunnison,N,<TL,NE,R2,D2
+12/11/21,Gunnison,AS,<TL,N,R2,D1
+12/11/21,Front Range,AS,>TL,,R2,D2
+12/11/21,North San Juan,N,<TL,N,R1,D1
+12/11/21,North San Juan,N,<TL,N,R1,D1
+12/11/21,North San Juan,N,<TL,N,R1,D1
+12/11/21,North San Juan,N,<TL,NW,R1,D1
+12/11/21,North San Juan,N,<TL,NW,R1,D1
+12/11/21,North San Juan,N,<TL,NW,R1,D1
+12/11/21,Vail & Summit County,N,>TL,NE,R2,D1
+12/11/21,Vail & Summit County,U,>TL,E,R2,D2
+12/11/21,North San Juan,N,>TL,NW,R1,D2
+12/11/21,North San Juan,N,>TL,NW,R1,D2
+12/11/21,North San Juan,N,>TL,NW,R1,D2
+12/11/21,North San Juan,N,>TL,N,R1,D2
+12/11/21,Sawatch,N,<TL,NE,R1,D1
+12/11/21,North San Juan,AS,<TL,W,R1,D1
+12/11/21,South San Juan,N,>TL,NE,R1,D1.5
+12/11/21,South San Juan,N,>TL,NE,R1,D1.5
+12/11/21,South San Juan,N,>TL,NE,R1,D1.5
+12/11/21,Front Range,N,>TL,NE,R2,D2
+12/11/21,Front Range,N,>TL,E,R1,D1
+12/11/21,Front Range,N,>TL,E,R2,D1
+12/12/21,North San Juan,AS,<TL,NW,R2,D2
+12/12/21,Sawatch,AS,TL,E,R2,D2
+12/12/21,Vail & Summit County,N,>TL,E,R2,D2
+12/12/21,Vail & Summit County,N,>TL,E,R2,D2
+12/12/21,North San Juan,AS,<TL,N,R2,D2
+12/12/21,Vail & Summit County,U,TL,NE,R2,D1.5
+12/12/21,Vail & Summit County,N,>TL,E,R2,D2
+12/12/21,Vail & Summit County,N,>TL,E,R1,D1.5
+12/12/21,Vail & Summit County,N,>TL,E,R2,D2
+12/12/21,Vail & Summit County,N,>TL,E,R2,D2
+12/12/21,Vail & Summit County,N,>TL,E,R2,D2
+12/12/21,Aspen,N,<TL,NE,R3,D1.5
+12/12/21,Sawatch,N,<TL,E,R1,D1.5
+12/13/21,Aspen,N,<TL,E,R2,D2
+12/13/21,Aspen,N,<TL,E,R2,D2
+12/13/21,Aspen,N,<TL,N,R2,D1
+12/13/21,Aspen,N,<TL,N,R2,D1
+12/13/21,Aspen,N,<TL,N,R2,D1.5
+12/13/21,Aspen,N,<TL,N,R2,D1.5
+12/13/21,Aspen,N,<TL,N,R2,D1.5
+12/13/21,Aspen,N,<TL,N,R2,D1.5
+12/13/21,Aspen,N,<TL,NW,R2,D1.5
+12/13/21,South San Juan,N,<TL,NE,R1,D1
+12/13/21,North San Juan,U,TL,NE,R1,D2
+12/14/21,Vail & Summit County,U,TL,NE,R2,D2
+12/14/21,Gunnison,N,TL,NE,R1,D2
+12/14/21,Gunnison,N,TL,NE,R1,D2
+12/14/21,Gunnison,N,TL,NE,R1,D1.5
+12/14/21,Gunnison,N,TL,NE,R1,D1.5
+12/14/21,Gunnison,N,TL,NE,R1,D1.5
+12/14/21,Gunnison,N,TL,N,R1,D1.5
+12/14/21,Gunnison,N,TL,N,R1,D1.5
+12/14/21,Gunnison,N,<TL,N,R1,D1
+12/14/21,Gunnison,N,<TL,N,R1,D1
+12/15/21,Vail & Summit County,N,TL,N,R2,D2
+12/15/21,North San Juan,N,<TL,NE,R1,D1
+12/15/21,North San Juan,N,<TL,NE,R1,D1
+12/15/21,North San Juan,N,<TL,NE,R1,D1
+12/15/21,North San Juan,AS,>TL,NW,R2,D2
+12/15/21,South San Juan,N,>TL,SE,R2,D2
+12/15/21,North San Juan,U,>TL,W,R2,D2
+12/15/21,Gunnison,AS,<TL,E,R1,D1
+12/15/21,Gunnison,N,>TL,NE,R1,D1.5
+12/15/21,Gunnison,N,>TL,NE,R1,D1.5
+12/15/21,Front Range,AS,TL,NW,,D1
+12/15/21,North San Juan,N,>TL,NE,R2,D2
+12/15/21,Sawatch,N,<TL,E,R1,D1
+12/15/21,Sawatch,N,<TL,E,R1,D1
+12/15/21,Sawatch,N,>TL,E,R1,D2
+12/15/21,Sawatch,N,TL,NE,R2,D2.5
+12/15/21,Front Range,U,<TL,E,R1,D1
+12/15/21,South San Juan,N,TL,NW,R1,D2
+12/15/21,South San Juan,N,>TL,NE,R2,D2
+12/15/21,South San Juan,N,>TL,NE,R1,D2
+12/15/21,South San Juan,N,>TL,NE,R1,D2
+12/15/21,North San Juan,N,>TL,NW,R2,D2
+12/15/21,North San Juan,N,>TL,NW,R2,D2
+12/15/21,Sawatch,N,>TL,NE,R2,D2.5
+12/15/21,Vail & Summit County,N,>TL,NE,R2,D2
+12/15/21,Vail & Summit County,N,TL,E,R1,D1
+12/15/21,Vail & Summit County,N,TL,E,R1,D1
+12/15/21,Sawatch,U,TL,E,R1,D2
+12/15/21,Sawatch,N,>TL,E,R2,D2
+12/15/21,Sawatch,N,TL,E,R3,D2
+12/15/21,North San Juan,AS,TL,NE,R2,D2
+12/15/21,North San Juan,N,,E,R2,D2
+12/15/21,Sawatch,N,<TL,NE,R3,D1
+12/16/21,South San Juan,N,TL,E,R2,D1.5
+12/16/21,South San Juan,N,TL,E,R2,D1.5
+12/16/21,South San Juan,N,TL,E,R2,D1.5
+12/16/21,South San Juan,N,TL,NE,R2,D1.5
+12/16/21,South San Juan,N,TL,NE,R2,D2
+12/16/21,North San Juan,AS,<TL,N,R1,D1
+12/16/21,North San Juan,AS,TL,NE,R2,D2
+12/16/21,North San Juan,AM,,NE,R2,D2
+12/16/21,North San Juan,N,>TL,NE,R1,D2
+12/17/21,Sawatch,AS,>TL,NE,R1,D1
+12/17/21,Vail & Summit County,AS,TL,NE,R1,D1.5
+12/17/21,South San Juan,N,>TL,N,R1,D2
+12/17/21,North San Juan,N,<TL,SE,R1,D1
+12/17/21,Vail & Summit County,U,TL,NE,R1,D1.5
+12/17/21,Vail & Summit County,N,>TL,E,R2,D2
+12/17/21,Vail & Summit County,N,>TL,E,R2,D2
+12/17/21,Vail & Summit County,N,>TL,E,R2,D2
+12/17/21,Vail & Summit County,N,>TL,NE,R2,D2
+12/17/21,Vail & Summit County,N,>TL,NE,R2,D2
+12/17/21,Vail & Summit County,N,>TL,NE,R2,D2
+12/17/21,Gunnison,N,>TL,,R1,D1
+12/17/21,Gunnison,N,>TL,,R1,D1
+12/17/21,Gunnison,N,>TL,,R1,D1
+12/17/21,Gunnison,N,>TL,,R1,D1
+12/17/21,Front Range,AX,TL,N,R2,D1.5
+12/17/21,Front Range,AX,TL,E,R1,D1
+12/17/21,Front Range,AX,TL,N,R1,D1
+12/17/21,Front Range,AX,TL,N,R1,D1
+12/17/21,Front Range,AX,TL,N,R1,D1
+12/17/21,Front Range,AX,TL,N,R1,D1
+12/17/21,Front Range,AR,TL,NW,R2,D2
+12/18/21,Front Range,AS,>TL,NE,R1,D1
+12/18/21,Vail & Summit County,U,>TL,E,,
+12/18/21,Vail & Summit County,AR,>TL,NE,R1,D1
+12/18/21,Vail & Summit County,N,>TL,NE,R2,D2.5
+12/18/21,North San Juan,N,TL,NE,R1,D1
+12/18/21,Sawatch,N,TL,NE,R3,D2
+12/18/21,Vail & Summit County,AW,>TL,SE,R1,D1
+12/18/21,North San Juan,AM,U,U,U,D2
+12/19/21,Vail & Summit County,N,TL,,R1,D1
+12/19/21,Gunnison,AS,<TL,NE,R1,D1
+12/19/21,Sawatch,N,>TL,W,R1,D1.5
+12/19/21,Front Range,N,>TL,E,R1,D1
+12/19/21,North San Juan,N,>TL,NW,R1,D2
+12/19/21,North San Juan,N,>TL,NW,U,U
+12/19/21,Front Range,U,>TL,E,R1,D1
+12/19/21,Aspen,N,>TL,NE,R2,D2
+12/19/21,Sawatch,AS,TL,N,R1,D1
+12/20/21,Vail & Summit County,U,TL,NE,R2,D2
+12/20/21,Vail & Summit County,U,TL,NE,R1,D1.5
+12/20/21,Front Range,AS,<TL,N,R1,D1
+12/20/21,Steamboat & Flat Tops,N,>TL,NE,R2,D2
+12/21/21,South San Juan,N,>TL,N,R2,D2
+12/21/21,South San Juan,N,>TL,N,R2,D2
+12/21/21,South San Juan,N,>TL,NE,R1,D2
+12/21/21,South San Juan,N,TL,NE,R1,D2
+12/21/21,South San Juan,N,TL,NE,R1,D2
+12/21/21,South San Juan,N,TL,NE,R1,D2
+12/21/21,South San Juan,N,<TL,N,R1,D2
+12/21/21,South San Juan,N,<TL,N,R1,D2
+12/21/21,South San Juan,N,>TL,E,R2,D2
+12/21/21,South San Juan,N,>TL,E,R2,D2
+12/21/21,Steamboat & Flat Tops,AS,<TL,NW,R1,D1
+12/22/21,South San Juan,N,>TL,E,R1,D1.5
+12/24/21,Vail & Summit County,N,TL,NE,R2,D2
+12/24/21,Front Range,AS,<TL,E,R1,D1.5
+12/24/21,Sawatch,N,>TL,E,R1,D1
+12/24/21,Sawatch,AS,TL,E,R1,D1
+12/24/21,Sawatch,AS,TL,E,R1,D1
+12/24/21,Front Range,AS,TL,NE,R1,D1
+12/24/21,Front Range,N,TL,NE,R1,D1
+12/24/21,Gunnison,AS,<TL,NE,R2,D1
+12/24/21,Gunnison,N,<TL,NE,R2,D1
+12/24/21,Vail & Summit County,AS,<TL,NW,R1,D1
+12/24/21,North San Juan,N,>TL,N,R2,D2
+12/24/21,North San Juan,N,>TL,N,R2,D2
+12/24/21,North San Juan,N,>TL,NW,R2,D2
+12/24/21,Aspen,N,>TL,NE,R2,D1.5
+12/24/21,Aspen,N,<TL,E,R3,D2
+12/24/21,Aspen,N,<TL,NE,R1,D1.5
+12/24/21,Aspen,N,<TL,NE,R1,D1.5
+12/24/21,Aspen,N,<TL,NE,R1,D1.5
+12/24/21,Aspen,N,<TL,NE,R1,D1.5
+12/24/21,Aspen,N,<TL,NE,R1,D1.5
+12/24/21,Aspen,N,TL,NE,R1,D1.5
+12/24/21,Aspen,N,TL,NE,R1,D1.5
+12/24/21,Aspen,N,>TL,NE,R2,D3
+12/24/21,Gunnison,N,>TL,NE,R2,D3
+12/24/21,Gunnison,U,>TL,S,,D2.5
+12/24/21,Gunnison,N,>TL,NE,R2,D2
+12/24/21,Gunnison,N,>TL,NE,R2,D2
+12/24/21,Gunnison,N,>TL,NE,R2,D2.5
+12/24/21,Gunnison,N,>TL,NE,R2,D2.5
+12/24/21,Gunnison,N,>TL,SE,R3,D3
+12/24/21,Gunnison,N,>TL,SE,R2,D2.5
+12/24/21,Gunnison,N,>TL,NE,R3,D3
+12/24/21,Gunnison,N,>TL,NE,R3,D3
+12/24/21,South San Juan,U,<TL,NE,R3,D2
+12/24/21,Aspen,N,<TL,W,R1,D2
+12/24/21,Aspen,N,<TL,NE,R1,D1
+12/24/21,Aspen,N,<TL,NW,R2,D1.5
+12/24/21,Gunnison,N,<TL,E,R2,D1.5
+12/24/21,Gunnison,N,<TL,E,R2,D1.5
+12/24/21,South San Juan,N,>TL,E,R1,D2
+12/24/21,Gunnison,N,>TL,E,R3,D2.5
+12/24/21,Gunnison,N,>TL,E,R3,D2.5
+12/24/21,Gunnison,N,TL,SE,R2,D2
+12/24/21,Gunnison,N,>TL,W,R2,D2.5
+12/24/21,Gunnison,N,TL,NE,R3,D2.5
+12/24/21,Front Range,AS,<TL,NE,R1,D1
+12/24/21,Front Range,AS,<TL,E,R2,D2
+12/24/21,Sawatch,N,<TL,E,R3,D2
+12/24/21,Front Range,AX,<TL,N,R2,D1.5
+12/24/21,Front Range,AX,>TL,N,R3,D2
+12/24/21,Front Range,AX,>TL,E,R3,D2
+12/24/21,Front Range,AX,<TL,N,R2,D1
+12/24/21,Front Range,AX,TL,N,R3,D1.5
+12/24/21,Grand Mesa,N,<TL,N,R2,D1
+12/24/21,Vail & Summit County,N,>TL,S,R3,D2
+12/24/21,Front Range,N,<TL,E,R2,D1
+12/24/21,Vail & Summit County,N,>TL,E,R2,D1
+12/24/21,Vail & Summit County,N,TL,E,R2,D2
+12/24/21,Grand Mesa,AE,<TL,NW,R2,D1.5
+12/24/21,Grand Mesa,AE,<TL,N,R2,D1.5
+12/24/21,Grand Mesa,AE,<TL,N,R3,D1.5
+12/24/21,Grand Mesa,AE,<TL,N,R2,D2
+12/24/21,Grand Mesa,AE,<TL,N,R3,D2.5
+12/24/21,Grand Mesa,AE,<TL,NW,R3,D2.5
+12/24/21,Aspen,AS,>TL,NW,R1,D1
+12/24/21,Aspen,AS,>TL,NW,R1,D1
+12/24/21,North San Juan,N,<TL,E,R1,D1.5
+12/24/21,South San Juan,AS,<TL,NE,R2,D1.5
+12/24/21,South San Juan,AL,<TL,SE,R2,D2
+12/24/21,Front Range,AR,<TL,N,R2,D2
+12/24/21,South San Juan,AL,<TL,S,R2,D2
+12/24/21,North San Juan,AB,TL,E,R2,D2
+12/24/21,North San Juan,AE,<TL,E,R2,D2
+12/24/21,South San Juan,AL,<TL,W,R2,D2
+12/24/21,South San Juan,AL,<TL,W,R2,D2
+12/24/21,Sawatch,N,<TL,E,R2,D2
+12/24/21,South San Juan,AL,<TL,SW,R2,D2
+12/24/21,South San Juan,AE,<TL,E,R2,D2
+12/24/21,South San Juan,AL,<TL,E,R2,D2
+12/24/21,South San Juan,AL,<TL,E,R1,D1.5
+12/24/21,North San Juan,AE,<TL,SE,R2,D2
+12/24/21,North San Juan,AE,<TL,E,R2,D2
+12/24/21,Sawatch,AX,<TL,E,R2,D1.5
+12/25/21,Front Range,N,<TL,N,R3,D1.5
+12/25/21,Vail & Summit County,N,>TL,W,R2,D2
+12/25/21,Vail & Summit County,N,>TL,NW,R2,D2
+12/25/21,South San Juan,AX,<TL,E,R2,D1.5
+12/25/21,Front Range,U,>TL,E,R2,D2
+12/25/21,Vail & Summit County,N,TL,E,R2,D2
+12/25/21,Vail & Summit County,N,TL,E,R2,D2
+12/25/21,Vail & Summit County,N,>TL,E,R3,D2
+12/25/21,Front Range,N,>TL,SE,R2,D2
+12/25/21,Front Range,N,>TL,SE,R2,D2
+12/25/21,Sawatch,N,>TL,E,R3,D2.5
+12/25/21,Vail & Summit County,N,>TL,E,R3,D2.5
+12/25/21,Sawatch,N,>TL,N,R2,D1.5
+12/25/21,Sawatch,N,>TL,N,R2,D1.5
+12/25/21,Front Range,AS,>TL,SE,R2,D2
+12/25/21,Front Range,N,TL,NE,R2,D2
+12/25/21,Front Range,N,TL,NE,R1,D1.5
+12/25/21,Vail & Summit County,N,>TL,NE,R2,D2.5
+12/25/21,Vail & Summit County,AM,<TL,E,R1,D1.5
+12/25/21,Front Range,N,TL,N,R1,D1.5
+12/25/21,Front Range,U,<TL,,R1,D1
+12/25/21,North San Juan,N,>TL,NW,R2,D2
+12/25/21,North San Juan,N,>TL,NE,R2,D2
+12/25/21,North San Juan,N,>TL,NE,R1,D2
+12/25/21,Vail & Summit County,N,TL,NW,R1,D1.5
+12/25/21,Gunnison,N,<TL,E,R1,D1
+12/25/21,Vail & Summit County,AS,<TL,N,R3,D1.5
+12/25/21,Vail & Summit County,AS,<TL,W,R1,D1
+12/25/21,Gunnison,N,>TL,SE,R3,D3
+12/25/21,Gunnison,N,>TL,SE,R3,D3
+12/25/21,Gunnison,N,>TL,S,R3,D2.5
+12/25/21,Gunnison,N,>TL,SE,R1,D2
+12/25/21,Gunnison,N,>TL,SE,R1,D2
+12/25/21,Gunnison,N,>TL,SE,R1,D2
+12/25/21,Gunnison,N,,E,R3,D2.5
+12/25/21,Gunnison,N,TL,SE,R3,D2.5
+12/25/21,Gunnison,AS,TL,NE,R1,D2
+12/25/21,Front Range,N,>TL,E,R3,D2
+12/25/21,South San Juan,N,TL,N,R3,D2
+12/25/21,North San Juan,N,TL,N,R2,D2
+12/25/21,North San Juan,N,TL,N,R2,D2
+12/25/21,North San Juan,N,TL,W,R2,D2
+12/25/21,Gunnison,AS,<TL,E,R2,D2.5
+12/25/21,Gunnison,N,>TL,E,R1,D2
+12/25/21,Gunnison,U,>TL,NE,,D3
+12/25/21,Gunnison,N,>TL,N,R2,D2.5
+12/25/21,Vail & Summit County,N,>TL,E,R2,D2
+12/25/21,North San Juan,AS,TL,E,R3,D2
+12/25/21,Front Range,AX,<TL,NE,R4,D2.5
+12/25/21,Vail & Summit County,AX,TL,W,R3,D2
+12/25/21,Vail & Summit County,AX,>TL,W,R2,D1.5
+12/25/21,Front Range,AX,TL,N,R2,D1.5
+12/25/21,Front Range,AX,TL,N,R2,D1.5
+12/25/21,Front Range,AX,TL,E,R2,D2
+12/25/21,Front Range,AX,TL,N,R2,D1.5
+12/25/21,Front Range,AX,TL,N,R1,D1
+12/25/21,Front Range,AX,TL,N,R1,D1
+12/25/21,Vail & Summit County,AE,>TL,E,R3,D1.5
+12/25/21,Vail & Summit County,AE,>TL,E,R2,D1
+12/25/21,Front Range,AE,>TL,NW,R2,D1
+12/25/21,Front Range,AE,>TL,W,R2,D1
+12/25/21,Front Range,AE,TL,SW,R3,D1.5
+12/25/21,Vail & Summit County,N,>TL,W,R2,D1
+12/25/21,Vail & Summit County,N,>TL,E,R2,D1.5
+12/25/21,Aspen,AS,<TL,NE,R2,D2
+12/25/21,Aspen,AS,<TL,N,R1,D1
+12/25/21,Sawatch,N,>TL,N,R2,D2
+12/26/21,Gunnison,N,TL,NE,R2,D3
+12/26/21,Gunnison,N,TL,NE,R2,D2.5
+12/26/21,Gunnison,N,TL,NE,R2,D2.5
+12/26/21,Gunnison,N,TL,NE,R2,D2.5
+12/26/21,Gunnison,N,<TL,NE,R2,D2
+12/26/21,Gunnison,N,<TL,NE,R2,D2
+12/26/21,Gunnison,N,<TL,NE,R2,D2
+12/26/21,Gunnison,N,<TL,NE,R2,D2
+12/26/21,Gunnison,N,TL,NW,R1,D2
+12/26/21,Gunnison,N,TL,NW,R1,D2
+12/26/21,Gunnison,N,TL,NW,R1,D2
+12/26/21,Gunnison,N,>TL,E,R1,D2
+12/26/21,Gunnison,N,>TL,E,R2,D3
+12/26/21,Gunnison,N,>TL,N,R2,D2.5
+12/26/21,Gunnison,N,>TL,N,R2,D2.5
+12/26/21,Gunnison,N,>TL,N,R2,D2.5
+12/26/21,Gunnison,N,>TL,NE,R2,D2.5
+12/26/21,Gunnison,N,>TL,NE,R2,D2.5
+12/26/21,Gunnison,N,>TL,NE,R2,D2.5
+12/26/21,Gunnison,N,>TL,NE,R2,D2.5
+12/26/21,Gunnison,N,>TL,NE,R2,D2.5
+12/26/21,Gunnison,N,TL,E,R2,D2
+12/26/21,Gunnison,N,TL,E,R2,D2
+12/26/21,Gunnison,N,TL,E,R2,D2
+12/26/21,Gunnison,N,TL,E,R2,D2
+12/26/21,Gunnison,N,TL,E,R2,D2
+12/26/21,Gunnison,N,TL,E,R2,D2
+12/26/21,Gunnison,N,TL,E,R2,D2
+12/26/21,Gunnison,N,TL,E,R2,D2
+12/26/21,Gunnison,N,TL,E,R2,D2
+12/26/21,Gunnison,N,TL,E,R2,D2
+12/26/21,Gunnison,N,TL,E,R2,D2
+12/26/21,Gunnison,N,TL,E,R2,D2
+12/26/21,Gunnison,N,<TL,E,R2,D2
+12/26/21,Gunnison,N,<TL,E,R2,D2
+12/26/21,Gunnison,N,<TL,E,R2,D2
+12/26/21,Gunnison,U,TL,E,R2,D1.5
+12/26/21,Front Range,AF,TL,NE,R3,D2
+12/26/21,Sawatch,N,>TL,E,R2,D2
+12/26/21,Vail & Summit County,N,<TL,W,R1,D1
+12/26/21,Front Range,AM,TL,E,R2,D2
+12/26/21,Front Range,AM,TL,E,R2,D2
+12/26/21,Front Range,U,,,,
+12/26/21,Front Range,AV,<TL,E,R1,D1.5
+12/26/21,Front Range,U,,,,
+12/26/21,Vail & Summit County,AS,TL,,R2,D2
+12/26/21,South San Juan,N,<TL,W,,D2
+12/26/21,Gunnison,N,<TL,W,R2,D1.5
+12/26/21,Sawatch,N,TL,NE,R3,D2.5
+12/26/21,Front Range,U,<TL,NE,R2,D1.5
+12/26/21,Front Range,AW,>TL,SE,R2,D2
+12/26/21,Front Range,AS,TL,NE,R3,D2
+12/26/21,Grand Mesa,N,<TL,NE,R2,D1
+12/26/21,North San Juan,N,<TL,NW,R2,D1.5
+12/26/21,Sawatch,N,<TL,NE,R2,D1.5
+12/27/21,North San Juan,N,>TL,NE,U,D2.5
+12/27/21,Sawatch,N,<TL,N,R2,D1.5
+12/27/21,Sawatch,N,<TL,N,R2,D1.5
+12/27/21,Sawatch,N,<TL,N,R2,D1.5
+12/27/21,Sawatch,N,<TL,N,R2,D1.5
+12/27/21,Sawatch,N,<TL,N,R2,D1.5
+12/27/21,Sawatch,N,<TL,N,R2,D1.5
+12/27/21,Sawatch,N,<TL,N,R2,D1.5
+12/27/21,Sawatch,N,<TL,N,R2,D1.5
+12/27/21,Sawatch,N,<TL,N,R2,D1.5
+12/27/21,Sawatch,N,<TL,N,R2,D1.5
+12/27/21,Sawatch,N,<TL,N,R2,D1.5
+12/27/21,Sawatch,N,<TL,N,R2,D1.5
+12/27/21,Vail & Summit County,N,>TL,NE,R1,D1
+12/27/21,Vail & Summit County,N,>TL,E,R2,D2
+12/27/21,Vail & Summit County,U,TL,S,R1,D1.5
+12/27/21,South San Juan,N,TL,N,R3,D2.5
+12/27/21,Vail & Summit County,N,TL,NE,R1,D1.5
+12/27/21,Front Range,N,TL,N,R3,D2
+12/27/21,Front Range,N,>TL,N,R2,D2
+12/27/21,Front Range,N,>TL,NW,R3,D2
+12/27/21,Front Range,N,<TL,N,R1,D1
+12/27/21,Front Range,N,<TL,N,R1,D1
+12/27/21,Front Range,N,<TL,N,R1,D1
+12/27/21,Front Range,N,<TL,N,R1,D1
+12/27/21,Front Range,N,<TL,N,R1,D1
+12/27/21,Front Range,N,<TL,N,R1,D1
+12/27/21,Front Range,N,<TL,N,R1,D1
+12/27/21,Vail & Summit County,N,>TL,E,R3,D3
+12/27/21,Vail & Summit County,N,TL,N,R3,D2.5
+12/27/21,Vail & Summit County,AS,<TL,NE,R1,D1.5
+12/27/21,Gunnison,N,<TL,NE,R2,D2
+12/27/21,Gunnison,N,<TL,NE,R2,D2
+12/27/21,Gunnison,N,<TL,NE,R2,D2
+12/27/21,Front Range,AR,<TL,NE,R2,D1.5
+12/27/21,North San Juan,AS,<TL,NW,R1,D1.5
+12/27/21,Front Range,AX,TL,E,R2,D1.5
+12/27/21,Front Range,AX,TL,N,R2,D1.5
+12/27/21,Front Range,AX,TL,N,R1,D1
+12/27/21,Front Range,AX,TL,N,R2,D1.5
+12/27/21,Front Range,AX,TL,N,R1,D1
+12/27/21,Vail & Summit County,AE,<TL,SW,R2,D1.5
+12/27/21,Vail & Summit County,AE,<TL,W,R2,D1.5
+12/27/21,Vail & Summit County,AE,<TL,W,R3,D2
+12/27/21,Vail & Summit County,AE,<TL,W,R3,
+12/27/21,Vail & Summit County,AE,<TL,W,R3,D1.5
+12/27/21,Vail & Summit County,AE,<TL,SW,R3,D1.5
+12/27/21,Vail & Summit County,AE,<TL,SW,R2,D1.5
+12/27/21,Vail & Summit County,AS,<TL,W,R3,D1.5
+12/27/21,Vail & Summit County,AE,<TL,SW,R3,D1
+12/27/21,Vail & Summit County,AE,<TL,SW,R3,D1
+12/27/21,Vail & Summit County,AE,<TL,W,R3,D1
+12/27/21,Aspen,AS,<TL,NW,R1,D1
+12/27/21,Aspen,AS,<TL,NW,R1,D1.5
+12/28/21,Vail & Summit County,AE,<TL,W,R3,D1.5
+12/28/21,Vail & Summit County,AE,<TL,W,R3,D1.5
+12/28/21,Vail & Summit County,AE,<TL,SW,R3,D1
+12/28/21,Vail & Summit County,AE,<TL,W,R3,D1
+12/28/21,Vail & Summit County,AE,<TL,W,R3,D1.5
+12/28/21,Sawatch,N,>TL,E,R2,D2
+12/28/21,Sawatch,N,<TL,NW,R1,D1.5
+12/28/21,Sawatch,N,<TL,NW,R1,D1.5
+12/28/21,Sawatch,N,<TL,W,R2,D1.5
+12/28/21,Sawatch,N,>TL,NW,R1,D1.5
+12/28/21,South San Juan,N,<TL,W,R1,D1.5
+12/28/21,Vail & Summit County,AM,<TL,S,R1,D1
+12/28/21,Front Range,AS,<TL,E,R1,D1.5
+12/28/21,Aspen,N,TL,W,R3,D1.5
+12/28/21,Gunnison,N,TL,NE,R3,D2.5
+12/28/21,Gunnison,N,TL,NE,R3,D2.5
+12/28/21,Gunnison,N,TL,NE,R3,D2.5
+12/28/21,Gunnison,N,TL,NE,R3,D2.5
+12/28/21,Gunnison,N,<TL,E,R3,D2
+12/28/21,Gunnison,N,>TL,NE,R4,D3.5
+12/28/21,Gunnison,N,TL,SW,R3,D2.5
+12/28/21,Front Range,AS,<TL,SE,,D1
+12/28/21,Sawatch,N,>TL,NE,R2,D2
+12/28/21,Sawatch,N,>TL,E,R2,D2
+12/28/21,Sawatch,AE,<TL,NE,R2,D1.5
+12/28/21,Sawatch,AE,<TL,E,R2,D1.5
+12/28/21,Sawatch,AX,<TL,NE,R1,D1.5
+12/28/21,Sawatch,AX,<TL,E,R1,D1.5
+12/28/21,Sawatch,AX,<TL,E,R1,D1.5
+12/28/21,Sawatch,AE,<TL,NE,R1,D1
+12/28/21,Grand Mesa,AE,<TL,N,R2,D1.5
+12/28/21,Grand Mesa,AE,<TL,N,R1,D1
+12/28/21,Grand Mesa,AE,<TL,N,R1,D1
+12/28/21,Grand Mesa,AE,<TL,NW,R1,D1
+12/28/21,North San Juan,AB,,NE,,
+12/28/21,North San Juan,AL,,SE,R2,D2
+12/28/21,Sawatch,U,>TL,NW,R2,D2
+12/28/21,Vail & Summit County,N,<TL,N,R2,D1
+12/28/21,Vail & Summit County,N,<TL,N,R2,D1
+12/28/21,Vail & Summit County,N,<TL,NW,R2,D1
+12/28/21,Vail & Summit County,N,<TL,NW,R2,D1
+12/28/21,Grand Mesa,AE,<TL,NW,R1,D1
+12/29/21,Front Range,AK,<TL,N,R3,D2
+12/29/21,Gunnison,U,TL,E,R3,D2.5
+12/29/21,Sawatch,AM,<TL,N,R1,D1
+12/29/21,Sawatch,N,>TL,SE,R2,D2
+12/29/21,Vail & Summit County,N,>TL,NE,R2,D2
+12/29/21,Aspen,AS,<TL,NE,R2,D2
+12/29/21,Front Range,U,TL,SE,R2,D1.5
+12/29/21,Front Range,AS,TL,NE,R1,D1.5
+12/29/21,South San Juan,N,TL,NE,R2,D1.5
+12/29/21,South San Juan,N,TL,NE,R2,D1.5
+12/29/21,South San Juan,N,>TL,NE,R2,D2
+12/29/21,South San Juan,AL,<TL,SE,R1,D1.5
+12/29/21,South San Juan,AL,<TL,SE,R1,D1.5
+12/29/21,South San Juan,AL,<TL,SE,R1,D1.5
+12/29/21,South San Juan,AL,<TL,S,R1,D1.5
+12/29/21,South San Juan,AE,<TL,NE,R1,D1.5
+12/29/21,South San Juan,AE,<TL,NE,R1,D1.5
+12/29/21,South San Juan,AE,<TL,E,R2,D2
+12/29/21,North San Juan,AE,,E,R1,D1
+12/29/21,North San Juan,AE,,E,R1,D1
+12/29/21,North San Juan,AE,,E,R1,D1
+12/29/21,South San Juan,AL,<TL,E,R1,D1.5
+12/29/21,South San Juan,AL,<TL,SE,R1,D1.5
+12/29/21,South San Juan,AL,<TL,E,R1,D1
+12/29/21,South San Juan,AE,,SW,R1,D1
+12/29/21,South San Juan,AE,,SW,R1,D1
+12/29/21,South San Juan,AE,,SW,R1,D1
+12/29/21,South San Juan,AE,,SW,R1,D1
+12/29/21,South San Juan,AL,<TL,E,R1,D1.5
+12/29/21,South San Juan,AL,<TL,NE,R1,D2
+12/29/21,South San Juan,AL,<TL,E,R1,D1.5
+12/29/21,South San Juan,AL,<TL,E,R1,D1.5
+12/29/21,South San Juan,AL,<TL,E,R1,D1.5
+12/29/21,South San Juan,AE,<TL,NE,R1,D1.5
+12/29/21,Front Range,AS,>TL,N,R2,D1
+12/29/21,North San Juan,AA,>TL,NW,R3,D2
+12/29/21,North San Juan,AS,<TL,N,U,D1.5
+12/29/21,North San Juan,AA,,NW,R2,D2
+12/30/21,Vail & Summit County,N,>TL,NW,R2,D2
+12/30/21,Front Range,N,<TL,E,R1,D1
+12/30/21,Front Range,N,>TL,E,R1,D2
+12/30/21,Front Range,N,>TL,E,R2,D2
+12/30/21,Gunnison,N,<TL,E,R2,D2
+12/30/21,Gunnison,N,TL,NE,R4,D3.5
+12/30/21,Gunnison,N,<TL,NE,R3,D2.5
+12/30/21,Gunnison,N,>TL,NE,R3,D3
+12/30/21,Gunnison,N,>TL,NE,R3,D2.5
+12/30/21,Gunnison,N,>TL,N,R3,D3
+12/30/21,Vail & Summit County,AS,<TL,NE,R3,D2
+12/30/21,Vail & Summit County,AS,<TL,NE,R2,D2
+12/30/21,Sawatch,U,<TL,NW,R2,D1
+12/30/21,South San Juan,AX,<TL,E,R2,D1.5
+12/30/21,South San Juan,AX,<TL,E,R2,D1.5
+12/31/21,Vail & Summit County,U,<TL,,R1,D1
+12/31/21,Front Range,U,<TL,NE,R2,D1.5
+12/31/21,Gunnison,N,<TL,E,R2,D2
+12/31/21,Gunnison,N,<TL,E,R2,D2
+12/31/21,Gunnison,N,<TL,E,R2,D2
+12/31/21,Aspen,N,TL,NE,,D2
+12/31/21,South San Juan,N,>TL,E,R2,D2
+12/31/21,South San Juan,N,>TL,E,R2,D2
+12/31/21,South San Juan,N,>TL,E,R2,D2
+12/31/21,South San Juan,N,TL,E,R1,D2
+12/31/21,South San Juan,N,>TL,NE,R2,D2
+12/31/21,South San Juan,N,>TL,SE,R1,D2
+12/31/21,Aspen,N,<TL,SE,R1,D1
+12/31/21,Aspen,N,>TL,N,R3,D3
+12/31/21,Vail & Summit County,N,TL,E,U,U
+12/31/21,Gunnison,N,>TL,W,R3,D2.5
+12/31/21,Aspen,N,>TL,NE,R3,D3
+12/31/21,Aspen,N,>TL,E,R2,D2
+12/31/21,Aspen,N,<TL,NW,R2,D1.5
+12/31/21,Front Range,N,>TL,E,R2,D2
+12/31/21,Sawatch,N,All,NE,R3,D2
+12/31/21,Vail & Summit County,N,>TL,E,R1,D2
+12/31/21,Aspen,N,>TL,NE,R1,D1.5
+12/31/21,Aspen,N,>TL,NE,R1,D2
+12/31/21,Front Range,U,TL,N,R1,D1.5
+12/31/21,Gunnison,N,>TL,NE,R2,D2.5
+12/31/21,Aspen,N,>TL,E,R2,D2.5
+12/31/21,Aspen,N,>TL,SE,R2,D2.5
+12/31/21,Aspen,N,>TL,E,R2,D2
+12/31/21,Aspen,N,>TL,E,R2,D2.5
+12/31/21,Aspen,N,>TL,SE,R2,D2.5
+12/31/21,Aspen,N,>TL,NW,R2,D2.5
+12/31/21,Aspen,N,>TL,SE,R2,D2.5
+12/31/21,Aspen,N,TL,SE,R2,D2
+12/31/21,Aspen,N,>TL,E,R3,D3
+12/31/21,Aspen,N,>TL,NW,R3,D2.5
+12/31/21,Gunnison,N,TL,NE,R4,D3
+12/31/21,Gunnison,N,TL,NE,R4,D3
+12/31/21,Gunnison,N,TL,N,R2,D2.5
+12/31/21,Gunnison,N,>TL,E,R4,D3.5
+12/31/21,Gunnison,N,>TL,E,R4,D3.5
+12/31/21,Vail & Summit County,N,<TL,NW,R2,D2
+12/31/21,Vail & Summit County,N,TL,NE,R2,D2
+12/31/21,Vail & Summit County,N,>TL,N,R1,D1
+12/31/21,Aspen,N,<TL,N,R2,D2
+12/31/21,Aspen,N,>TL,NW,R2,D2
+12/31/21,Aspen,N,>TL,E,R2,D2.5
+12/31/21,Gunnison,N,>TL,E,R2,D2
+12/31/21,Gunnison,N,>TL,E,R2,D2
+12/31/21,Gunnison,N,>TL,W,R2,D2
+12/31/21,Gunnison,N,>TL,W,R2,D2
+12/31/21,Gunnison,N,>TL,N,R2,D2.5
+12/31/21,Gunnison,N,>TL,E,R3,D3
+12/31/21,Gunnison,N,>TL,E,R3,D3
+12/31/21,South San Juan,N,TL,E,,D2
+12/31/21,South San Juan,N,>TL,E,,D2
+12/31/21,South San Juan,N,TL,NE,,D2
+12/31/21,South San Juan,N,>TL,NE,,D2
+12/31/21,Gunnison,N,>TL,E,R4,D3
+12/31/21,Gunnison,N,>TL,NE,R3,D4
+12/31/21,Gunnison,N,>TL,NE,R3,D4
+12/31/21,Gunnison,N,>TL,NE,R3,D4
+12/31/21,Gunnison,N,>TL,N,R4,D2
+12/31/21,Gunnison,N,>TL,N,R4,D2
+12/31/21,Gunnison,N,TL,N,R3,D2
+12/31/21,Gunnison,N,>TL,N,R4,D3
+12/31/21,Gunnison,N,<TL,N,R3,D2
+12/31/21,Gunnison,N,<TL,N,R3,D2
+12/31/21,Gunnison,N,<TL,N,R3,D2
+12/31/21,Gunnison,N,<TL,N,R3,D2
+12/31/21,Gunnison,N,>TL,NE,R4,D3
+12/31/21,Gunnison,N,TL,NE,R3,D3
+12/31/21,Gunnison,N,>TL,N,R3,D2.5
+12/31/21,Gunnison,N,>TL,NE,R4,D3
+12/31/21,Gunnison,N,>TL,E,R4,D3
+12/31/21,Gunnison,N,>TL,E,R3,D3
+12/31/21,Gunnison,N,>TL,E,R3,D3
+12/31/21,Gunnison,N,TL,NE,R3,D3
+12/31/21,Gunnison,N,TL,NE,R3,D3
+12/31/21,Gunnison,N,>TL,E,R3,D3
+12/31/21,Gunnison,N,>TL,E,R3,D3
+12/31/21,Gunnison,N,>TL,E,R3,D3
+12/31/21,Gunnison,N,>TL,NE,R3,D3
+12/31/21,Aspen,N,>TL,N,R4,D4
+12/31/21,Aspen,N,TL,N,R4,D3
+12/31/21,Aspen,N,>TL,NE,R4,D3.5
+12/31/21,Aspen,N,>TL,NE,R4,D3.5
+12/31/21,Aspen,N,>TL,NE,R3,D3
+12/31/21,Aspen,N,>TL,NE,R3,D3
+12/31/21,Aspen,N,>TL,N,R3,D3
+12/31/21,Aspen,N,>TL,NE,R4,D3.5
+12/31/21,Aspen,N,>TL,NE,R2,D2.5
+12/31/21,Aspen,N,>TL,NE,R4,D4
+12/31/21,Aspen,N,>TL,N,R4,D3
+12/31/21,Gunnison,N,>TL,E,R3,D3
+12/31/21,Gunnison,N,>TL,E,R3,D3
+12/31/21,Gunnison,N,>TL,E,R3,D3
+12/31/21,Gunnison,N,>TL,NE,R3,D3
+12/31/21,Gunnison,N,>TL,NE,R3,D3
+12/31/21,Gunnison,N,>TL,SE,R4,D3
+12/31/21,Gunnison,N,>TL,SE,R2,D2
+12/31/21,Gunnison,N,>TL,SE,R2,D2
+12/31/21,Gunnison,N,>TL,NE,R2,D2
+12/31/21,Gunnison,N,>TL,E,R4,D4
+12/31/21,Gunnison,N,>TL,NE,R4,D3
+12/31/21,Gunnison,N,>TL,E,R2,D3
+12/31/21,Gunnison,N,>TL,SW,R1,D2
+12/31/21,Gunnison,N,>TL,E,R2,D2
+12/31/21,Gunnison,N,>TL,E,R2,D2
+12/31/21,Gunnison,N,>TL,E,R3,D3
+12/31/21,Gunnison,N,>TL,N,R2,D2
+12/31/21,Gunnison,N,>TL,N,R3,D2
+12/31/21,Gunnison,N,>TL,NE,R3,D2
+12/31/21,Gunnison,N,>TL,NE,R3,D2
+12/31/21,Gunnison,N,>TL,E,R3,D2
+12/31/21,Gunnison,N,>TL,E,R3,D2
+12/31/21,Gunnison,N,>TL,E,R3,D2
+12/31/21,Gunnison,N,>TL,E,R3,D2
+12/31/21,Gunnison,N,>TL,NE,R3,D3
+12/31/21,Gunnison,N,>TL,NE,R3,D3
+12/31/21,Gunnison,N,>TL,E,R3,D3
+12/31/21,Gunnison,N,>TL,E,R3,D3
+12/31/21,Gunnison,N,>TL,N,R3,D3
+12/31/21,Gunnison,N,>TL,N,R3,D3
+12/31/21,Gunnison,N,>TL,W,R3,D2
+12/31/21,Gunnison,N,>TL,W,R3,D3
+12/31/21,Gunnison,N,TL,NE,R3,D2
+12/31/21,Gunnison,N,<TL,N,R3,D3
+12/31/21,Gunnison,N,TL,NE,R4,D3.5
+12/31/21,Aspen,N,TL,N,R3,D3
+12/31/21,Gunnison,N,>TL,N,R3,D2.5
+12/31/21,Gunnison,N,>TL,N,R2,D3
+12/31/21,Gunnison,N,TL,NE,R2,D2
+12/31/21,Gunnison,N,TL,NE,R2,D2
+12/31/21,South San Juan,N,TL,NE,R1,D2
+12/31/21,South San Juan,N,<TL,N,R2,D2
+12/31/21,Gunnison,N,>TL,SE,R3,D3
+12/31/21,Gunnison,N,>TL,SE,,D1.5
+12/31/21,Gunnison,N,>TL,N,R3,D3
+12/31/21,Gunnison,N,>TL,N,R3,D3
+12/31/21,Gunnison,N,>TL,N,R4,D3.5
+12/31/21,Gunnison,N,TL,N,R3,D3
+12/31/21,Gunnison,N,<TL,N,R3,D2
+12/31/21,Gunnison,N,>TL,W,R3,D2.5
+12/31/21,Gunnison,N,>TL,NW,R3,D2
+12/31/21,Gunnison,N,>TL,N,R4,D3
+12/31/21,Gunnison,N,>TL,N,R3,D3
+12/31/21,Gunnison,N,>TL,E,R3,D3
+12/31/21,Grand Mesa,N,TL,N,R3,D2
+12/31/21,Gunnison,N,>TL,NW,R4,D3
+12/31/21,Gunnison,N,<TL,N,R4,D2.5
+12/31/21,North San Juan,N,>TL,NE,R3,D2
+12/31/21,Gunnison,N,TL,NE,R4,D3
+12/31/21,Gunnison,N,TL,NE,R4,D4
+12/31/21,Gunnison,N,TL,NE,R4,D3.5
+12/31/21,Gunnison,N,TL,NE,R4,D3.5
+12/31/21,Gunnison,N,>TL,NE,R3,D2.5
+12/31/21,Gunnison,N,>TL,NE,R3,D2.5
+12/31/21,Gunnison,N,>TL,NE,R3,D2.5
+12/31/21,Gunnison,N,>TL,E,R3,D3
+12/31/21,Gunnison,N,>TL,E,R3,D3
+12/31/21,Gunnison,N,>TL,E,R3,D3
+12/31/21,Gunnison,N,>TL,NE,R3,D3
+12/31/21,Gunnison,N,>TL,NE,R3,D3
+12/31/21,Gunnison,N,>TL,NE,R3,D3
+12/31/21,Gunnison,N,>TL,NE,R3,D3
+12/31/21,Gunnison,N,>TL,NE,R3,D3
+12/31/21,Gunnison,N,>TL,NE,R3,D3
+12/31/21,Gunnison,N,>TL,NE,R4,D4
+12/31/21,Gunnison,N,>TL,NE,R4,D4
+12/31/21,Gunnison,N,>TL,N,R4,D3
+12/31/21,Gunnison,N,>TL,N,R4,D3
+12/31/21,Gunnison,N,>TL,N,R4,D3
+12/31/21,Gunnison,N,TL,SE,R4,D3
+12/31/21,Front Range,N,>TL,N,R3,D2.5
+12/31/21,Gunnison,N,>TL,N,R2,D2.5
+12/31/21,Gunnison,N,>TL,N,R2,D2.5
+12/31/21,Gunnison,N,>TL,NW,R2,D2.5
+12/31/21,Gunnison,N,>TL,NW,R2,D2.5
+12/31/21,Gunnison,N,>TL,NW,R2,D2.5
+12/31/21,Gunnison,N,>TL,N,R4,D3
+12/31/21,Gunnison,N,>TL,N,R4,D3
+12/31/21,Gunnison,N,>TL,NW,R4,D3
+12/31/21,Gunnison,N,>TL,W,,D3
+12/31/21,Gunnison,N,>TL,N,R2,D2
+12/31/21,Aspen,N,>TL,N,R2,D3
+12/31/21,Gunnison,N,>TL,N,R3,D3.5
+12/31/21,Gunnison,N,>TL,E,R3,D3.5
+12/31/21,Gunnison,N,>TL,NE,R3,D3
+12/31/21,Front Range,AX,TL,E,R3,D2.5
+12/31/21,Front Range,AX,TL,N,R2,D2
+12/31/21,Front Range,AX,TL,N,R3,D2.5
+12/31/21,Front Range,AX,TL,N,R2,D1.5
+12/31/21,Front Range,AX,TL,N,R1,D1
+12/31/21,Vail & Summit County,N,>TL,E,R3,D2.5
+12/31/21,Grand Mesa,AE,<TL,NW,R2,D1
+12/31/21,Grand Mesa,AE,<TL,N,R2,D1.5
+12/31/21,Grand Mesa,AE,<TL,N,R2,D1.5
+12/31/21,Grand Mesa,AE,<TL,N,R1,D1
+12/31/21,Grand Mesa,AE,<TL,N,R1,D1
+12/31/21,Grand Mesa,AE,<TL,NW,R1,D1
+12/31/21,Grand Mesa,AB,<TL,SW,R1,D1
+12/31/21,Grand Mesa,AB,<TL,NE,R1,D1
+12/31/21,Sawatch,AV,<TL,E,R2,D2
+12/31/21,Sawatch,AX,<TL,NE,R2,D2
+12/31/21,Sawatch,AX,<TL,E,R2,D1.5
+12/31/21,North San Juan,N,<TL,E,R3,D2
+1/1/22,North San Juan,N,<TL,SE,R2,D2
+1/1/22,Front Range,N,>TL,E,R1,D1
+1/1/22,Front Range,N,>TL,E,R1,D1
+1/1/22,Front Range,N,>TL,E,R1,D1
+1/1/22,Front Range,N,>TL,E,R1,D1
+1/1/22,Front Range,N,>TL,E,R1,D1
+1/1/22,Front Range,N,>TL,E,R1,D1
+1/1/22,Front Range,N,>TL,E,R1,D1
+1/1/22,Front Range,N,>TL,E,R1,D1
+1/1/22,South San Juan,AE,TL,NE,R3,D3
+1/1/22,Gunnison,N,>TL,E,R1,D1.5
+1/1/22,Gunnison,N,TL,SE,R2,D2
+1/1/22,North San Juan,AS,<TL,N,,D2
+1/1/22,Front Range,AS,>TL,NE,R1,D1
+1/1/22,Vail & Summit County,N,>TL,NE,R3,D2.5
+1/1/22,South San Juan,N,>TL,E,R3,D2.5
+1/1/22,Vail & Summit County,U,TL,NE,R2,D3
+1/1/22,Sawatch,N,>TL,SE,R3,D2.5
+1/1/22,Sawatch,N,>TL,E,R2,D2
+1/1/22,Front Range,N,>TL,E,R2,D2
+1/1/22,Front Range,N,>TL,E,R2,D2
+1/1/22,North San Juan,N,>TL,E,R3,D2.5
+1/1/22,North San Juan,N,>TL,NE,R3,D2.5
+1/1/22,North San Juan,N,>TL,N,R3,D3
+1/1/22,North San Juan,N,>TL,NE,R2,D2
+1/1/22,South San Juan,N,>TL,NE,R3,D2
+1/1/22,Front Range,N,>TL,E,R2,D2
+1/1/22,Front Range,N,>TL,E,R2,D2
+1/1/22,Vail & Summit County,N,<TL,NE,R2,D2
+1/1/22,Aspen,N,>TL,E,R1,D2
+1/1/22,Gunnison,N,>TL,SE,R1,D1
+1/1/22,Gunnison,N,>TL,SE,R1,D1
+1/1/22,Front Range,U,>TL,SE,R3,D2
+1/1/22,Gunnison,N,>TL,E,R4,D4
+1/1/22,Gunnison,N,>TL,E,R3,D3
+1/1/22,Gunnison,N,>TL,NE,R4,D4
+1/1/22,Gunnison,N,>TL,NE,R4,D4
+1/1/22,Gunnison,N,>TL,E,R4,D3.5
+1/1/22,Gunnison,N,>TL,NE,R4,D3.5
+1/1/22,Gunnison,N,>TL,E,R3,D3
+1/1/22,Gunnison,N,>TL,E,R2,D2
+1/1/22,Gunnison,N,>TL,E,R2,D2
+1/1/22,Aspen,N,>TL,E,R2,D2.5
+1/1/22,South San Juan,N,<TL,NW,R1,D1.5
+1/1/22,South San Juan,N,<TL,N,R3,D2
+1/1/22,South San Juan,N,TL,NE,R1,D2
+1/1/22,South San Juan,N,TL,NE,R2,D2
+1/1/22,South San Juan,N,>TL,E,R2,D2
+1/1/22,North San Juan,N,>TL,NE,R2,D2.5
+1/1/22,North San Juan,N,>TL,NE,R2,D2.5
+1/1/22,North San Juan,N,>TL,NE,R2,D2.5
+1/1/22,North San Juan,N,>TL,NE,R3,D3
+1/1/22,North San Juan,N,>TL,NE,R3,D3
+1/1/22,North San Juan,N,TL,NE,R4,D3
+1/1/22,Aspen,N,TL,E,R3,D2
+1/1/22,Aspen,N,>TL,E,R2,D2.5
+1/1/22,North San Juan,N,>TL,SW,R2,D1.5
+1/1/22,North San Juan,N,>TL,SW,R2,D1.5
+1/1/22,North San Juan,N,>TL,SW,R2,D1.5
+1/1/22,South San Juan,N,>TL,N,R2,D2
+1/1/22,South San Juan,N,>TL,N,R2,D2
+1/1/22,South San Juan,N,>TL,NE,R2,D2
+1/1/22,South San Juan,N,>TL,NE,R2,D2
+1/1/22,South San Juan,N,TL,N,R2,D1.5
+1/1/22,South San Juan,N,TL,N,R2,D1.5
+1/1/22,Aspen,N,<TL,NE,R1,D1
+1/1/22,Aspen,N,TL,E,R2,D2
+1/1/22,Gunnison,N,<TL,N,R3,D3
+1/1/22,Gunnison,N,TL,N,R4,D3.5
+1/1/22,Gunnison,N,>TL,E,R2,D2.5
+1/1/22,Gunnison,N,>TL,E,R2,D2.5
+1/1/22,Gunnison,N,>TL,E,R2,D2.5
+1/1/22,Gunnison,N,>TL,E,R2,D2.5
+1/1/22,Gunnison,N,>TL,NE,R2,D2.5
+1/1/22,Gunnison,N,>TL,NE,R2,D2.5
+1/1/22,Gunnison,N,>TL,E,R3,D3.5
+1/1/22,Gunnison,N,>TL,E,R3,D3.5
+1/1/22,Gunnison,N,>TL,NE,R3,D3
+1/1/22,Gunnison,N,>TL,NE,R3,D3
+1/1/22,Gunnison,N,>TL,N,R2,D2.5
+1/1/22,Gunnison,N,>TL,N,R3,D3.5
+1/1/22,Gunnison,N,>TL,N,R3,D3
+1/1/22,Gunnison,N,>TL,W,R3,D3
+1/1/22,Gunnison,N,>TL,W,R3,D2.5
+1/1/22,North San Juan,N,>TL,SW,R2,D2
+1/1/22,South San Juan,N,>TL,N,R3,D2.5
+1/1/22,North San Juan,N,>TL,N,R2,D2
+1/1/22,South San Juan,N,TL,N,R3,D3
+1/1/22,South San Juan,N,TL,N,R2,D2
+1/1/22,South San Juan,N,TL,N,R2,D2
+1/1/22,Aspen,N,>TL,NE,R2,D2.5
+1/1/22,Aspen,N,>TL,E,R1,D2
+1/1/22,Aspen,N,>TL,E,R2,D2
+1/1/22,Aspen,N,>TL,E,R2,D2
+1/1/22,Aspen,N,TL,E,R2,D2
+1/1/22,Aspen,N,>TL,NE,R3,D3
+1/1/22,Aspen,N,>TL,NE,R2,D2
+1/1/22,South San Juan,N,TL,N,R2,D2.5
+1/1/22,South San Juan,N,>TL,N,R2,D2.5
+1/1/22,Front Range,AX,<TL,N,R2,D1
+1/1/22,Front Range,AX,TL,N,R2,D1
+1/1/22,Front Range,AX,>TL,E,R2,D1.5
+1/1/22,Front Range,AX,<TL,N,R2,D1
+1/1/22,North San Juan,AE,<TL,SE,R2,D2
+1/1/22,North San Juan,AE,<TL,E,R1,D1
+1/1/22,North San Juan,AE,TL,E,R2,D1.5
+1/1/22,North San Juan,AL,,SE,R1,D1.5
+1/1/22,North San Juan,AL,<TL,N,R1,D1.5
+1/1/22,North San Juan,AL,<TL,SW,R1,D1.5
+1/1/22,North San Juan,AL,<TL,SW,R1,D1.5
+1/1/22,North San Juan,AL,<TL,SE,R1,D1
+1/1/22,North San Juan,AL,,E,R1,D1
+1/1/22,North San Juan,AE,<TL,NW,R1,D1.5
+1/1/22,North San Juan,N,<TL,NW,R2,D1.5
+1/1/22,North San Juan,AL,,NW,R1,D1.5
+1/1/22,North San Juan,AL,,NW,R1,D1.5
+1/1/22,North San Juan,AL,,NW,R1,D1
+1/1/22,North San Juan,AL,,N,R1,D1.5
+1/2/22,Vail & Summit County,N,<TL,NE,R2,D2
+1/2/22,Front Range,U,>TL,E,R2,D2
+1/2/22,Aspen,N,<TL,N,R3,D2.5
+1/2/22,North San Juan,N,<TL,E,R1,D1
+1/2/22,Sawatch,N,>TL,E,R3,D3
+1/2/22,Sawatch,N,TL,E,R2,D2
+1/2/22,Sawatch,N,TL,E,R2,D2
+1/2/22,Front Range,N,>TL,SW,R2,D1.5
+1/2/22,Front Range,N,>TL,SW,R2,D1.5
+1/2/22,Vail & Summit County,N,>TL,E,R3,D2
+1/2/22,Sawatch,N,>TL,S,R3,D3
+1/2/22,Sawatch,U,<TL,E,R2,D2
+1/2/22,Sawatch,U,<TL,E,R2,D2
+1/2/22,Front Range,U,>TL,SE,R2,D3
+1/2/22,Front Range,N,>TL,E,R3,D2.5
+1/2/22,Front Range,N,>TL,NE,R3,D2.5
+1/2/22,Front Range,N,>TL,NE,R2,D2.5
+1/2/22,Front Range,AR,<TL,NE,R2,D3
+1/2/22,Front Range,N,<TL,,R1,D1
+1/2/22,Front Range,N,<TL,,R1,D1
+1/2/22,Front Range,N,<TL,,R1,D1
+1/2/22,North San Juan,N,>TL,NW,R3,D2
+1/2/22,Vail & Summit County,AS,<TL,E,R1,D1
+1/2/22,Vail & Summit County,AS,<TL,E,R1,D1
+1/2/22,Vail & Summit County,N,>TL,S,R1,D1
+1/2/22,North San Juan,N,TL,NE,R2,D2
+1/2/22,North San Juan,N,TL,N,R2,D2
+1/2/22,North San Juan,N,>TL,N,R2,D2
+1/2/22,Front Range,U,>TL,NE,R2,D2
+1/2/22,North San Juan,AS,>TL,NW,U,U
+1/2/22,North San Juan,N,<TL,W,U,U
+1/2/22,Vail & Summit County,N,>TL,SE,R2,D1.5
+1/2/22,Front Range,U,TL,E,R2,D2
+1/2/22,Vail & Summit County,N,>TL,NE,R1,D1.5
+1/2/22,North San Juan,AS,>TL,N,R3,D2.5
+1/2/22,North San Juan,AS,TL,W,R3,D2
+1/2/22,South San Juan,N,TL,N,R3,D2.5
+1/2/22,South San Juan,N,TL,NE,R1,D2
+1/2/22,North San Juan,N,>TL,NE,R1,D1
+1/2/22,Sawatch,N,>TL,NE,R2,D2
+1/2/22,Front Range,N,>TL,SE,R2,D2
+1/2/22,Front Range,N,>TL,SE,R2,D2
+1/2/22,North San Juan,N,TL,SW,R3,D2
+1/2/22,North San Juan,N,,E,R2,D2.5
+1/2/22,Vail & Summit County,N,<TL,NW,R2,D1
+1/2/22,North San Juan,AM,>TL,NE,R2,D2
+1/2/22,North San Juan,AM,>TL,NE,R1,D2
+1/2/22,North San Juan,AM,>TL,NE,R1,D2
+1/2/22,North San Juan,N,,S,R2,D2
+1/2/22,North San Juan,N,,E,R2,D2
+1/3/22,Front Range,N,>TL,SE,R2,D2
+1/3/22,Aspen,N,TL,NE,R2,D2
+1/3/22,Aspen,N,TL,NE,R2,D2
+1/3/22,Vail & Summit County,U,>TL,SE,R3,D2.5
+1/3/22,Vail & Summit County,N,TL,NE,R2,D2
+1/3/22,Vail & Summit County,N,TL,NE,R2,D2
+1/3/22,Vail & Summit County,AS,TL,NW,R2,D1.5
+1/3/22,Vail & Summit County,N,>TL,NE,R1,D1
+1/3/22,Front Range,U,TL,W,R1,D1
+1/3/22,Vail & Summit County,U,>TL,NE,R1,D1.5
+1/3/22,North San Juan,N,>TL,NE,R3,D2.5
+1/3/22,Aspen,N,>TL,NE,R1,D2.5
+1/3/22,Sawatch,N,TL,E,R3,D2
+1/3/22,Vail & Summit County,N,>TL,N,R2,D1.5
+1/3/22,Vail & Summit County,N,>TL,N,R2,D1.5
+1/3/22,Vail & Summit County,N,>TL,N,R2,D1.5
+1/3/22,Vail & Summit County,N,>TL,N,R2,D1.5
+1/3/22,Front Range,N,>TL,E,R2,D2
+1/3/22,Gunnison,N,>TL,N,R1,D2
+1/3/22,Vail & Summit County,U,>TL,E,R3,D2.5
+1/3/22,South San Juan,N,>TL,NE,R2,D2.5
+1/3/22,North San Juan,N,TL,NE,R2,D2
+1/4/22,Aspen,N,>TL,E,R2,D2
+1/4/22,Front Range,N,>TL,E,R3,D2.5
+1/4/22,Front Range,N,TL,E,R2,D2
+1/4/22,South San Juan,AC,TL,NE,R1,D1
+1/4/22,Front Range,U,TL,NE,R2,D2
+1/4/22,North San Juan,N,>TL,E,R2,D2
+1/4/22,Vail & Summit County,AE,>TL,S,R4,D2.5
+1/5/22,South San Juan,AL,<TL,NE,R1,D1
+1/5/22,South San Juan,AL,<TL,NE,R1,D1
+1/5/22,South San Juan,AL,<TL,NE,R1,D1
+1/5/22,Front Range,N,<TL,E,R2,D1.5
+1/5/22,Aspen,N,>TL,SE,R2,D2
+1/5/22,Aspen,N,>TL,NE,R2,D2
+1/5/22,Aspen,N,<TL,NE,R1,D1.5
+1/5/22,Vail & Summit County,N,TL,N,R2,D2
+1/5/22,Aspen,N,<TL,NE,R2,D2
+1/6/22,Front Range,U,<TL,NE,R3,D2
+1/6/22,Aspen,N,TL,NE,R1,D1
+1/6/22,Vail & Summit County,N,TL,E,R2,D2
+1/6/22,Vail & Summit County,N,>TL,S,R2,D2
+1/6/22,Front Range,N,>TL,E,R2,D2
+1/6/22,Vail & Summit County,N,>TL,NE,R2,D2.5
+1/6/22,Vail & Summit County,N,>TL,E,R2,D2
+1/6/22,Vail & Summit County,N,>TL,E,R2,D2
+1/6/22,Vail & Summit County,N,>TL,SE,R2,D2.5
+1/6/22,Vail & Summit County,N,>TL,SE,R2,D2
+1/6/22,Vail & Summit County,N,>TL,SE,R2,D2
+1/6/22,Vail & Summit County,N,>TL,NE,R2,D2
+1/6/22,Front Range,N,>TL,NE,R2,D2
+1/6/22,Front Range,N,>TL,NE,R2,D2
+1/6/22,Vail & Summit County,N,>TL,SE,R1,D1.5
+1/6/22,Vail & Summit County,N,>TL,SE,R2,D2
+1/6/22,Vail & Summit County,N,<TL,NW,R1,D1
+1/6/22,Vail & Summit County,N,<TL,NW,R1,D1
+1/6/22,Sawatch,N,>TL,E,R2,D2
+1/6/22,Vail & Summit County,N,<TL,E,R2,D1.5
+1/6/22,Vail & Summit County,N,TL,E,R2,D2
+1/6/22,Vail & Summit County,N,TL,E,R2,D2
+1/6/22,Vail & Summit County,N,TL,E,R2,D2
+1/6/22,Vail & Summit County,N,TL,E,R2,D2
+1/6/22,Aspen,N,TL,N,R2,D1.5
+1/6/22,Front Range,N,<TL,NE,R3,D2
+1/6/22,Vail & Summit County,N,>TL,E,R3,D2
+1/6/22,Vail & Summit County,N,>TL,NE,R2,D2
+1/6/22,Front Range,U,>TL,NE,R2,D2
+1/6/22,Front Range,U,>TL,NE,R2,D2
+1/6/22,Front Range,U,TL,NE,R2,D2
+1/6/22,Front Range,U,TL,NE,R2,D2
+1/6/22,Aspen,N,>TL,NE,R2,D2.5
+1/6/22,Vail & Summit County,U,>TL,NE,R2,D2
+1/6/22,Front Range,N,>TL,SE,U,D2
+1/6/22,Vail & Summit County,AX,<TL,S,R1,D1
+1/6/22,Vail & Summit County,AX,TL,S,R1,D1
+1/6/22,Vail & Summit County,AX,>TL,SE,R1,D1.5
+1/6/22,Vail & Summit County,AX,>TL,W,R1,D1
+1/6/22,Vail & Summit County,AX,>TL,NW,R1,D1.5
+1/6/22,Vail & Summit County,AX,>TL,NW,R1,D1
+1/6/22,Sawatch,N,<TL,SE,R2,D1.5
+1/6/22,Front Range,AX,TL,N,R1,D1
+1/6/22,Front Range,AX,TL,N,R2,D2
+1/6/22,Front Range,AX,TL,N,R2,D2
+1/6/22,Front Range,AX,TL,N,R2,D1.5
+1/6/22,Front Range,AX,TL,N,R3,D2.5
+1/6/22,Vail & Summit County,AE,<TL,W,R1,D1
+1/6/22,Vail & Summit County,AE,<TL,NW,R2,D1
+1/6/22,Vail & Summit County,AE,<TL,W,R2,D1.5
+1/6/22,Vail & Summit County,AE,<TL,NW,R2,D1
+1/6/22,Vail & Summit County,AE,<TL,W,R2,D1
+1/6/22,Vail & Summit County,AE,<TL,NW,R2,D1.5
+1/6/22,Sawatch,AX,<TL,NE,R2,D1.5
+1/6/22,Sawatch,AX,<TL,E,R1,D1
+1/7/22,Vail & Summit County,N,>TL,NE,R2,D2
+1/7/22,Vail & Summit County,N,>TL,NE,R3,D2.5
+1/7/22,Vail & Summit County,N,,,R2,D2
+1/7/22,Vail & Summit County,N,,NE,R3,D2.5
+1/7/22,Front Range,U,>TL,E,R2,D2.5
+1/7/22,Vail & Summit County,N,>TL,E,R1,D1.5
+1/7/22,Sawatch,N,TL,SE,R2,D2
+1/7/22,Sawatch,N,>TL,NE,R2,D2
+1/7/22,Vail & Summit County,N,>TL,W,R2,D2.5
+1/7/22,Front Range,AS,>TL,N,R2,D2
+1/7/22,Gunnison,N,TL,SW,R1,D1
+1/7/22,Gunnison,N,TL,SW,R1,D1
+1/7/22,Front Range,U,>TL,E,R2,D2.5
+1/7/22,Sawatch,N,>TL,NE,R2,D2
+1/7/22,Vail & Summit County,N,TL,NE,R3,D2
+1/7/22,Vail & Summit County,N,TL,NW,R1,D1.5
+1/7/22,Vail & Summit County,N,TL,E,R2,D2.5
+1/7/22,Vail & Summit County,N,>TL,E,,D1.5
+1/7/22,North San Juan,AS,>TL,NE,,D2
+1/7/22,Vail & Summit County,AS,<TL,NE,R2,D1
+1/7/22,Vail & Summit County,N,>TL,E,R2,D2
+1/7/22,Sawatch,AS,TL,,R1,D2
+1/7/22,Vail & Summit County,N,TL,NE,R3,D2
+1/7/22,Sawatch,N,>TL,NE,R2,D2
+1/7/22,Front Range,N,TL,E,R3,D2
+1/7/22,Front Range,N,>TL,E,R4,D3
+1/7/22,Front Range,AA,>TL,S,R2,D1
+1/7/22,Front Range,AA,>TL,SE,R2,D1
+1/7/22,South San Juan,AX,<TL,E,R2,D1.5
+1/7/22,Front Range,AV,<TL,E,R4,D2
+1/7/22,Front Range,AX,TL,N,R1,D1
+1/7/22,Front Range,AX,TL,N,R1,D1
+1/7/22,Front Range,AE,>TL,SW,R1,D1
+1/7/22,Vail & Summit County,AE,>TL,E,R1,D1
+1/7/22,Vail & Summit County,AE,TL,E,R2,D1.5
+1/7/22,Vail & Summit County,AE,TL,E,R1,D1
+1/7/22,Vail & Summit County,AE,<TL,E,R2,D1.5
+1/7/22,Front Range,AV,<TL,E,R4,D1.5
+1/7/22,Vail & Summit County,AS,TL,NE,R3,D2
+1/8/22,Front Range,U,<TL,SE,,
+1/8/22,Front Range,U,<TL,E,,
+1/8/22,Front Range,U,>TL,SE,,D2
+1/8/22,Front Range,AS,TL,NE,R3,D2
+1/8/22,Front Range,N,TL,SE,R2,D1.5
+1/8/22,Gunnison,N,>TL,NE,R1,D1
+1/8/22,Gunnison,N,>TL,NE,R1,D1
+1/8/22,Gunnison,N,>TL,NE,R1,D1
+1/8/22,Gunnison,N,>TL,N,R1,D1
+1/8/22,Gunnison,N,>TL,N,R1,D1
+1/8/22,Gunnison,N,TL,E,R1,D1.5
+1/8/22,Gunnison,N,<TL,SE,R1,D1
+1/8/22,Vail & Summit County,AS,<TL,NE,,D1.5
+1/8/22,Front Range,AS,<TL,NE,R3,D2
+1/8/22,Gunnison,N,>TL,E,R1,D1
+1/8/22,Gunnison,N,>TL,E,R1,D1
+1/8/22,Gunnison,N,>TL,E,R1,D1
+1/8/22,Gunnison,N,>TL,E,R1,D1
+1/8/22,Gunnison,N,>TL,E,R1,D1
+1/8/22,Gunnison,N,>TL,NE,R1,D1.5
+1/8/22,Gunnison,N,>TL,NE,R1,D1.5
+1/8/22,Vail & Summit County,N,>TL,E,R3,D2
+1/8/22,Vail & Summit County,N,>TL,N,R1,D1
+1/8/22,North San Juan,N,>TL,NE,R1,D1
+1/8/22,Steamboat & Flat Tops,N,<TL,N,R1,D1
+1/8/22,Front Range,N,TL,NE,R2,D1.5
+1/8/22,Front Range,N,TL,NE,R2,D1.5
+1/8/22,Front Range,U,>TL,NE,R2,D2
+1/8/22,Vail & Summit County,AI,TL,NE,R3,D2
+1/9/22,Vail & Summit County,AR,>TL,SW,R2,D2
+1/9/22,Steamboat & Flat Tops,AM,<TL,NE,R1,D1
+1/9/22,Vail & Summit County,N,<TL,NE,R2,D2
+1/9/22,Front Range,AM,>TL,E,R4,D3
+1/9/22,North San Juan,AS,>TL,N,R1,D2
+1/9/22,Front Range,U,>TL,E,R3,D2
+1/9/22,Vail & Summit County,AS,>TL,SW,R2,D1.5
+1/9/22,Vail & Summit County,N,>TL,NE,R2,D2
+1/9/22,Vail & Summit County,N,>TL,NE,R2,D2
+1/9/22,Aspen,N,>TL,E,R2,D2
+1/9/22,Aspen,N,>TL,E,R2,D2
+1/9/22,Vail & Summit County,N,>TL,N,R2,D2
+1/9/22,Sawatch,N,>TL,NE,R2,D2
+1/9/22,Vail & Summit County,N,TL,SE,R2,D2
+1/9/22,Vail & Summit County,N,TL,SE,R2,D2
+1/9/22,Vail & Summit County,N,TL,SE,R2,D2
+1/9/22,Vail & Summit County,N,TL,SE,R2,D2
+1/9/22,Vail & Summit County,U,TL,E,R1,D2
+1/9/22,Front Range,N,TL,E,R2,D2
+1/10/22,Vail & Summit County,U,>TL,N,R1,D2
+1/10/22,Vail & Summit County,U,>TL,N,R1,D2
+1/10/22,Vail & Summit County,U,>TL,N,R1,D2
+1/10/22,Gunnison,N,TL,SE,R1,D1
+1/10/22,Gunnison,N,TL,SE,R1,D1
+1/10/22,Gunnison,N,TL,SE,R1,D1
+1/10/22,Gunnison,N,TL,SE,R1,D1
+1/10/22,Gunnison,N,TL,SE,R1,D1
+1/10/22,Gunnison,N,>TL,S,R1,D1
+1/10/22,Gunnison,N,>TL,S,R1,D1
+1/10/22,Sawatch,AS,TL,SE,R2,D2
+1/10/22,Aspen,N,>TL,S,R1,D2
+1/10/22,Sawatch,N,>TL,S,R2,D2
+1/10/22,Front Range,N,>TL,E,R2,D2
+1/10/22,Aspen,N,TL,NW,R2,D2
+1/10/22,Aspen,N,>TL,NE,R1,D2
+1/10/22,Sawatch,N,>TL,NE,R2,D2
+1/11/22,Vail & Summit County,N,>TL,E,R2,D1.5
+1/11/22,Vail & Summit County,N,>TL,E,R2,D1.5
+1/11/22,Vail & Summit County,N,>TL,E,R2,D1.5
+1/11/22,Front Range,N,>TL,E,R2,D2.5
+1/11/22,Steamboat & Flat Tops,N,<TL,,R1,D1.5
+1/11/22,Vail & Summit County,N,>TL,E,R2,D2
+1/11/22,Front Range,N,>TL,E,R2,D2
+1/11/22,Front Range,U,>TL,E,R1,D1
+1/12/22,Front Range,U,TL,NE,R1,D2
+1/12/22,Front Range,U,<TL,SE,R1,D1
+1/12/22,Front Range,AM,TL,E,R2,D2
+1/12/22,North San Juan,AS,>TL,NW,R2,D2
+1/13/22,Front Range,U,<TL,N,R2,D1.5
+1/13/22,Gunnison,N,TL,SE,,D1.5
+1/13/22,South San Juan,N,>TL,S,R1,D2
+1/13/22,South San Juan,N,>TL,SE,R1,D2
+1/15/22,Front Range,AR,>TL,E,R1,D1
+1/15/22,Vail & Summit County,U,TL,E,R2,D1.5
+1/16/22,Vail & Summit County,U,>TL,NW,R2,D2
+1/16/22,Vail & Summit County,AS,TL,W,R1,D1
+1/18/22,Front Range,AK,>TL,NE,R4,D2.5
+1/20/22,Front Range,N,>TL,NE,R2,D2
+1/21/22,Sawatch,N,>TL,W,R1,D1
+1/21/22,Sawatch,N,>TL,W,R1,D1
+1/21/22,Sawatch,N,>TL,W,R1,D1
+1/21/22,Gunnison,AS,<TL,NE,R1,D1
+1/21/22,Gunnison,AS,<TL,NE,R1,D1
+1/21/22,Gunnison,AS,<TL,NE,R1,D1
+1/21/22,Vail & Summit County,U,>TL,E,R2,D2
+1/22/22,Front Range,N,>TL,E,R1,D1
+1/22/22,Front Range,N,>TL,E,R1,D1
+1/22/22,Front Range,N,>TL,E,R1,D1
+1/22/22,Gunnison,N,>TL,N,R1,D1.5
+1/22/22,Sawatch,U,TL,SE,R1,D1
+1/22/22,Steamboat & Flat Tops,N,<TL,W,R1,D1
+1/22/22,Gunnison,N,>TL,NE,R1,D1
+1/22/22,Gunnison,AS,TL,SE,R1,D1
+1/22/22,Gunnison,AO,>TL,N,R1,D1
+1/22/22,Gunnison,N,>TL,NE,R1,D1
+1/22/22,Gunnison,AS,>TL,E,R1,D1
+1/22/22,Sawatch,N,TL,NE,R1,D1
+1/22/22,Sawatch,N,TL,NE,R1,D1
+1/22/22,Sawatch,N,TL,NE,R1,D1
+1/22/22,Front Range,AS,<TL,,R1,D1
+1/22/22,Gunnison,AS,<TL,E,R1,D1
+1/22/22,Aspen,U,>TL,W,R2,D2
+1/23/22,Gunnison,AS,,NE,R1,D1
+1/23/22,Gunnison,AS,,NE,R1,D1
+1/23/22,Gunnison,AS,>TL,SW,R1,D1
+1/23/22,Gunnison,N,>TL,W,R1,D1
+1/23/22,Gunnison,N,<TL,E,,D1
+1/23/22,Aspen,N,>TL,E,R1,D1
+1/23/22,Aspen,N,>TL,E,R1,D1
+1/23/22,Vail & Summit County,U,TL,NW,R1,D1
+1/23/22,Gunnison,N,>TL,N,R1,D1
+1/23/22,Gunnison,N,>TL,NE,R1,D1
+1/23/22,Vail & Summit County,U,TL,NW,R1,D2
+1/23/22,Front Range,U,TL,S,R1,D1
+1/23/22,Gunnison,U,TL,NW,R1,D1
+1/26/22,Vail & Summit County,N,>TL,SE,R1,D1
+1/26/22,Vail & Summit County,N,>TL,SE,R1,D1
+1/26/22,Vail & Summit County,N,>TL,SE,R1,D1
+1/26/22,Vail & Summit County,N,>TL,SE,R1,D1
+1/26/22,Vail & Summit County,N,>TL,SE,R1,D1
+1/26/22,Vail & Summit County,N,>TL,SE,R1,D1
+1/26/22,Vail & Summit County,N,>TL,E,R1,D1
+1/26/22,Vail & Summit County,N,>TL,E,R1,D1
+1/26/22,Vail & Summit County,N,>TL,E,R1,D1
+1/26/22,Vail & Summit County,N,>TL,E,R1,D1
+1/26/22,Vail & Summit County,N,>TL,E,R1,D1
+1/26/22,Vail & Summit County,N,>TL,E,R1,D1
+1/26/22,Vail & Summit County,N,>TL,E,R1,D1
+1/26/22,Vail & Summit County,N,>TL,E,R1,D1
+1/26/22,Vail & Summit County,N,>TL,E,R1,D1
+1/26/22,Vail & Summit County,N,>TL,E,R1,D1
+1/26/22,Vail & Summit County,N,>TL,E,R1,D1
+1/26/22,Vail & Summit County,N,>TL,E,R1,D1
+1/26/22,Vail & Summit County,N,>TL,NE,R1,D1
+1/26/22,Vail & Summit County,N,>TL,NE,R1,D1
+1/26/22,Vail & Summit County,N,>TL,NE,R1,D1.5
+1/26/22,Front Range,AS,TL,NE,R1,D1
+1/26/22,Front Range,AS,<TL,E,R1,D1
+1/26/22,Vail & Summit County,AS,>TL,NE,R1,D1
+1/26/22,Front Range,AS,TL,E,R1,D1
+1/26/22,Vail & Summit County,AS,<TL,NW,R1,D1
+1/26/22,Aspen,AS,>TL,NE,R1,D1
+1/26/22,Gunnison,AS,>TL,NW,R1,D1
+1/26/22,Front Range,AS,>TL,NE,R1,D1
+1/26/22,Aspen,N,>TL,NW,R2,D2
+1/26/22,Sawatch,AS,>TL,SE,R1,D1
+1/26/22,Sawatch,N,>TL,E,R1,D1
+1/26/22,Sawatch,N,>TL,E,R1,D1
+1/26/22,Front Range,N,>TL,E,R2,D2
+1/27/22,Gunnison,AS,>TL,NE,R1,D1
+1/27/22,Gunnison,U,>TL,E,R1,D1
+1/27/22,Gunnison,AS,<TL,NE,R1,D1
+1/27/22,Aspen,N,>TL,NE,R1,D1.5
+1/27/22,Gunnison,AS,TL,N,R1,D1
+1/27/22,Vail & Summit County,N,>TL,E,R2,D2.5
+1/28/22,Front Range,U,>TL,E,R1,D1.5
+1/28/22,Front Range,N,>TL,NE,R1,D1
+1/28/22,Front Range,N,>TL,NE,R1,D1
+1/28/22,Front Range,AS,TL,NE,R1,D1
+1/28/22,Front Range,AS,TL,NE,R1,D1
+1/28/22,Front Range,AS,TL,NE,R1,D1
+1/28/22,South San Juan,N,>TL,SE,R1,D1
+1/28/22,North San Juan,N,TL,E,R2,D1.5
+1/28/22,Vail & Summit County,AS,TL,S,R1,D1
+1/28/22,Vail & Summit County,N,TL,N,R1,D1
+1/28/22,Gunnison,AS,>TL,S,R1,D1
+1/28/22,Gunnison,AR,>TL,,R1,D1
+1/28/22,Gunnison,AS,>TL,E,R1,D1
+1/28/22,Gunnison,AS,TL,NE,R1,D1
+1/28/22,Gunnison,AS,TL,NE,R1,D1
+1/28/22,Gunnison,N,>TL,NE,R1,D1
+1/28/22,Gunnison,AS,TL,NE,R1,D1
+1/28/22,Gunnison,AS,>TL,,R1,D1
+1/28/22,Aspen,AS,>TL,E,R1,D1
+1/28/22,Aspen,AS,>TL,E,R1,D1
+1/28/22,Aspen,AS,>TL,E,R1,D1
+1/28/22,Aspen,AS,>TL,E,R1,D1
+1/28/22,Aspen,AS,>TL,E,R1,D1
+1/28/22,Aspen,AS,>TL,E,R1,D1
+1/28/22,Gunnison,N,>TL,NW,R2,D2
+1/28/22,Gunnison,N,>TL,NW,R2,D2
+1/29/22,Aspen,AS,>TL,E,R1,D1
+1/29/22,Vail & Summit County,N,>TL,E,R1,D1.5
+1/29/22,Front Range,N,>TL,N,R1,D1
+1/29/22,Front Range,AS,>TL,E,R1,D1
+1/29/22,Front Range,N,>TL,SE,R1,D1.5
+1/29/22,Gunnison,AS,>TL,NE,R1,D1.5
+1/29/22,Gunnison,AS,>TL,SE,R1,D1
+1/29/22,Gunnison,AS,TL,NW,R1,D1
+1/29/22,North San Juan,AS,>TL,N,R2,D1.5
+1/29/22,Front Range,AR,>TL,E,R2,D1.5
+1/29/22,UNK,AR,<TL,SE,R1,D1
+1/29/22,UNK,AS,>TL,E,R1,D1.5
+1/30/22,Aspen,AS,TL,N,R1,D2
+1/30/22,Aspen,AS,TL,N,R1,D2
+1/30/22,Aspen,AS,TL,N,R1,D2
+1/30/22,Gunnison,AS,<TL,NE,R1,D1.5
+1/30/22,Gunnison,AS,<TL,NE,R1,D1.5
+1/30/22,Sawatch,N,>TL,E,R1,D1
+1/30/22,Sawatch,N,>TL,NE,R1,D1
+1/30/22,Front Range,AR,<TL,NW,R1,D1
+1/30/22,Vail & Summit County,U,>TL,E,R2,D2
+1/30/22,Gunnison,AS,>TL,SE,R1,D1
+1/30/22,Vail & Summit County,AR,TL,NW,R2,D3
+1/31/22,Front Range,N,TL,E,R1,D1
+1/31/22,Vail & Summit County,AS,>TL,NW,R1,D1
+1/31/22,Vail & Summit County,AS,>TL,SE,R1,D1
+1/31/22,Gunnison,N,>TL,NE,R1,D1
+1/31/22,Front Range,AS,<TL,E,R1,D1
+1/31/22,Front Range,AS,<TL,E,R1,D1
+1/31/22,Vail & Summit County,U,<TL,E,R1,D1
+1/31/22,Vail & Summit County,N,TL,NW,R1,D1
+2/1/22,South San Juan,AS,TL,E,R1,D1
+2/1/22,South San Juan,AS,TL,E,R1,D1
+2/1/22,Aspen,AS,>TL,NW,,D1.5
+2/1/22,Gunnison,AS,<TL,E,R1,D1
+2/1/22,Gunnison,AS,<TL,E,R1,D1
+2/2/22,North San Juan,AS,TL,NE,R1,D1
+2/2/22,South San Juan,N,>TL,NE,R2,D2
+2/2/22,South San Juan,N,>TL,NE,R2,D2
+2/2/22,South San Juan,N,>TL,E,R2,D2
+2/2/22,South San Juan,N,TL,NE,R1,D1.5
+2/2/22,South San Juan,N,TL,NE,R1,D1.5
+2/2/22,South San Juan,N,TL,NE,R1,D1.5
+2/2/22,South San Juan,AS,<TL,E,R1,D1
+2/2/22,South San Juan,N,TL,NE,R2,D2
+2/2/22,South San Juan,N,TL,NE,R2,D2
+2/2/22,South San Juan,N,TL,NE,R2,D2
+2/2/22,South San Juan,N,TL,NE,R2,D1.5
+2/2/22,Gunnison,AS,<TL,NE,R1,D1
+2/2/22,Gunnison,AS,<TL,NE,R1,D1
+2/2/22,Gunnison,AS,<TL,NE,R1,D1
+2/2/22,South San Juan,N,>TL,NE,R2,D2
+2/2/22,South San Juan,N,>TL,NE,R2,D2
+2/2/22,South San Juan,N,>TL,E,R1,D2
+2/2/22,South San Juan,N,>TL,E,R1,D2
+2/2/22,South San Juan,N,>TL,SE,R1,D1.5
+2/2/22,South San Juan,N,>TL,SW,R1,D1.5
+2/2/22,South San Juan,N,>TL,SW,R1,D1.5
+2/2/22,North San Juan,N,TL,N,R1,D1
+2/2/22,North San Juan,N,>TL,NE,R1,D1
+2/2/22,North San Juan,N,>TL,NE,R1,D1.5
+2/2/22,North San Juan,N,>TL,NE,R1,D1.5
+2/2/22,South San Juan,N,TL,NW,R1,D1
+2/2/22,South San Juan,N,TL,NW,R1,D1
+2/2/22,South San Juan,N,TL,NW,R1,D1
+2/2/22,South San Juan,N,>TL,NW,R1,D1.5
+2/2/22,South San Juan,N,>TL,W,R1,D1.5
+2/3/22,South San Juan,AX,<TL,NE,R2,D1.5
+2/3/22,Vail & Summit County,AS,<TL,NW,R1,D1
+2/3/22,Vail & Summit County,AS,<TL,NW,R1,D1
+2/3/22,Vail & Summit County,AS,<TL,NW,R1,D1
+2/3/22,Front Range,U,>TL,E,R1,D1.5
+2/3/22,South San Juan,AS,>TL,NW,R1,D1.5
+2/3/22,South San Juan,N,>TL,NE,R1,D1.5
+2/3/22,South San Juan,N,>TL,SE,R1,D1
+2/3/22,Aspen,AS,<TL,NW,R1,D1
+2/3/22,North San Juan,AS,<TL,NW,R1,D1
+2/3/22,Front Range,U,>TL,NE,R1,D1
+2/3/22,Gunnison,U,>TL,E,R1,D1
+2/3/22,Gunnison,U,>TL,E,R1,D1
+2/3/22,Gunnison,AS,TL,NE,R1,D1
+2/3/22,Gunnison,AS,<TL,NE,R1,D1
+2/3/22,Gunnison,N,TL,E,R1,D1
+2/3/22,Aspen,AS,TL,NW,R1,D1
+2/3/22,Aspen,AS,TL,NW,R1,D1
+2/3/22,North San Juan,N,>TL,NW,R1,D1
+2/3/22,Sangre de Cristo,N,>TL,E,R3,D2.5
+2/3/22,Sangre de Cristo,N,>TL,E,R2,D2
+2/3/22,Sangre de Cristo,N,>TL,SE,R3,D2
+2/3/22,North San Juan,AS,>TL,NE,R1,D1
+2/4/22,Front Range,AS,,,R1,D1
+2/4/22,Aspen,AS,>TL,N,R1,D1
+2/4/22,Vail & Summit County,AS,>TL,S,,
+2/4/22,Vail & Summit County,AS,>TL,SE,R1,D1
+2/4/22,Vail & Summit County,AS,>TL,NW,R2,D2
+2/4/22,Aspen,AS,TL,NE,R1,D1.5
+2/4/22,Aspen,AS,TL,NE,R1,D1.5
+2/4/22,Aspen,AS,TL,NE,R1,D1
+2/4/22,Front Range,AS,>TL,NE,R1,D1
+2/4/22,Front Range,AS,,NE,,D1.5
+2/4/22,Front Range,AS,,NE,,D1.5
+2/4/22,Front Range,AS,,NE,,D1.5
+2/4/22,Vail & Summit County,AS,>TL,SE,R1,D1
+2/4/22,Gunnison,AS,>TL,E,,D1.5
+2/4/22,Front Range,AS,<TL,NE,R1,D1
+2/4/22,Front Range,AS,<TL,NE,R1,D1
+2/4/22,Front Range,AS,<TL,NE,R1,D1
+2/4/22,Vail & Summit County,AS,<TL,E,R1,D1
+2/4/22,Vail & Summit County,AS,<TL,NE,R1,D1
+2/4/22,North San Juan,N,>TL,N,R1,D1
+2/4/22,Front Range,AS,>TL,NE,R1,D1.5
+2/4/22,Front Range,AS,>TL,NE,R1,D1
+2/4/22,Vail & Summit County,AS,>TL,NE,R1,D1.5
+2/5/22,South San Juan,AS,>TL,NE,R1,D1
+2/5/22,South San Juan,AS,>TL,NE,R1,D1
+2/5/22,Steamboat & Flat Tops,AS,<TL,,R1,D1
+2/5/22,Sawatch,N,TL,NE,R1,D1
+2/5/22,Aspen,N,>TL,S,R1,D1
+2/5/22,Aspen,AS,TL,,R1,D1
+2/5/22,Aspen,AS,TL,,R1,D1
+2/5/22,Aspen,AS,TL,,R1,D1
+2/5/22,Aspen,AS,>TL,,R1,D1
+2/5/22,Aspen,AS,>TL,,R1,D1
+2/5/22,Aspen,AS,>TL,,R1,D1
+2/5/22,Front Range,AM,TL,,R1,D1
+2/5/22,Sawatch,AS,<TL,NE,R1,D1
+2/5/22,Sawatch,AS,<TL,NE,R1,D1
+2/5/22,Sawatch,AS,<TL,NE,R1,D1
+2/5/22,Sawatch,AS,<TL,NE,R1,D1
+2/5/22,Front Range,AS,>TL,NE,R1,D1.5
+2/5/22,South San Juan,AM,TL,NE,R1,D1
+2/5/22,North San Juan,AS,>TL,NE,R1,D1.5
+2/5/22,Gunnison,AW,TL,,R1,D1
+2/5/22,Gunnison,AW,TL,,R1,D1
+2/5/22,Gunnison,AW,TL,,R1,D1
+2/5/22,Gunnison,AW,TL,,R1,D1
+2/5/22,Gunnison,AS,TL,N,R1,D1
+2/5/22,North San Juan,AR,>TL,N,R1,D1
+2/5/22,Vail & Summit County,AS,TL,E,R1,D1
+2/5/22,North San Juan,N,<TL,NW,R1,D1
+2/6/22,Front Range,AS,TL,N,R1,D1
+2/6/22,Front Range,AS,TL,N,R1,D1
+2/6/22,Front Range,AS,TL,N,R1,D1
+2/6/22,Front Range,AS,<TL,N,R1,D1
+2/6/22,Front Range,AS,<TL,N,R1,D1
+2/6/22,Front Range,AS,<TL,N,R1,D1
+2/6/22,Front Range,AS,TL,SE,R1,D1.5
+2/6/22,Vail & Summit County,U,>TL,SE,R2,D2
+2/6/22,Vail & Summit County,AS,TL,NE,R1,D1
+2/6/22,Gunnison,AM,TL,E,R1,D1
+2/6/22,Gunnison,AS,TL,NE,R1,D1
+2/6/22,Gunnison,AS,TL,E,R2,D1
+2/6/22,Gunnison,AS,TL,NE,R2,D1.5
+2/6/22,North San Juan,AS,>TL,NE,R1,D1
+2/6/22,South San Juan,AS,TL,NE,R2,D2
+2/7/22,Front Range,N,>TL,S,R1,D1
+2/7/22,Sawatch,AS,<TL,E,R1,D1
+2/7/22,Sawatch,AS,<TL,E,R1,D1
+2/7/22,Sawatch,AS,<TL,E,R1,D1
+2/7/22,Sawatch,U,>TL,SE,R1,D1
+2/7/22,Aspen,AS,<TL,E,R1,D1.5
+2/7/22,North San Juan,N,TL,E,R1,D1.5
+2/7/22,North San Juan,AS,>TL,W,R2,D2
+2/7/22,Sangre de Cristo,N,>TL,,R1,D1
+2/7/22,Sangre de Cristo,N,>TL,,R1,D1
+2/7/22,Sangre de Cristo,N,>TL,,R1,D1
+2/7/22,Sangre de Cristo,N,>TL,,R1,D1
+2/8/22,Steamboat & Flat Tops,AS,<TL,N,R1,D1
+2/8/22,Steamboat & Flat Tops,AS,<TL,N,R1,D1
+2/8/22,Steamboat & Flat Tops,AS,TL,N,R1,D1
+2/8/22,Aspen,AS,>TL,NW,R1,D1
+2/8/22,Aspen,AS,>TL,NW,R1,D1
+2/8/22,Aspen,AS,TL,NE,R1,D1.5
+2/8/22,Aspen,AS,TL,NE,R1,D1.5
+2/8/22,Aspen,AS,TL,NE,R1,D1.5
+2/8/22,Aspen,AS,TL,NE,R1,D1.5
+2/8/22,Aspen,AS,TL,NE,R1,D1.5
+2/8/22,Aspen,AS,TL,NE,R1,D1.5
+2/8/22,Sawatch,AM,TL,E,R1,D1
+2/8/22,Gunnison,U,TL,NE,R1,D1
+2/8/22,Gunnison,N,TL,SE,R1,D1
+2/8/22,Gunnison,N,TL,SE,R1,D1
+2/9/22,Gunnison,U,<TL,NE,R1,D1.5
+2/9/22,Gunnison,AS,TL,NW,R2,D1
+2/9/22,North San Juan,AS,TL,NE,R1,D1
+2/9/22,North San Juan,AS,TL,NE,R1,D1
+2/9/22,Vail & Summit County,N,>TL,NE,R2,D1.5
+2/10/22,Sawatch,N,>TL,E,R1,D1
+2/10/22,Front Range,N,>TL,E,R2,D2
+2/10/22,Front Range,N,TL,NE,R1,D1
+2/10/22,Gunnison,N,TL,E,R1,D1
+2/10/22,Gunnison,N,TL,E,R1,D1
+2/10/22,Gunnison,N,<TL,NW,R1,D1
+2/10/22,South San Juan,AS,TL,NE,R1,D1
+2/10/22,South San Juan,AS,TL,NE,R1,D1
+2/10/22,Gunnison,AS,>TL,E,R1,D1
+2/10/22,Gunnison,AS,>TL,E,R1,D1
+2/10/22,Gunnison,AS,>TL,E,R1,D1
+2/10/22,Gunnison,AS,>TL,E,R1,D1
+2/10/22,Gunnison,AS,TL,NE,R1,D1.5
+2/10/22,Vail & Summit County,AS,>TL,N,R1,D1
+2/10/22,Vail & Summit County,N,TL,E,R3,D2.5
+2/10/22,North San Juan,N,TL,N,R1,D1.5
+2/10/22,Sawatch,N,>TL,E,R1,D1.5
+2/10/22,Sawatch,AM,>TL,E,R1,D1.5
+2/10/22,Gunnison,AS,<TL,N,R1,D1.5
+2/11/22,Front Range,N,>TL,S,R1,D1
+2/11/22,Aspen,AS,TL,NE,R1,D1
+2/11/22,Aspen,AS,>TL,N,R1,D1
+2/11/22,Steamboat & Flat Tops,AS,<TL,NE,R1,D1
+2/11/22,Aspen,AS,TL,E,R2,D1.5
+2/11/22,Aspen,AS,<TL,NE,R1,D1
+2/11/22,Front Range,AS,TL,NE,R2,D2
+2/11/22,Gunnison,N,TL,E,R1,D2
+2/11/22,Sawatch,N,>TL,E,R2,D1.5
+2/11/22,Front Range,N,>TL,E,R2,D2
+2/11/22,Front Range,N,>TL,E,R1,D1
+2/11/22,Front Range,N,>TL,E,R1,D1
+2/11/22,Front Range,N,>TL,E,R1,D1
+2/11/22,Gunnison,AM,TL,E,R1,D1
+2/11/22,Gunnison,AS,TL,E,R1,D1.5
+2/12/22,Front Range,AS,TL,S,R2,D2
+2/12/22,North San Juan,AS,TL,N,R1,D1
+2/12/22,Aspen,AS,>TL,S,R1,D1.5
+2/12/22,Sawatch,AS,>TL,SW,R1,D1.5
+2/12/22,Vail & Summit County,AS,<TL,NE,R1,D1
+2/12/22,Sawatch,AF,>TL,SE,R3,D1.5
+2/12/22,Front Range,N,>TL,SE,R2,D2
+2/12/22,Front Range,N,>TL,E,R1,D1.5
+2/12/22,Front Range,N,>TL,E,R1,D1.5
+2/12/22,Gunnison,AM,TL,SE,R2,D2
+2/12/22,Gunnison,AS,TL,E,R2,D2
+2/12/22,Gunnison,N,TL,W,R1,D1
+2/12/22,Gunnison,N,TL,W,R1,D1
+2/12/22,Gunnison,N,>TL,SW,R1,D1.5
+2/12/22,Gunnison,N,TL,SE,R1,D1.5
+2/12/22,Gunnison,AS,TL,S,R2,D2
+2/12/22,Gunnison,AS,TL,E,R1,D1
+2/12/22,Gunnison,AS,TL,E,R1,D1
+2/12/22,Front Range,AS,TL,NE,R1,D1
+2/12/22,Sawatch,N,>TL,E,R1,D1.5
+2/12/22,Aspen,N,>TL,NE,R2,D1.5
+2/12/22,Vail & Summit County,N,>TL,NE,R2,D1.5
+2/12/22,Aspen,AS,TL,NE,R1,D1
+2/12/22,Front Range,AS,TL,E,R1,D1
+2/12/22,Aspen,AR,>TL,E,R1,D2
+2/13/22,Gunnison,AS,<TL,N,R1,D1.5
+2/13/22,Sawatch,U,>TL,SE,R1,D1
+2/13/22,Front Range,U,>TL,E,R1,D1
+2/13/22,Steamboat & Flat Tops,AF,<TL,NE,R1,D1
+2/13/22,Steamboat & Flat Tops,AF,<TL,NE,R1,D1
+2/13/22,Vail & Summit County,N,>TL,N,R1,D1
+2/13/22,Sawatch,N,>TL,SE,R1,D2
+2/13/22,Sawatch,N,>TL,SE,R2,D2
+2/13/22,North San Juan,AM,>TL,NE,R1,D1.5
+2/13/22,North San Juan,AM,>TL,NE,R1,D1
+2/13/22,North San Juan,N,>TL,E,R1,D2
+2/13/22,North San Juan,AS,>TL,SE,R1,D2
+2/13/22,Front Range,AR,>TL,NE,R2,D1.5
+2/13/22,Vail & Summit County,AS,>TL,S,R2,D2
+2/14/22,Front Range,AM,TL,N,,D1
+2/14/22,Gunnison,U,<TL,N,R1,D1
+2/14/22,Gunnison,U,TL,E,R1,D1
+2/14/22,Sawatch,N,>TL,NE,R2,D1.5
+2/14/22,Sawatch,N,>TL,NE,R2,D1.5
+2/14/22,Gunnison,AS,>TL,S,R1,D1
+2/14/22,Sawatch,U,<TL,SE,R1,D1
+2/14/22,Front Range,N,>TL,NE,R3,D2
+2/14/22,Front Range,N,>TL,NE,R3,D2
+2/14/22,Front Range,N,>TL,NE,R3,D2
+2/14/22,North San Juan,AS,>TL,SE,,D2
+2/15/22,Vail & Summit County,N,>TL,SE,R2,D1.5
+2/15/22,Vail & Summit County,N,>TL,S,R1,D1
+2/15/22,South San Juan,N,<TL,NE,R1,D1
+2/15/22,Sawatch,AS,<TL,E,R1,D1
+2/16/22,Gunnison,AS,TL,NE,R1,D2
+2/16/22,Sawatch,N,>TL,E,R1,D1
+2/16/22,Sawatch,N,>TL,E,R1,D1
+2/16/22,Sawatch,N,>TL,NE,R1,D1.5
+2/16/22,Sawatch,N,>TL,E,R1,D2
+2/17/22,North San Juan,AS,>TL,E,R1,D2
+2/17/22,Sawatch,N,>TL,SE,R1,D1
+2/17/22,Front Range,AS,TL,,R1,D1
+2/17/22,Front Range,AS,TL,,R1,D1
+2/17/22,Front Range,AS,>TL,,R1,D1
+2/17/22,Front Range,AS,>TL,,R1,D1
+2/17/22,North San Juan,AS,>TL,W,R1,D1
+2/17/22,North San Juan,N,>TL,S,R1,D1.5
+2/17/22,Aspen,N,>TL,N,R1,D1
+2/17/22,Aspen,N,>TL,E,R1,D1
+2/17/22,Aspen,N,>TL,E,R1,D1
+2/17/22,Gunnison,N,>TL,E,R1,D1
+2/17/22,Gunnison,N,>TL,E,R1,D1
+2/17/22,Front Range,AS,TL,E,R1,D1
+2/17/22,South San Juan,N,TL,NE,R1,D1
+2/17/22,Gunnison,U,>TL,N,R1,D1
+2/17/22,Gunnison,U,>TL,N,R1,D1
+2/17/22,Gunnison,U,>TL,NE,R1,D1
+2/17/22,Gunnison,U,>TL,NE,R1,D1
+2/17/22,Gunnison,U,>TL,E,R1,D1
+2/17/22,Gunnison,U,>TL,E,R1,D1
+2/17/22,Gunnison,N,TL,NE,R2,D2
+2/17/22,Aspen,N,>TL,E,R2,D2
+2/17/22,Aspen,N,>TL,E,R2,D2
+2/17/22,South San Juan,N,TL,E,R1,D1
+2/17/22,Aspen,N,>TL,E,R1,D1.5
+2/17/22,Aspen,N,>TL,NE,R1,D1
+2/17/22,Aspen,N,>TL,NE,R1,D1
+2/17/22,North San Juan,N,>TL,SW,R1,D2
+2/17/22,South San Juan,N,TL,N,R1,D1.5
+2/17/22,South San Juan,N,>TL,E,R1,D1.5
+2/17/22,South San Juan,N,>TL,NW,R1,D1
+2/17/22,Aspen,N,>TL,NW,R1,D1.5
+2/17/22,Sawatch,N,>TL,SE,R1,D1.5
+2/17/22,North San Juan,AS,>TL,W,R1,D1.5
+2/17/22,Aspen,U,<TL,NE,R1,D1.5
+2/17/22,Aspen,N,>TL,NE,R1,D1
+2/17/22,Aspen,N,>TL,NE,R1,D1
+2/17/22,Sawatch,N,>TL,E,R3,D2.5
+2/17/22,Aspen,N,>TL,SE,,
+2/17/22,Front Range,AX,TL,N,R2,D2
+2/17/22,Front Range,AX,TL,E,R1,D1
+2/17/22,Front Range,AX,TL,N,R1,D1
+2/17/22,Front Range,AX,TL,N,R2,D1.5
+2/17/22,Sawatch,N,>TL,E,R1,D1
+2/18/22,North San Juan,AS,>TL,W,R1,D1.5
+2/18/22,Front Range,N,TL,SE,R2,D2
+2/18/22,Vail & Summit County,N,>TL,E,R2,D2
+2/18/22,Sawatch,U,TL,NE,R1,D1.5
+2/18/22,Gunnison,N,>TL,E,R1,D1
+2/18/22,Gunnison,N,TL,NE,R1,D1
+2/18/22,Gunnison,N,TL,NE,R1,D1
+2/18/22,Gunnison,AS,<TL,NE,R1,D1
+2/18/22,Gunnison,AS,<TL,NE,R1,D1
+2/18/22,Gunnison,AS,<TL,NE,R1,D1
+2/18/22,Aspen,AS,>TL,SE,R1,D1.5
+2/18/22,Aspen,N,>TL,E,R1,D1.5
+2/18/22,Front Range,N,>TL,E,R3,D1
+2/18/22,Front Range,N,>TL,E,R3,D1
+2/18/22,Front Range,N,>TL,E,R3,D1
+2/18/22,Aspen,N,>TL,E,R2,D1.5
+2/18/22,Aspen,N,>TL,SE,R1,D1.5
+2/18/22,North San Juan,AS,>TL,SW,R1,D1
+2/18/22,North San Juan,AS,>TL,SE,R2,D2
+2/18/22,Gunnison,N,TL,NE,R1,D2
+2/18/22,North San Juan,AS,>TL,E,R1,D1
+2/19/22,Aspen,AS,TL,,R1,D1.5
+2/19/22,Vail & Summit County,AS,<TL,S,R1,D1.5
+2/19/22,Aspen,N,>TL,SE,R1,D1
+2/19/22,Aspen,N,>TL,SE,R1,D1
+2/19/22,Aspen,N,>TL,SE,R1,D1
+2/19/22,Sawatch,AS,TL,SW,R1,D1
+2/19/22,Front Range,U,>TL,E,R1,D1
+2/19/22,Steamboat & Flat Tops,N,<TL,N,R1,D1
+2/19/22,Steamboat & Flat Tops,N,<TL,N,R1,D1
+2/19/22,Vail & Summit County,N,>TL,E,R2,D2
+2/19/22,Front Range,AS,<TL,E,R1,D1
+2/19/22,Vail & Summit County,U,>TL,E,R2,D1
+2/19/22,North San Juan,AM,>TL,NE,R1,D1
+2/19/22,Vail & Summit County,U,TL,U,U,U
+2/19/22,Vail & Summit County,AS,TL,W,R1,D1.5
+2/19/22,Vail & Summit County,N,>TL,E,R1,D1.5
+2/19/22,Vail & Summit County,N,>TL,E,R1,D1.5
+2/19/22,Gunnison,U,<TL,NE,R1,D1
+2/19/22,Gunnison,N,>TL,SE,R1,D1.5
+2/19/22,Gunnison,AS,<TL,NE,R1,D1
+2/19/22,Gunnison,AS,<TL,NE,R1,D1
+2/19/22,Vail & Summit County,AS,>TL,SE,R1,D1.5
+2/19/22,North San Juan,AM,TL,W,R2,D1.5
+2/19/22,Vail & Summit County,AS,>TL,W,R2,D1.5
+2/20/22,Aspen,U,>TL,NW,,D2
+2/20/22,Gunnison,AS,<TL,NE,R1,D1
+2/20/22,Gunnison,AS,<TL,NE,R1,D1
+2/20/22,Gunnison,AS,<TL,NE,R1,D1
+2/20/22,Gunnison,AS,<TL,NE,R1,D1
+2/20/22,Gunnison,AS,<TL,NE,R1,D1
+2/20/22,Gunnison,AS,<TL,NE,R1,D1
+2/20/22,Gunnison,AS,<TL,NE,R1,D1
+2/20/22,Gunnison,AS,<TL,NE,R1,D1
+2/20/22,Vail & Summit County,AS,TL,NE,R1,D1
+2/20/22,Front Range,AS,<TL,N,R1,D1
+2/20/22,Sawatch,AS,<TL,N,R1,D1
+2/20/22,Gunnison,AS,TL,,,
+2/20/22,Aspen,AS,TL,NE,R1,D1
+2/20/22,Aspen,AS,TL,NE,R1,D1
+2/20/22,Aspen,AS,TL,NE,R1,D1
+2/20/22,North San Juan,AR,<TL,N,R1,D1
+2/20/22,Front Range,N,TL,E,R2,D1.5
+2/20/22,North San Juan,AS,>TL,SW,R1,D2
+2/21/22,Vail & Summit County,U,>TL,E,R1,D1
+2/21/22,Vail & Summit County,AS,<TL,N,R1,D1
+2/21/22,Front Range,AS,<TL,NE,R1,D1
+2/21/22,Front Range,N,>TL,E,R2,D2.5
+2/22/22,Aspen,AS,<TL,E,R1,D1
+2/22/22,Gunnison,AM,<TL,E,R2,D2
+2/22/22,Gunnison,N,TL,NE,R2,D2
+2/22/22,Gunnison,N,TL,NE,R2,D2
+2/22/22,Gunnison,N,TL,NE,R2,D2
+2/22/22,Gunnison,AS,TL,NE,R1,D1
+2/22/22,Gunnison,AS,TL,NE,R1,D1
+2/22/22,Gunnison,AS,TL,NE,R1,D1
+2/22/22,Gunnison,AS,TL,NE,R1,D1
+2/22/22,Gunnison,AS,<TL,NE,R1,D1
+2/22/22,Gunnison,AS,<TL,NE,R1,D1
+2/22/22,Gunnison,AS,<TL,NE,R1,D1
+2/22/22,Gunnison,AS,<TL,NE,R1,D1
+2/22/22,Gunnison,AS,<TL,NE,R1,D1
+2/22/22,Gunnison,AS,<TL,NE,R1,D1
+2/22/22,Gunnison,N,<TL,NE,R2,D2
+2/22/22,Aspen,N,<TL,NE,R2,D2
+2/22/22,Aspen,N,<TL,NE,R2,D2
+2/22/22,Aspen,N,>TL,NE,R2,D2.5
+2/22/22,Aspen,N,>TL,NE,R2,D2.5
+2/22/22,Aspen,N,>TL,E,R2,D2
+2/22/22,Aspen,N,>TL,E,R2,D2
+2/22/22,Aspen,N,<TL,E,R2,D2
+2/22/22,North San Juan,AE,<TL,SE,R2,D2
+2/22/22,North San Juan,AE,<TL,E,R2,D1.5
+2/22/22,North San Juan,AL,<TL,NW,R2,D2
+2/22/22,North San Juan,AL,<TL,N,R2,D2
+2/22/22,North San Juan,AL,<TL,NW,R2,D2
+2/22/22,Sawatch,AE,<TL,NE,R1,D1
+2/22/22,Sawatch,AE,<TL,E,R1,D1
+2/22/22,Sawatch,AX,<TL,NE,R2,D2
+2/22/22,Sawatch,AX,<TL,E,R2,D2
+2/23/22,Gunnison,N,>TL,NE,R2,D2
+2/23/22,Gunnison,N,<TL,E,R2,D2
+2/23/22,Gunnison,N,<TL,E,R2,D2
+2/23/22,Gunnison,N,<TL,E,R2,D2
+2/23/22,Gunnison,N,TL,NW,R2,D2
+2/23/22,Gunnison,N,<TL,N,R1,D1
+2/23/22,Gunnison,N,<TL,N,R1,D1
+2/23/22,Gunnison,N,<TL,N,R1,D1
+2/23/22,Gunnison,N,<TL,N,R1,D1
+2/23/22,Gunnison,N,<TL,N,R1,D1
+2/23/22,Gunnison,N,<TL,N,R1,D1
+2/23/22,Gunnison,N,<TL,N,R1,D1
+2/23/22,Gunnison,N,<TL,N,R1,D1
+2/23/22,Gunnison,N,<TL,N,R1,D1
+2/23/22,Gunnison,N,<TL,N,R1,D1
+2/23/22,North San Juan,N,TL,N,R3,D2
+2/23/22,North San Juan,N,TL,N,R3,D2
+2/23/22,North San Juan,N,TL,N,R3,D2
+2/23/22,North San Juan,N,TL,N,R3,D2
+2/23/22,North San Juan,N,>TL,N,R3,D2
+2/23/22,North San Juan,N,>TL,N,R3,D2
+2/23/22,North San Juan,N,>TL,N,R3,D2
+2/23/22,North San Juan,N,>TL,N,R3,D2
+2/23/22,North San Juan,N,>TL,N,R3,D2
+2/23/22,North San Juan,N,>TL,N,R3,D2.5
+2/23/22,North San Juan,N,>TL,N,R3,D2.5
+2/23/22,Sawatch,N,>TL,NE,R3,D1.5
+2/23/22,Gunnison,N,TL,NW,R1,D1.5
+2/23/22,Gunnison,N,<TL,E,R1,D1.5
+2/23/22,Gunnison,N,<TL,E,R1,D1.5
+2/23/22,Gunnison,N,<TL,E,R1,D1.5
+2/23/22,Gunnison,N,<TL,E,R1,D1.5
+2/23/22,Gunnison,N,<TL,E,R1,D1.5
+2/23/22,Gunnison,N,<TL,E,R1,D1.5
+2/23/22,Gunnison,N,TL,E,R2,D2
+2/23/22,Gunnison,N,TL,E,R2,D2
+2/23/22,Gunnison,N,TL,W,R2,D2
+2/23/22,Gunnison,N,TL,W,R2,D2
+2/23/22,Gunnison,N,TL,W,R2,D2
+2/23/22,South San Juan,N,TL,N,R1,D2
+2/23/22,South San Juan,N,TL,N,R1,D2
+2/23/22,South San Juan,N,<TL,E,R1,D2
+2/23/22,South San Juan,N,<TL,E,R1,D2
+2/23/22,South San Juan,N,<TL,NE,R1,D2
+2/23/22,South San Juan,N,<TL,NE,R1,D2
+2/23/22,South San Juan,N,<TL,N,R1,D2
+2/23/22,South San Juan,N,<TL,N,R1,D2
+2/23/22,Gunnison,U,<TL,E,,
+2/23/22,Gunnison,U,<TL,E,,
+2/23/22,Grand Mesa,AM,<TL,NE,R2,D1.5
+2/23/22,Vail & Summit County,U,>TL,NE,R2,D1.5
+2/23/22,Aspen,N,<TL,NE,R1,D1.5
+2/23/22,Aspen,N,<TL,NE,R1,D1.5
+2/23/22,Aspen,N,<TL,NE,R2,D2
+2/23/22,Aspen,N,<TL,NE,R2,D2
+2/23/22,Gunnison,U,<TL,NE,,D1.5
+2/23/22,Gunnison,U,<TL,NE,,D1.5
+2/23/22,Gunnison,U,<TL,NE,,D1.5
+2/23/22,Gunnison,U,<TL,NE,,D1.5
+2/23/22,Gunnison,N,TL,N,R2,D2
+2/23/22,Gunnison,N,<TL,NE,R1,D1.5
+2/23/22,Gunnison,N,<TL,E,R1,D1
+2/23/22,Gunnison,N,<TL,E,R1,D1
+2/23/22,Gunnison,N,>TL,S,R1,D1.5
+2/23/22,Gunnison,N,>TL,S,R1,D1.5
+2/23/22,Gunnison,N,>TL,S,R2,D2
+2/23/22,Gunnison,N,>TL,NE,R2,D2
+2/23/22,Gunnison,N,>TL,NE,R2,D2
+2/23/22,Gunnison,N,TL,S,R1,D1.5
+2/23/22,Gunnison,N,TL,S,R1,D1.5
+2/23/22,Gunnison,N,TL,E,R2,D2
+2/23/22,Gunnison,N,TL,E,R2,D2
+2/23/22,Gunnison,N,TL,E,R2,D2
+2/23/22,Gunnison,N,TL,E,R2,D2
+2/23/22,Gunnison,N,TL,E,R2,D2
+2/23/22,Gunnison,N,TL,E,R2,D2
+2/23/22,Gunnison,N,TL,E,R2,D2
+2/23/22,Gunnison,N,TL,E,R1,D1
+2/23/22,Gunnison,N,TL,E,R1,D1
+2/23/22,Gunnison,N,TL,E,R1,D1
+2/23/22,Gunnison,N,TL,E,R1,D1
+2/23/22,Gunnison,N,TL,E,R1,D1
+2/23/22,Gunnison,N,TL,E,R1,D1
+2/23/22,Gunnison,N,TL,E,R1,D1
+2/23/22,Gunnison,N,TL,E,R1,D1
+2/23/22,Gunnison,N,TL,E,R1,D1
+2/23/22,Gunnison,N,TL,E,R1,D1
+2/23/22,Gunnison,N,TL,E,R1,D1.5
+2/23/22,Gunnison,N,TL,E,R1,D1.5
+2/23/22,Gunnison,N,TL,NE,R1,D1.5
+2/23/22,Gunnison,N,<TL,E,R2,D2
+2/23/22,Gunnison,N,<TL,E,R2,D2
+2/23/22,Gunnison,N,<TL,E,R2,D2
+2/23/22,Gunnison,N,<TL,E,R2,D2
+2/23/22,Gunnison,N,<TL,E,R1,D1.5
+2/23/22,Gunnison,N,<TL,E,R1,D1.5
+2/23/22,Gunnison,N,<TL,E,R1,D1.5
+2/23/22,Gunnison,N,<TL,E,R1,D1.5
+2/23/22,Gunnison,N,<TL,E,R1,D1.5
+2/23/22,Gunnison,N,>TL,E,R2,D2
+2/23/22,Gunnison,N,>TL,SE,R2,D2
+2/23/22,Gunnison,N,>TL,SE,R1,D1.5
+2/23/22,Gunnison,N,>TL,SE,R1,D1.5
+2/23/22,Vail & Summit County,N,>TL,E,R2,D2
+2/23/22,Aspen,N,<TL,NE,R2,D2
+2/23/22,Aspen,N,<TL,N,R2,D2
+2/23/22,Gunnison,N,<TL,NE,R1,D1.5
+2/23/22,Gunnison,N,<TL,NE,R1,D1.5
+2/23/22,Gunnison,N,<TL,NE,R1,D1.5
+2/23/22,Gunnison,N,<TL,NE,R1,D1.5
+2/23/22,Gunnison,N,<TL,NE,R1,D1.5
+2/23/22,Gunnison,N,<TL,NE,R1,D1.5
+2/23/22,Gunnison,N,<TL,N,R1,D1.5
+2/23/22,Gunnison,N,<TL,N,R1,D1.5
+2/23/22,Gunnison,N,<TL,N,R1,D1.5
+2/23/22,Gunnison,N,>TL,N,R2,D2.5
+2/23/22,Vail & Summit County,N,TL,SE,R3,D2
+2/23/22,Aspen,N,<TL,E,R2,D1
+2/23/22,Aspen,N,<TL,E,R2,D1
+2/23/22,Aspen,N,<TL,E,R2,D1
+2/23/22,North San Juan,N,<TL,N,R3,D1.5
+2/23/22,North San Juan,N,<TL,NW,R3,D1.5
+2/23/22,North San Juan,N,<TL,NW,R3,D1.5
+2/23/22,North San Juan,N,<TL,NW,R3,D1.5
+2/23/22,North San Juan,N,<TL,NW,R3,D1.5
+2/23/22,South San Juan,N,>TL,N,R2,D2
+2/23/22,South San Juan,N,>TL,E,R1,D2
+2/23/22,South San Juan,N,>TL,E,R1,D2
+2/23/22,South San Juan,N,>TL,E,R1,D2
+2/23/22,Gunnison,N,>TL,N,R2,D2
+2/23/22,Gunnison,N,>TL,N,R2,D2
+2/23/22,Gunnison,N,>TL,N,R2,D2
+2/23/22,Gunnison,N,TL,N,R2,D2
+2/23/22,Gunnison,N,TL,N,R2,D2
+2/23/22,Gunnison,N,<TL,N,R1,D1.5
+2/23/22,Gunnison,N,<TL,N,R1,D1.5
+2/23/22,Gunnison,N,<TL,N,R1,D1.5
+2/23/22,Gunnison,N,<TL,N,R1,D1.5
+2/23/22,Gunnison,N,<TL,N,R1,D1.5
+2/23/22,Gunnison,N,TL,NE,R2,D2
+2/23/22,North San Juan,U,>TL,N,R3,D2.5
+2/23/22,South San Juan,N,TL,NE,R1,D2
+2/23/22,South San Juan,N,TL,NE,R1,D2
+2/23/22,South San Juan,N,TL,E,R1,D2
+2/23/22,South San Juan,N,TL,E,R1,D2
+2/23/22,North San Juan,N,<TL,E,,D1
+2/23/22,Vail & Summit County,AS,<TL,NW,R1,D1
+2/23/22,North San Juan,N,<TL,NE,,D2
+2/23/22,South San Juan,AX,<TL,NE,R2,D1.5
+2/23/22,Gunnison,N,<TL,NE,R2,D3
+2/23/22,Gunnison,AS,TL,E,,D2.5
+2/23/22,Gunnison,N,TL,NE,R3,D3
+2/23/22,Gunnison,N,TL,N,R2,D2
+2/23/22,Gunnison,AS,TL,E,R2,D2.5
+2/23/22,Gunnison,AS,TL,N,R2,D2
+2/23/22,Gunnison,N,<TL,E,R2,D1.5
+2/23/22,Gunnison,N,TL,E,R1,D2
+2/23/22,Gunnison,N,TL,E,R1,D2
+2/23/22,Gunnison,N,TL,E,R1,D2
+2/23/22,Gunnison,N,TL,E,R1,D2
+2/23/22,Gunnison,N,TL,E,R1,D2
+2/23/22,Gunnison,N,TL,E,R1,D2
+2/23/22,Gunnison,N,<TL,NE,R1,D1.5
+2/23/22,Gunnison,AM,<TL,W,R1,D1.5
+2/23/22,Gunnison,U,<TL,NE,R1,D1.5
+2/23/22,Gunnison,U,<TL,NE,R1,D1.5
+2/23/22,Gunnison,U,<TL,NE,R1,D1.5
+2/23/22,Gunnison,U,<TL,NE,R1,D1.5
+2/23/22,Gunnison,U,<TL,NE,R1,D1.5
+2/23/22,Gunnison,U,<TL,NE,R1,D1.5
+2/23/22,Gunnison,N,TL,E,R1,D2
+2/23/22,Gunnison,AM,TL,SE,R2,D2
+2/23/22,North San Juan,N,<TL,N,R2,D1
+2/23/22,Gunnison,N,<TL,NE,R1,D1.5
+2/23/22,Vail & Summit County,U,,,,
+2/23/22,North San Juan,AS,,N,R1,D1
+2/23/22,Sawatch,N,>TL,E,R2,D2
+2/23/22,Sawatch,N,TL,E,R2,D2
+2/23/22,Vail & Summit County,AS,TL,NE,R2,D1.5
+2/23/22,Sawatch,N,TL,NE,R1,D1
+2/23/22,Sawatch,N,>TL,E,R3,D2.5
+2/23/22,Sawatch,N,TL,NE,R3,D2
+2/23/22,Aspen,N,>TL,NW,R2,D2
+2/23/22,Aspen,N,>TL,NW,R2,D2
+2/23/22,Aspen,N,<TL,SE,R3,D3
+2/23/22,Aspen,N,TL,NW,R3,D3
+2/23/22,North San Juan,N,<TL,All,R1,D1
+2/23/22,North San Juan,N,<TL,All,R1,D1
+2/23/22,North San Juan,N,<TL,All,R1,D1
+2/23/22,North San Juan,N,<TL,All,R1,D1
+2/23/22,North San Juan,N,<TL,All,R1,D1
+2/23/22,North San Juan,N,<TL,All,R1,D1
+2/23/22,North San Juan,N,<TL,All,R1,D1
+2/23/22,North San Juan,N,<TL,All,R1,D1
+2/23/22,North San Juan,N,<TL,All,R1,D1
+2/23/22,North San Juan,N,<TL,All,R1,D1
+2/23/22,North San Juan,N,<TL,All,R1,D1
+2/23/22,North San Juan,N,<TL,All,R1,D1
+2/23/22,North San Juan,N,<TL,All,R1,D1
+2/23/22,North San Juan,N,<TL,All,R1,D1
+2/23/22,North San Juan,N,<TL,All,R1,D1
+2/23/22,North San Juan,N,<TL,All,R1,D1
+2/23/22,North San Juan,N,<TL,All,R1,D1
+2/23/22,North San Juan,N,<TL,All,R1,D1
+2/23/22,North San Juan,N,<TL,All,R1,D1
+2/23/22,North San Juan,N,<TL,All,R1,D1
+2/23/22,South San Juan,N,<TL,NE,R1,D2
+2/23/22,North San Juan,N,>TL,NE,R2,D2
+2/23/22,North San Juan,N,TL,NE,R2,D2
+2/23/22,North San Juan,N,<TL,NE,R1,D1.5
+2/23/22,North San Juan,AS,TL,NE,R2,D1.5
+2/23/22,Gunnison,N,>TL,E,,D2.5
+2/23/22,Gunnison,N,>TL,E,,D2.5
+2/23/22,Gunnison,N,>TL,E,,D2.5
+2/23/22,Gunnison,N,>TL,E,,D2.5
+2/23/22,Gunnison,N,>TL,E,,D2.5
+2/23/22,Gunnison,N,>TL,E,,D2.5
+2/23/22,Gunnison,N,>TL,E,,D2.5
+2/23/22,Gunnison,N,>TL,E,,D2
+2/23/22,North San Juan,N,<TL,NE,R1,D1
+2/23/22,North San Juan,N,<TL,NE,R1,D2
+2/23/22,Sawatch,N,TL,E,R3,D2
+2/23/22,Sawatch,N,TL,E,R3,D2
+2/23/22,Sawatch,N,TL,E,R3,D2
+2/23/22,Sawatch,N,>TL,NE,R2,D2
+2/23/22,Sawatch,N,TL,N,R2,D2
+2/23/22,Sawatch,U,TL,E,R1,D1.5
+2/23/22,Sawatch,U,TL,E,R1,D1.5
+2/23/22,Sawatch,U,TL,E,R1,D1.5
+2/23/22,Sawatch,N,>TL,E,R2,D2
+2/23/22,Gunnison,N,<TL,W,R1,D1.5
+2/23/22,Gunnison,N,<TL,W,R1,D1.5
+2/23/22,Gunnison,N,<TL,W,R1,D1.5
+2/23/22,Gunnison,N,<TL,W,R1,D1.5
+2/23/22,Gunnison,N,<TL,W,R1,D1.5
+2/23/22,Gunnison,N,<TL,W,R1,D1.5
+2/23/22,Gunnison,N,<TL,W,R1,D1.5
+2/23/22,Gunnison,N,<TL,W,R1,D1.5
+2/23/22,Gunnison,N,<TL,W,R1,D1.5
+2/23/22,Gunnison,N,<TL,W,R1,D1.5
+2/23/22,Gunnison,N,<TL,W,R1,D1.5
+2/23/22,Gunnison,N,<TL,W,R1,D1.5
+2/23/22,North San Juan,N,>TL,N,R2,D2.5
+2/23/22,North San Juan,N,>TL,E,R2,D2
+2/23/22,North San Juan,N,TL,N,R1,D1
+2/23/22,North San Juan,N,TL,N,R1,D1
+2/23/22,Gunnison,N,<TL,SE,R2,D2
+2/23/22,North San Juan,N,TL,NW,R2,D2
+2/23/22,South San Juan,N,<TL,NE,R2,D2
+2/23/22,Aspen,N,<TL,E,R3,D2
+2/23/22,South San Juan,N,<TL,E,R2,D1.5
+2/23/22,South San Juan,N,<TL,E,R1,D2
+2/23/22,South San Juan,N,<TL,E,R2,D2
+2/23/22,South San Juan,N,<TL,SE,R2,D1.5
+2/23/22,South San Juan,N,<TL,NE,R3,D1.5
+2/23/22,South San Juan,N,<TL,E,R2,D1.5
+2/23/22,North San Juan,N,<TL,W,R2,D1.5
+2/23/22,Grand Mesa,AE,<TL,NW,R1,D1
+2/23/22,Grand Mesa,AE,<TL,N,R1,D1
+2/23/22,Grand Mesa,AE,<TL,N,R1,D1
+2/23/22,Grand Mesa,AE,<TL,NW,R2,D1.5
+2/23/22,South San Juan,AL,<TL,SE,R2,D1.5
+2/23/22,South San Juan,AL,<TL,SE,R2,D1.5
+2/23/22,South San Juan,AL,<TL,SE,R2,D1.5
+2/23/22,South San Juan,AL,<TL,S,R2,D1.5
+2/23/22,South San Juan,AE,<TL,NE,R1,D1.5
+2/23/22,South San Juan,AL,<TL,E,R2,D1.5
+2/23/22,South San Juan,AL,<TL,SE,R1,D1.5
+2/23/22,Sawatch,N,>TL,NE,R2,D2
+2/23/22,Sawatch,N,>TL,NE,R2,D2
+2/23/22,Aspen,U,<TL,E,R2,D2
+2/23/22,North San Juan,AB,,SE,R2,D1.5
+2/23/22,North San Juan,AB,<TL,SE,R2,D2
+2/23/22,Grand Mesa,AE,<TL,N,R2,D1.5
+2/23/22,North San Juan,AE,TL,SE,R1,D1.5
+2/23/22,South San Juan,AX,<TL,E,R2,D2
+2/23/22,North San Juan,N,TL,W,R2,D2
+2/23/22,North San Juan,N,<TL,E,R2,D2
+2/23/22,North San Juan,N,,E,R2,D2
+2/23/22,Aspen,N,<TL,E,R1,D1.5
+2/23/22,Aspen,N,<TL,E,R1,D1
+2/23/22,Grand Mesa,AE,<TL,N,R1,D1
+2/23/22,North San Juan,N,<TL,NE,R3,D2
+2/24/22,Gunnison,N,<TL,NE,R2,D1.5
+2/24/22,Gunnison,N,<TL,NE,R2,D1.5
+2/24/22,Gunnison,N,<TL,N,R2,D1
+2/24/22,Gunnison,N,<TL,N,R2,D1
+2/24/22,Gunnison,N,<TL,N,R2,D1
+2/24/22,Gunnison,N,<TL,N,R2,D1
+2/24/22,Gunnison,N,<TL,N,R2,D1
+2/24/22,Gunnison,N,<TL,N,R2,D1
+2/24/22,Gunnison,N,<TL,N,R2,D1
+2/24/22,North San Juan,N,<TL,NE,R3,D1.5
+2/24/22,Gunnison,N,>TL,E,R2,D2.5
+2/24/22,Gunnison,N,>TL,E,R2,D2.5
+2/24/22,Aspen,N,TL,NE,R2,D2
+2/24/22,Aspen,N,TL,NE,R2,D2
+2/24/22,Aspen,N,TL,NE,R2,D2
+2/24/22,Aspen,N,TL,NE,R2,D2
+2/24/22,Sangre de Cristo,N,>TL,E,R2,D2
+2/24/22,Sangre de Cristo,N,>TL,E,R2,D2
+2/24/22,Sangre de Cristo,N,>TL,E,R2,D2
+2/24/22,North San Juan,U,>TL,NE,R3,D2.5
+2/24/22,Sangre de Cristo,N,>TL,SE,R2,D2
+2/24/22,South San Juan,N,>TL,E,R1,D2
+2/24/22,South San Juan,N,>TL,E,R1,D2
+2/24/22,Aspen,N,TL,NE,R2,D2
+2/24/22,Aspen,N,>TL,NW,R1,D1.5
+2/24/22,Aspen,N,>TL,NE,R2,D2.5
+2/24/22,Sawatch,N,>TL,NE,R3,D2
+2/24/22,North San Juan,N,<TL,E,R2,D2
+2/24/22,South San Juan,N,>TL,E,R1,D1.5
+2/24/22,North San Juan,N,<TL,N,R3,D1.5
+2/24/22,North San Juan,N,TL,E,R1,D1.5
+2/24/22,North San Juan,N,TL,E,R1,D1.5
+2/24/22,North San Juan,N,TL,E,R1,D1.5
+2/24/22,North San Juan,N,TL,E,R1,D1.5
+2/24/22,North San Juan,N,TL,E,R1,D1.5
+2/24/22,North San Juan,N,TL,E,R1,D1.5
+2/24/22,North San Juan,N,>TL,W,R2,D1.5
+2/24/22,Aspen,N,<TL,NE,R2,D1
+2/24/22,Aspen,N,<TL,NE,R2,D1
+2/24/22,Aspen,N,<TL,NE,R2,D2
+2/24/22,Gunnison,N,<TL,NE,R1,D2
+2/24/22,Aspen,N,TL,NW,R2,D2
+2/24/22,Aspen,N,TL,NW,R2,D2
+2/24/22,Aspen,N,TL,NE,R2,D1
+2/24/22,Aspen,N,TL,NE,R1,D1.5
+2/24/22,Aspen,N,<TL,W,R2,D1
+2/24/22,Aspen,N,<TL,NW,R2,D1.5
+2/24/22,Aspen,N,<TL,E,R3,D2
+2/24/22,Aspen,N,TL,N,R3,D3
+2/24/22,Steamboat & Flat Tops,N,<TL,W,R1,D1
+2/24/22,North San Juan,N,<TL,N,R1,D2
+2/24/22,South San Juan,N,TL,E,R1,D1
+2/24/22,South San Juan,N,TL,NE,R3,D2.5
+2/24/22,Aspen,N,TL,E,R2,D2.5
+2/24/22,Sawatch,N,<TL,NE,R1,D1.5
+2/24/22,Vail & Summit County,N,>TL,E,R1,D2
+2/24/22,North San Juan,N,TL,E,R3,D2
+2/24/22,North San Juan,N,TL,NE,R3,D2.5
+2/24/22,Sawatch,N,>TL,SE,R1,D1.5
+2/24/22,Sawatch,N,>TL,SE,R1,D1.5
+2/24/22,Sawatch,N,>TL,SE,R1,D1.5
+2/24/22,Gunnison,N,<TL,W,R1,D1
+2/24/22,Gunnison,N,<TL,W,R1,D1
+2/24/22,Gunnison,N,<TL,W,R1,D1
+2/24/22,South San Juan,AM,TL,W,R1,D2
+2/24/22,South San Juan,N,<TL,NE,R1,D1
+2/24/22,South San Juan,N,<TL,NE,R1,D1
+2/24/22,South San Juan,N,<TL,NE,R1,D1
+2/24/22,South San Juan,N,<TL,NE,R1,D1
+2/24/22,South San Juan,N,<TL,NE,R1,D1
+2/24/22,South San Juan,N,<TL,NE,R1,D1
+2/24/22,South San Juan,N,<TL,NE,R1,D1
+2/24/22,South San Juan,N,<TL,NE,R1,D1
+2/24/22,Aspen,N,<TL,NE,R2,D2
+2/24/22,Aspen,N,<TL,NE,R2,D2
+2/24/22,Gunnison,N,>TL,SE,R1,D2
+2/24/22,Gunnison,N,<TL,E,R1,D1
+2/24/22,Gunnison,N,<TL,E,R1,D1
+2/24/22,Sawatch,N,>TL,E,R1,D2
+2/24/22,Sawatch,N,>TL,E,R1,D2
+2/24/22,Sawatch,N,>TL,E,R1,D2
+2/24/22,Sawatch,N,>TL,E,R1,D2
+2/24/22,North San Juan,N,>TL,NW,R2,D1.5
+2/24/22,North San Juan,N,>TL,NE,R3,D2.5
+2/24/22,North San Juan,N,<TL,N,R2,D2
+2/24/22,North San Juan,N,TL,NE,R2,D1.5
+2/24/22,North San Juan,N,TL,NE,R2,D1.5
+2/24/22,North San Juan,N,TL,NE,R2,D1.5
+2/24/22,North San Juan,N,TL,NE,R2,D2
+2/24/22,North San Juan,N,>TL,N,R2,D2
+2/24/22,Vail & Summit County,N,>TL,NE,R2,D2
+2/24/22,Aspen,N,TL,E,R3,D2.5
+2/24/22,Aspen,N,TL,E,R3,D2.5
+2/24/22,Aspen,N,<TL,NW,R2,D2
+2/24/22,Aspen,N,<TL,NW,R2,D2
+2/24/22,Aspen,N,<TL,NW,R2,D2
+2/24/22,Aspen,N,<TL,NW,R2,D2
+2/24/22,Aspen,N,<TL,E,R2,D1.5
+2/24/22,Aspen,AV,<TL,NE,R3,D1.5
+2/24/22,Aspen,AV,<TL,NE,R3,D1.5
+2/24/22,Aspen,N,<TL,NE,R2,D1.5
+2/24/22,Aspen,N,<TL,SE,R2,D1
+2/24/22,Sawatch,N,TL,E,R1,D1.5
+2/24/22,Sawatch,N,TL,E,R1,D1.5
+2/24/22,Sawatch,N,TL,E,R1,D1.5
+2/24/22,Aspen,N,TL,NE,R2,D2
+2/24/22,South San Juan,N,<TL,W,R2,D2
+2/24/22,South San Juan,N,<TL,W,R2,D2
+2/24/22,South San Juan,N,>TL,NW,R2,D2
+2/24/22,Aspen,AS,TL,N,R2,D2
+2/24/22,South San Juan,N,TL,W,R2,D2
+2/24/22,Aspen,N,<TL,NW,R2,D2
+2/24/22,Aspen,N,<TL,NW,R2,D2
+2/24/22,Gunnison,N,<TL,NW,R2,D1.5
+2/24/22,Gunnison,N,<TL,E,R1,D1.5
+2/24/22,Gunnison,N,<TL,E,R2,D2
+2/24/22,Gunnison,AS,TL,E,,D2
+2/24/22,Gunnison,N,>TL,NE,R2,D2
+2/24/22,Front Range,U,>TL,E,R2,D2
+2/24/22,Gunnison,N,<TL,W,R2,D2
+2/24/22,Gunnison,N,<TL,W,R2,D2
+2/24/22,Gunnison,N,<TL,W,R2,D2
+2/24/22,Gunnison,N,<TL,W,R1,D1.5
+2/24/22,Gunnison,N,>TL,SE,R2,D2.5
+2/24/22,Gunnison,N,>TL,SE,R2,D2.5
+2/24/22,Gunnison,N,>TL,SE,R2,D2.5
+2/24/22,South San Juan,N,TL,NE,R2,D2
+2/24/22,North San Juan,N,<TL,SE,R1,D1
+2/24/22,Front Range,N,>TL,E,R2,D2
+2/24/22,Aspen,N,<TL,W,R2,D1.5
+2/24/22,Aspen,N,TL,W,R1,D1
+2/24/22,Aspen,N,>TL,NW,R2,D2
+2/24/22,Aspen,N,>TL,NW,R2,D2
+2/24/22,Aspen,N,TL,NE,R2,D2
+2/24/22,Aspen,N,TL,NE,R2,D2
+2/24/22,Aspen,N,TL,NE,R2,D2
+2/24/22,Aspen,N,<TL,N,R3,D2
+2/24/22,Sawatch,AS,>TL,E,R2,D1
+2/24/22,Sawatch,AS,TL,SE,R1,D1.5
+2/24/22,Sawatch,AS,<TL,E,R2,D1
+2/24/22,Sawatch,AS,<TL,E,R2,D1
+2/24/22,Sawatch,AS,<TL,E,R2,D1
+2/24/22,North San Juan,N,TL,W,R2,D1.5
+2/24/22,Aspen,N,>TL,E,R3,D3
+2/24/22,North San Juan,N,>TL,N,R3,D2
+2/24/22,North San Juan,N,>TL,NW,R3,D2
+2/24/22,North San Juan,N,<TL,W,R3,D2
+2/24/22,Aspen,N,TL,N,R2,D2
+2/24/22,North San Juan,N,>TL,NW,R3,D2
+2/24/22,North San Juan,N,>TL,NW,R3,D2
+2/24/22,North San Juan,N,>TL,NW,R3,D2
+2/24/22,North San Juan,N,>TL,SW,R3,D2
+2/24/22,Vail & Summit County,N,>TL,W,R1,D1.5
+2/24/22,North San Juan,N,<TL,NW,R3,D1.5
+2/24/22,Vail & Summit County,AS,<TL,W,R2,D1.5
+2/24/22,North San Juan,N,>TL,NE,R2,D2
+2/24/22,North San Juan,N,>TL,NE,R3,D2.5
+2/24/22,Sawatch,AS,<TL,N,R1,D1
+2/24/22,South San Juan,N,>TL,N,R2,D2.5
+2/24/22,North San Juan,AS,TL,NE,R2,D1
+2/24/22,North San Juan,N,<TL,NW,R2,D1
+2/24/22,North San Juan,N,<TL,NW,R2,D1
+2/24/22,North San Juan,N,<TL,NW,R2,D2
+2/24/22,North San Juan,N,TL,N,R2,D2
+2/24/22,North San Juan,N,TL,N,R2,D2
+2/24/22,North San Juan,N,TL,N,R2,D2
+2/24/22,North San Juan,N,TL,N,R2,D2
+2/24/22,North San Juan,N,>TL,NW,R2,D2
+2/24/22,Aspen,N,TL,E,R2,D2
+2/24/22,Sawatch,N,<TL,NE,R1,D1
+2/24/22,Sawatch,N,<TL,NE,R1,D1
+2/24/22,Sawatch,N,<TL,NE,R1,D1
+2/24/22,Vail & Summit County,U,<TL,NE,R1,D1
+2/24/22,South San Juan,N,TL,NE,R1,D1.5
+2/24/22,South San Juan,N,TL,NE,R1,D1.5
+2/24/22,Front Range,AX,<TL,N,R3,D1.5
+2/24/22,Front Range,AX,>TL,N,R2,D1.5
+2/24/22,Front Range,AX,<TL,E,R2,D1
+2/24/22,Front Range,AX,<TL,N,R2,D1
+2/24/22,Front Range,AX,<TL,N,R2,D1
+2/24/22,Front Range,AX,TL,N,R2,D1
+2/24/22,Vail & Summit County,AX,>TL,W,R1,D1
+2/24/22,Vail & Summit County,AX,>TL,W,R1,D1
+2/24/22,Vail & Summit County,AX,>TL,NW,R1,D1
+2/24/22,Vail & Summit County,AX,>TL,NW,R1,D1
+2/24/22,Vail & Summit County,AX,>TL,W,R1,D1
+2/24/22,South San Juan,AL,<TL,E,R2,D1.5
+2/24/22,North San Juan,AA,<TL,NE,R2,D2
+2/24/22,North San Juan,AA,TL,E,R2,D1.5
+2/24/22,South San Juan,AL,<TL,E,R1,D1
+2/24/22,South San Juan,AL,<TL,E,R2,D2
+2/24/22,South San Juan,AL,<TL,E,R2,D2
+2/24/22,South San Juan,AL,<TL,E,R1,D1.5
+2/24/22,South San Juan,AL,<TL,E,R1,D2
+2/24/22,South San Juan,AL,<TL,E,R1,D1.5
+2/24/22,South San Juan,AL,<TL,E,R1,D2
+2/24/22,North San Juan,AL,,N,R2,D2
+2/24/22,South San Juan,AL,<TL,E,R1,D1.5
+2/24/22,South San Juan,AL,<TL,E,R1,D1.5
+2/24/22,South San Juan,AL,<TL,E,R1,D2
+2/24/22,South San Juan,AL,<TL,E,R1,D2
+2/24/22,North San Juan,AL,<TL,NW,R2,D2
+2/24/22,North San Juan,N,<TL,NW,R2,D2
+2/24/22,Aspen,N,<TL,NE,R2,D2
+2/24/22,Aspen,AS,<TL,SW,R3,D2
+2/24/22,North San Juan,AL,<TL,NW,R2,D1.5
+2/24/22,North San Juan,AL,<TL,NW,R2,D2
+2/24/22,North San Juan,AL,,NW,R2,D2
+2/24/22,North San Juan,AA,>TL,NW,R2,D2
+2/24/22,North San Juan,AA,>TL,NW,R3,D2
+2/24/22,North San Juan,AA,>TL,NE,R3,D2
+2/24/22,North San Juan,AA,>TL,NE,R2,D1.5
+2/24/22,North San Juan,AA,>TL,SW,R2,D2
+2/24/22,North San Juan,AA,>TL,NE,R2,D2
+2/24/22,North San Juan,AL,<TL,W,R2,D2
+2/24/22,North San Juan,AA,<TL,W,R2,D2
+2/24/22,North San Juan,AA,>TL,SE,R3,D2
+2/24/22,North San Juan,AA,<TL,W,R2,D2
+2/24/22,Aspen,N,<TL,E,R2,D1.5
+2/24/22,Aspen,N,<TL,SE,R1,D1
+2/24/22,North San Juan,AL,<TL,N,R2,D2
+2/24/22,North San Juan,AL,<TL,SW,R2,D2
+2/24/22,North San Juan,AA,>TL,E,R1,D1.5
+2/24/22,North San Juan,AA,>TL,SE,R1,D2
+2/24/22,North San Juan,AE,<TL,E,R2,D2
+2/24/22,North San Juan,AL,<TL,SW,R2,D1.5
+2/24/22,North San Juan,AL,<TL,E,R2,D2
+2/24/22,North San Juan,AL,<TL,E,R1,D1
+2/24/22,North San Juan,AL,<TL,SE,R2,D1.5
+2/24/22,North San Juan,AL,<TL,E,R1,D1.5
+2/24/22,North San Juan,AE,<TL,E,R2,D1.5
+2/24/22,North San Juan,N,<TL,N,R2,D2
+2/24/22,North San Juan,AE,<TL,SE,R2,D1.5
+2/24/22,North San Juan,AE,<TL,E,R1,D1.5
+2/24/22,North San Juan,AE,<TL,SE,R1,D1
+2/25/22,Vail & Summit County,U,TL,NE,R2,D1
+2/25/22,Gunnison,N,TL,W,R2,D2
+2/25/22,South San Juan,N,TL,E,R1,D1.5
+2/25/22,Aspen,AI,<TL,W,R2,D2
+2/25/22,Front Range,N,>TL,E,,D2
+2/25/22,Sawatch,N,>TL,E,R1,D1
+2/25/22,Sawatch,N,>TL,NE,R1,D1
+2/25/22,Aspen,N,<TL,N,R3,D1.5
+2/25/22,South San Juan,N,TL,NE,R1,D1.5
+2/25/22,South San Juan,N,TL,N,R1,D1
+2/25/22,South San Juan,N,<TL,N,R2,D2
+2/25/22,South San Juan,N,<TL,NW,R1,D1.5
+2/25/22,South San Juan,N,<TL,W,R2,D2
+2/25/22,South San Juan,N,TL,NW,R2,D2
+2/25/22,Aspen,AS,<TL,E,R3,D1.5
+2/25/22,North San Juan,U,<TL,E,R1,D1
+2/25/22,North San Juan,U,<TL,E,R1,D1
+2/25/22,North San Juan,N,>TL,N,R3,D3
+2/25/22,North San Juan,N,TL,N,R2,D2
+2/25/22,North San Juan,N,>TL,E,R2,D2
+2/25/22,North San Juan,N,>TL,SE,R2,D2
+2/25/22,Steamboat & Flat Tops,AM,<TL,NE,R1,D1
+2/25/22,Aspen,N,,S,R1,D1
+2/25/22,Aspen,N,TL,S,R2,D2
+2/25/22,Aspen,N,<TL,SW,R2,D2
+2/25/22,Aspen,AS,TL,NE,R2,D2
+2/25/22,Aspen,AS,TL,NE,R2,D2
+2/25/22,Aspen,AS,TL,NE,R2,D2
+2/25/22,Aspen,AS,TL,NE,R2,D2
+2/25/22,North San Juan,N,>TL,E,R1,D1.5
+2/25/22,North San Juan,N,>TL,E,R1,D1.5
+2/25/22,North San Juan,N,>TL,E,R1,D1.5
+2/25/22,South San Juan,N,>TL,E,R1,D2
+2/25/22,North San Juan,N,>TL,N,R2,D2
+2/25/22,North San Juan,N,>TL,N,R2,D2
+2/25/22,North San Juan,N,>TL,E,R2,D2
+2/25/22,North San Juan,N,TL,N,R2,D2
+2/25/22,South San Juan,N,<TL,NW,R2,D2
+2/25/22,South San Juan,N,<TL,NW,R2,D2
+2/25/22,Sawatch,N,>TL,SE,R2,D2
+2/25/22,Aspen,N,<TL,NE,R2,D1.5
+2/25/22,South San Juan,AM,<TL,NW,R2,D2
+2/25/22,North San Juan,N,TL,NE,R3,D2.5
+2/26/22,North San Juan,N,>TL,N,R2,D2
+2/26/22,Steamboat & Flat Tops,AM,,,R1,D1
+2/26/22,North San Juan,N,<TL,NW,R1,D1.5
+2/26/22,North San Juan,N,<TL,NW,R1,D1.5
+2/26/22,North San Juan,N,<TL,NW,R1,D1.5
+2/26/22,Front Range,N,>TL,NE,R2,D2
+2/26/22,South San Juan,AS,<TL,NE,R3,D2.5
+2/26/22,South San Juan,AS,<TL,N,R1,D1
+2/26/22,Front Range,U,>TL,S,R2,D2
+2/26/22,Grand Mesa,U,<TL,NE,,
+2/26/22,Grand Mesa,AS,<TL,NE,R2,D2
+2/26/22,Grand Mesa,AM,TL,,,
+2/26/22,Grand Mesa,AM,TL,,,
+2/26/22,Aspen,N,<TL,N,,D1
+2/26/22,North San Juan,N,<TL,W,R1,D1
+2/26/22,North San Juan,U,<TL,W,R2,D2
+2/26/22,Vail & Summit County,N,<TL,E,R1,D1.5
+2/26/22,Gunnison,N,TL,E,,D2
+2/26/22,Front Range,AS,>TL,E,R1,D1
+2/26/22,Gunnison,AS,<TL,NE,R1,D1.5
+2/26/22,Aspen,N,TL,NE,R2,D1.5
+2/26/22,Aspen,N,,E,R1,D1.5
+2/26/22,Steamboat & Flat Tops,N,<TL,E,R1,D1
+2/26/22,Front Range,N,>TL,E,R2,D2
+2/26/22,Steamboat & Flat Tops,AS,<TL,N,R1,D1
+2/26/22,Sawatch,AM,TL,SE,R2,D2
+2/26/22,South San Juan,AM,>TL,N,R1,D2
+2/26/22,South San Juan,AM,>TL,N,R1,D2
+2/26/22,North San Juan,N,>TL,E,R2,D2
+2/26/22,North San Juan,N,<TL,W,R1,D1.5
+2/26/22,North San Juan,N,<TL,W,R1,D1.5
+2/26/22,North San Juan,N,<TL,W,R1,D1.5
+2/26/22,North San Juan,N,<TL,W,R1,D1.5
+2/26/22,North San Juan,N,>TL,N,R1,D1.5
+2/26/22,North San Juan,N,>TL,N,R1,D1.5
+2/26/22,UNK,AR,>TL,NE,R1,D1
+2/27/22,Vail & Summit County,N,>TL,E,R2,D2
+2/27/22,Vail & Summit County,N,>TL,E,R2,D2
+2/27/22,South San Juan,AM,<TL,E,R2,D1.5
+2/27/22,Vail & Summit County,AS,TL,E,R2,D2
+2/27/22,Front Range,AS,>TL,NW,R2,D2
+2/27/22,Vail & Summit County,N,>TL,E,R1,D1.5
+2/27/22,Vail & Summit County,N,>TL,E,R1,D1.5
+2/27/22,Vail & Summit County,N,>TL,E,R1,D1.5
+2/27/22,Vail & Summit County,N,>TL,,R1,D2
+2/27/22,Vail & Summit County,N,>TL,NE,R1,D1.5
+2/27/22,Vail & Summit County,N,>TL,NE,R1,D1.5
+2/27/22,Vail & Summit County,N,>TL,NE,R1,D1.5
+2/27/22,Vail & Summit County,N,>TL,S,R1,D1
+2/27/22,Aspen,N,<TL,NE,R2,D1.5
+2/27/22,Aspen,N,<TL,NE,R2,D1.5
+2/27/22,Aspen,N,<TL,NE,R2,D1.5
+2/27/22,Aspen,N,<TL,NE,R2,D1.5
+2/27/22,Aspen,N,<TL,NE,R2,D1.5
+2/27/22,Aspen,N,<TL,NE,R2,D1.5
+2/27/22,Aspen,N,<TL,NE,R2,D1.5
+2/27/22,Aspen,N,<TL,NE,R2,D1.5
+2/27/22,Aspen,N,<TL,NE,R2,D1.5
+2/27/22,Aspen,N,<TL,NE,R2,D1.5
+2/27/22,Aspen,N,<TL,NE,R2,D1.5
+2/27/22,Aspen,N,<TL,NE,R2,D1.5
+2/27/22,Aspen,N,<TL,NE,R2,D1.5
+2/27/22,Aspen,N,<TL,NE,R2,D1.5
+2/27/22,Aspen,N,<TL,NE,R2,D1.5
+2/27/22,Sawatch,N,>TL,E,R1,D1
+2/27/22,Aspen,N,>TL,SE,R2,D1
+2/27/22,Aspen,N,TL,E,R2,D1.5
+2/27/22,Vail & Summit County,N,>TL,SW,R2,D2
+2/27/22,Vail & Summit County,N,TL,SW,R1,D1
+2/27/22,Vail & Summit County,N,TL,SW,R1,D1
+2/27/22,Aspen,N,<TL,S,R1,D1
+2/27/22,Aspen,N,<TL,S,R1,D1
+2/27/22,Aspen,N,<TL,S,R1,D1
+2/27/22,Aspen,N,<TL,S,R1,D1
+2/27/22,Aspen,N,<TL,S,R1,D1
+2/27/22,Vail & Summit County,AS,TL,NE,R1,D1.5
+2/27/22,Vail & Summit County,N,>TL,SE,R1,D1.5
+2/27/22,Vail & Summit County,N,>TL,SE,R1,D1.5
+2/27/22,Vail & Summit County,N,>TL,SE,R1,D1.5
+2/27/22,Gunnison,AS,<TL,W,R1,D1.5
+2/27/22,Gunnison,N,>TL,NE,R1,D1.5
+2/27/22,Gunnison,AM,TL,W,R1,D1.5
+2/27/22,Steamboat & Flat Tops,AS,<TL,NW,R2,D1.5
+2/27/22,Gunnison,AM,<TL,E,R1,D1
+2/27/22,Gunnison,AS,<TL,NE,,D2
+2/27/22,Aspen,N,<TL,N,R2,D1.5
+2/27/22,South San Juan,AM,<TL,N,,D2
+2/27/22,Vail & Summit County,U,<TL,E,R3,D1.5
+2/28/22,Gunnison,N,TL,SW,R1,D1
+2/28/22,Gunnison,U,TL,NE,R1,D1
+2/28/22,Aspen,N,<TL,NW,R3,D1.5
+2/28/22,Aspen,N,<TL,NW,R3,D1.5
+2/28/22,Gunnison,AS,>TL,S,R2,D2
+2/28/22,Vail & Summit County,N,>TL,SE,R1,D1.5
+2/28/22,Aspen,AS,>TL,E,R1,D1.5
+2/28/22,Gunnison,N,TL,NE,R2,D2
+2/28/22,Gunnison,N,TL,NE,R2,D2
+2/28/22,Gunnison,N,TL,NE,R2,D2
+2/28/22,Gunnison,N,TL,NE,R2,D2
+2/28/22,Gunnison,N,TL,NE,R2,D2
+2/28/22,Gunnison,N,,,R1,D1
+2/28/22,Gunnison,N,,,R1,D1
+2/28/22,Gunnison,N,,,R1,D1
+2/28/22,Gunnison,N,,,R1,D1
+2/28/22,Gunnison,N,,,R1,D1
+2/28/22,Gunnison,N,,,R1,D1
+2/28/22,Gunnison,AM,TL,E,R2,D2
+2/28/22,North San Juan,AE,>TL,NE,R3,D2
+2/28/22,North San Juan,N,>TL,NW,R1,D1
+2/28/22,North San Juan,N,TL,N,R2,D2
+2/28/22,North San Juan,N,>TL,N,R2,D2
+2/28/22,North San Juan,N,<TL,NW,R1,D1.5
+2/28/22,North San Juan,N,<TL,NW,R1,D1.5
+2/28/22,Vail & Summit County,N,<TL,SE,R1,D1.5
+2/28/22,Vail & Summit County,N,<TL,SE,R1,D1
+2/28/22,Vail & Summit County,N,<TL,SE,R1,D1
+2/28/22,Vail & Summit County,U,TL,NE,R1,D1.5
+2/28/22,Front Range,AS,TL,E,R1,D1
+2/28/22,Front Range,N,>TL,E,R1,D1.5
+2/28/22,Vail & Summit County,N,TL,NW,R1,D1.5
+2/28/22,Aspen,N,<TL,NE,R1,D2
+2/28/22,Vail & Summit County,N,<TL,W,R2,D1.5
+3/1/22,Front Range,N,>TL,NE,R1,D1.5
+3/1/22,Gunnison,AM,<TL,N,R1,D1
+3/1/22,Gunnison,AM,<TL,N,R1,D1
+3/1/22,Gunnison,AM,<TL,N,R1,D1
+3/1/22,Front Range,N,>TL,E,R1,D1
+3/1/22,North San Juan,AS,>TL,SE,R2,D1.5
+3/1/22,Gunnison,AM,<TL,NW,R3,D2
+3/1/22,North San Juan,AS,TL,E,R1,D1.5
+3/1/22,North San Juan,AS,TL,E,R1,D1.5
+3/1/22,North San Juan,AS,TL,E,R1,D1.5
+3/1/22,North San Juan,AS,TL,E,R1,D1.5
+3/1/22,Aspen,N,<TL,W,R1,D1
+3/1/22,Aspen,N,<TL,SE,R1,D1.5
+3/1/22,Aspen,N,<TL,SE,R1,D1.5
+3/1/22,Aspen,N,<TL,SE,R1,D1.5
+3/1/22,Aspen,N,<TL,SE,R1,D1.5
+3/1/22,Aspen,N,<TL,SE,R1,D1.5
+3/1/22,Aspen,N,<TL,SE,R1,D1.5
+3/1/22,Aspen,N,TL,NW,R1,D1
+3/1/22,Aspen,N,<TL,E,R1,D1
+3/1/22,Aspen,N,<TL,NE,R2,D2
+3/1/22,Aspen,N,<TL,NE,R2,D2
+3/1/22,Aspen,N,<TL,NE,R2,D2
+3/1/22,Aspen,N,<TL,N,R1,D1
+3/1/22,Aspen,N,<TL,N,R1,D1
+3/1/22,Aspen,N,<TL,SE,R2,D2
+3/1/22,Aspen,N,<TL,SE,R2,D2
+3/1/22,Aspen,N,TL,SE,,D1
+3/1/22,Aspen,N,TL,SE,,D1
+3/1/22,Aspen,N,TL,SE,,D1
+3/1/22,Aspen,N,TL,SE,,D1
+3/1/22,Aspen,N,TL,SW,R1,D1.5
+3/1/22,Gunnison,N,TL,N,R2,D2
+3/1/22,Gunnison,N,TL,W,,D1.5
+3/1/22,Steamboat & Flat Tops,N,<TL,SW,R1,D1
+3/1/22,Grand Mesa,AV,,NE,R2,D1.5
+3/1/22,Vail & Summit County,U,,W,R3,D2.5
+3/2/22,Gunnison,N,TL,W,R1,D1.5
+3/2/22,Gunnison,N,>TL,W,R2,D2
+3/2/22,Aspen,N,>TL,SE,R1,D1
+3/2/22,Aspen,N,>TL,SE,R1,D1
+3/2/22,Gunnison,N,TL,SW,R1,D1.5
+3/2/22,Aspen,N,>TL,SE,R1,D1
+3/2/22,Aspen,N,>TL,SE,R1,D1
+3/2/22,Aspen,N,>TL,SE,R1,D1
+3/2/22,Aspen,N,>TL,SE,R1,D1
+3/2/22,Aspen,N,>TL,SE,R1,D1
+3/2/22,Aspen,N,>TL,SE,R1,D1
+3/2/22,Aspen,N,>TL,SE,R1,D1
+3/2/22,Aspen,N,>TL,SE,R1,D1
+3/2/22,Aspen,N,>TL,SE,R1,D1
+3/2/22,Aspen,N,>TL,SE,R1,D1
+3/2/22,Aspen,N,>TL,SE,R1,D1
+3/2/22,Aspen,N,>TL,SE,R1,D1
+3/2/22,Aspen,N,>TL,SE,R1,D1
+3/2/22,Aspen,N,>TL,SE,R1,D1
+3/2/22,Aspen,N,<TL,NE,R2,D1
+3/2/22,Sawatch,N,<TL,E,R1,D1
+3/2/22,Vail & Summit County,N,>TL,W,R1,D1
+3/2/22,Vail & Summit County,N,>TL,W,R1,D1
+3/2/22,Vail & Summit County,N,>TL,W,R1,D1
+3/2/22,Gunnison,N,<TL,NE,R1,D2
+3/2/22,Gunnison,N,>TL,W,R1,D1
+3/2/22,Steamboat & Flat Tops,AS,<TL,NW,R1,D1
+3/2/22,Aspen,N,<TL,E,R1,D2
+3/3/22,Aspen,AS,<TL,E,R3,D2
+3/3/22,South San Juan,N,<TL,W,R2,D2
+3/3/22,South San Juan,N,<TL,W,R2,D2
+3/3/22,North San Juan,AS,TL,E,R3,D2
+3/3/22,Gunnison,N,All,W,,D1.5
+3/3/22,North San Juan,N,>TL,SW,R1,D1
+3/3/22,Vail & Summit County,N,,E,R1,D1
+3/3/22,Aspen,AS,<TL,SE,R2,D2.5
+3/3/22,Aspen,N,<TL,E,R1,D1.5
+3/4/22,Gunnison,AS,<TL,NE,R1,D1
+3/4/22,Gunnison,AS,<TL,NE,R1,D1.5
+3/4/22,Gunnison,AM,TL,SE,R3,D2
+3/5/22,South San Juan,AS,TL,NE,R1,D1
+3/5/22,Vail & Summit County,AS,TL,NE,R1,D1
+3/5/22,Vail & Summit County,AS,TL,NE,R1,D1
+3/5/22,Front Range,U,<TL,N,R1,D1
+3/5/22,Sawatch,AS,>TL,S,R2,D2
+3/5/22,Gunnison,AI,<TL,NE,R2,D1.5
+3/5/22,Vail & Summit County,N,>TL,E,R1,D1.5
+3/5/22,Aspen,N,<TL,N,R2,D1.5
+3/5/22,UNK,N,<TL,S,R1,D1
+3/6/22,North San Juan,N,>TL,NE,R2,D2
+3/6/22,Front Range,AS,>TL,NE,R1,D1.5
+3/6/22,North San Juan,N,<TL,NW,R2,D2
+3/6/22,North San Juan,N,>TL,NE,R1,D1
+3/6/22,South San Juan,N,>TL,NW,R2,D2
+3/6/22,South San Juan,N,>TL,NW,R1,D2
+3/6/22,South San Juan,N,TL,E,R1,D1.5
+3/6/22,South San Juan,N,<TL,NW,R1,D1.5
+3/6/22,South San Juan,N,<TL,NW,R1,D1.5
+3/6/22,South San Juan,N,TL,SE,R1,D1.5
+3/6/22,South San Juan,N,TL,SE,R1,D1.5
+3/6/22,North San Juan,N,>TL,NE,R1,D1.5
+3/6/22,Grand Mesa,AE,<TL,NW,R1,D1
+3/6/22,Grand Mesa,AE,<TL,N,R2,D1.5
+3/6/22,Grand Mesa,AE,<TL,N,R2,D1.5
+3/6/22,Grand Mesa,AE,<TL,N,R1,D1
+3/6/22,Grand Mesa,AE,<TL,N,R1,D1
+3/6/22,Grand Mesa,AE,<TL,NW,R1,D1
+3/7/22,Vail & Summit County,AS,>TL,E,R1,D1.5
+3/7/22,Vail & Summit County,AS,>TL,E,R1,D1
+3/7/22,Gunnison,N,<TL,E,R1,D1
+3/7/22,Gunnison,N,<TL,E,R1,D1
+3/7/22,Gunnison,N,<TL,N,R2,D1
+3/7/22,South San Juan,AS,TL,NE,R1,D1.5
+3/7/22,Aspen,AS,<TL,NE,R1,D1
+3/7/22,Steamboat & Flat Tops,AS,<TL,N,R1,D1
+3/7/22,Front Range,N,>TL,NE,,D2
+3/7/22,Gunnison,N,TL,NE,R1,D1
+3/7/22,South San Juan,N,<TL,NW,,D1
+3/7/22,North San Juan,AS,<TL,N,R1,D1
+3/7/22,Gunnison,AS,TL,E,R2,D2
+3/7/22,Gunnison,N,<TL,NE,R2,D1.5
+3/8/22,Aspen,AS,<TL,E,R1,D1.5
+3/8/22,North San Juan,AS,<TL,N,R2,D2
+3/8/22,Gunnison,N,>TL,SE,R1,D1
+3/8/22,Vail & Summit County,N,>TL,E,R2,D2
+3/8/22,South San Juan,N,TL,NE,R2,D2
+3/8/22,North San Juan,AS,>TL,E,R1,D1.5
+3/8/22,North San Juan,N,>TL,NE,R2,D2
+3/8/22,Grand Mesa,N,<TL,NE,R3,D2
+3/8/22,Vail & Summit County,N,TL,NW,R2,D1.5
+3/8/22,North San Juan,AS,TL,NE,R2,D2
+3/8/22,North San Juan,AS,>TL,NW,R1,D1
+3/8/22,North San Juan,AS,>TL,N,R1,D1
+3/8/22,Gunnison,N,>TL,NE,R1,D1
+3/8/22,Gunnison,N,>TL,NE,R1,D1
+3/8/22,Gunnison,N,>TL,E,R1,D1.5
+3/8/22,Gunnison,N,>TL,E,R1,D2
+3/8/22,Gunnison,N,>TL,S,R1,D1
+3/8/22,Gunnison,AS,<TL,N,R2,D1.5
+3/8/22,Grand Mesa,N,TL,E,R1,D1
+3/8/22,Gunnison,N,TL,E,R1,D1
+3/8/22,Gunnison,N,>TL,E,R1,D1.5
+3/8/22,Gunnison,N,>TL,E,R1,D1.5
+3/8/22,Aspen,AS,TL,S,R2,D2
+3/8/22,Aspen,AS,TL,NW,R3,D3
+3/8/22,Aspen,N,>TL,N,R3,D2.5
+3/8/22,Aspen,N,>TL,E,R2,D2.5
+3/9/22,North San Juan,N,>TL,N,R2,D2.5
+3/9/22,Vail & Summit County,N,<TL,E,R1,D1
+3/9/22,Vail & Summit County,N,<TL,E,R1,D1
+3/9/22,Vail & Summit County,N,<TL,E,R1,D1
+3/9/22,Vail & Summit County,N,<TL,E,R1,D1
+3/9/22,Aspen,N,>TL,E,,D2
+3/9/22,Gunnison,N,>TL,S,,D2
+3/9/22,Aspen,N,>TL,S,,D2
+3/9/22,North San Juan,N,>TL,N,R3,D2
+3/9/22,Gunnison,N,>TL,E,,D2
+3/9/22,Aspen,U,>TL,E,,D1
+3/9/22,Aspen,U,>TL,E,,D1
+3/9/22,Aspen,U,>TL,E,,D1
+3/9/22,North San Juan,N,>TL,E,R2,D2
+3/9/22,North San Juan,N,>TL,N,R2,D2
+3/9/22,North San Juan,N,>TL,NE,R2,D1.5
+3/9/22,North San Juan,N,>TL,NW,R2,D2.5
+3/9/22,Aspen,N,>TL,E,,D1
+3/9/22,Aspen,N,>TL,E,,D1
+3/9/22,Aspen,N,>TL,E,,D1
+3/9/22,North San Juan,N,>TL,NE,R1,D2
+3/10/22,Sawatch,N,>TL,E,R1,D1
+3/10/22,South San Juan,N,<TL,NE,R1,D1.5
+3/10/22,South San Juan,N,<TL,NE,R1,D1.5
+3/10/22,South San Juan,N,<TL,E,R1,D1.5
+3/10/22,South San Juan,N,<TL,E,R1,D1.5
+3/10/22,Sawatch,N,>TL,NE,R1,D1
+3/10/22,North San Juan,AS,<TL,W,R2,D1.5
+3/10/22,North San Juan,AS,<TL,NE,R2,D2
+3/10/22,Sawatch,AS,TL,NE,R3,D2
+3/10/22,Front Range,N,>TL,E,R1,D1
+3/10/22,North San Juan,N,>TL,NE,R2,D2.5
+3/10/22,North San Juan,N,>TL,E,R1,D1.5
+3/10/22,North San Juan,N,>TL,N,R1,D2
+3/10/22,North San Juan,N,>TL,E,R2,D2
+3/10/22,Gunnison,N,>TL,SW,R1,D1.5
+3/10/22,Gunnison,N,>TL,NE,R1,D1.5
+3/10/22,Gunnison,N,>TL,NE,R1,D1.5
+3/10/22,South San Juan,N,>TL,E,R1,D1.5
+3/10/22,South San Juan,N,>TL,NE,R1,D1.5
+3/10/22,South San Juan,N,TL,N,R1,D1.5
+3/10/22,South San Juan,N,TL,NW,R1,D2
+3/10/22,South San Juan,N,<TL,E,R1,D1
+3/10/22,South San Juan,N,<TL,E,R1,D1
+3/10/22,South San Juan,N,<TL,E,R1,D1
+3/10/22,South San Juan,N,<TL,E,R1,D1
+3/10/22,North San Juan,AS,<TL,N,R1,D1
+3/10/22,Front Range,AX,TL,N,R2,D2
+3/10/22,Front Range,AX,TL,E,R2,D2
+3/10/22,Front Range,AX,TL,N,R2,D2
+3/10/22,Front Range,AX,TL,N,R2,D2
+3/10/22,Front Range,AX,TL,N,R2,D1.5
+3/10/22,Front Range,AX,TL,N,R2,D2
+3/11/22,North San Juan,N,TL,NE,R3,D2
+3/11/22,North San Juan,N,>TL,SE,R2,D1.5
+3/11/22,South San Juan,N,>TL,SE,R1,D1.5
+3/11/22,South San Juan,N,>TL,SE,R1,D1.5
+3/11/22,South San Juan,N,>TL,SE,R1,D1.5
+3/11/22,North San Juan,N,>TL,NE,R2,D2
+3/11/22,UNK,N,>TL,NE,,D2
+3/11/22,Grand Mesa,AM,TL,N,R3,D2
+3/11/22,North San Juan,N,>TL,E,R2,D2.5
+3/11/22,Gunnison,N,>TL,NE,R1,D1.5
+3/11/22,South San Juan,N,TL,NE,R3,D2
+3/11/22,South San Juan,N,<TL,NE,R1,D1.5
+3/11/22,North San Juan,N,>TL,E,R2,D2.5
+3/11/22,South San Juan,N,TL,SE,R2,D2
+3/11/22,South San Juan,N,<TL,N,R2,D1
+3/11/22,Gunnison,N,>TL,NE,R1,D1
+3/11/22,Gunnison,N,>TL,NE,R1,D1
+3/11/22,Gunnison,N,>TL,NE,R1,D1
+3/11/22,Gunnison,N,TL,E,R2,D2
+3/11/22,Gunnison,N,>TL,NE,R1,D1.5
+3/11/22,Gunnison,N,TL,N,R3,D2.5
+3/11/22,Gunnison,N,TL,S,R2,D2
+3/11/22,Gunnison,AS,<TL,S,R1,D1
+3/11/22,Gunnison,AS,TL,S,R2,D2
+3/11/22,Gunnison,N,>TL,SE,R2,D2
+3/11/22,Sawatch,N,>TL,NE,R1,D1.5
+3/11/22,Aspen,N,>TL,S,R1,D1
+3/11/22,South San Juan,N,TL,E,R1,D1.5
+3/11/22,South San Juan,N,TL,E,R1,D1.5
+3/11/22,South San Juan,N,TL,E,R1,D1.5
+3/11/22,North San Juan,AL,,NW,R1,D1
+3/11/22,North San Juan,AL,<TL,N,R1,D1
+3/11/22,North San Juan,AL,<TL,N,R1,D1
+3/11/22,North San Juan,AE,<TL,SW,R1,D1
+3/11/22,South San Juan,N,<TL,E,R1,D1
+3/11/22,South San Juan,N,<TL,E,R1,D1
+3/11/22,South San Juan,N,<TL,N,R1,D1
+3/11/22,North San Juan,AE,<TL,SE,R1,D1
+3/11/22,North San Juan,AE,<TL,E,R1,D1
+3/12/22,Front Range,N,>TL,NW,R1,D1
+3/12/22,Steamboat & Flat Tops,N,<TL,NE,R1,D1
+3/12/22,Front Range,AS,<TL,SE,R1,D1
+3/12/22,Vail & Summit County,N,>TL,NE,R2,D2
+3/12/22,Steamboat & Flat Tops,AS,<TL,W,R1,D1
+3/12/22,Gunnison,N,>TL,E,R3,D3
+3/12/22,Gunnison,N,>TL,E,R2,D2.5
+3/12/22,Gunnison,N,>TL,NE,R1,D1.5
+3/12/22,Gunnison,N,>TL,SE,R2,D2
+3/12/22,Gunnison,N,>TL,SE,R1,D1.5
+3/12/22,Gunnison,N,<TL,S,,D1
+3/12/22,Gunnison,N,>TL,SE,R2,D2
+3/12/22,Gunnison,N,>TL,NE,R3,D2.5
+3/12/22,Vail & Summit County,AI,>TL,SE,,D2
+3/12/22,South San Juan,N,<TL,SW,R1,D1.5
+3/12/22,South San Juan,N,<TL,SW,R1,D1.5
+3/12/22,South San Juan,N,<TL,SW,R1,D1.5
+3/12/22,South San Juan,N,<TL,SW,R1,D1.5
+3/12/22,Front Range,N,>TL,SE,R1,D2
+3/12/22,Front Range,N,>TL,E,R2,D1.5
+3/12/22,Sawatch,AM,TL,N,R2,D2
+3/12/22,Vail & Summit County,N,>TL,E,R2,D2
+3/12/22,Vail & Summit County,N,>TL,E,R2,D2
+3/12/22,Front Range,N,>TL,E,R1,D1
+3/12/22,North San Juan,N,>TL,S,R2,D2
+3/12/22,South San Juan,N,>TL,SW,,D1.5
+3/12/22,North San Juan,N,>TL,SE,R1,D1
+3/12/22,North San Juan,N,>TL,S,R1,D1.5
+3/12/22,Vail & Summit County,N,TL,E,R2,D1.5
+3/12/22,Vail & Summit County,N,TL,E,R2,D1.5
+3/12/22,Steamboat & Flat Tops,AS,<TL,N,R1,D1.5
+3/12/22,North San Juan,AS,<TL,NW,R1,D1.5
+3/12/22,Steamboat & Flat Tops,AS,<TL,N,R1,D1.5
+3/12/22,North San Juan,N,>TL,SE,R1,D2
+3/13/22,Sawatch,N,TL,E,R1,D1.5
+3/13/22,South San Juan,N,>TL,E,R2,D2.5
+3/13/22,Gunnison,AM,TL,N,R1,D1
+3/13/22,Aspen,AS,TL,NE,R2,D2
+3/13/22,Front Range,N,<TL,S,,D1
+3/13/22,Front Range,N,<TL,S,,D1
+3/13/22,Vail & Summit County,N,TL,E,R2,D2
+3/13/22,South San Juan,N,>TL,SE,R1,D2
+3/13/22,North San Juan,AR,>TL,NE,R3,D2.5
+3/13/22,Gunnison,U,<TL,E,R2,D1
+3/13/22,Aspen,N,<TL,N,R1,D1.5
+3/13/22,Gunnison,AO,<TL,NE,R1,D1.5
+3/13/22,Gunnison,AS,<TL,NE,R2,D1.5
+3/13/22,Vail & Summit County,N,>TL,SE,R2,D2.5
+3/13/22,Vail & Summit County,U,TL,N,R2,D2
+3/13/22,Vail & Summit County,N,TL,E,R1,D1
+3/13/22,Steamboat & Flat Tops,AS,<TL,NE,R1,D1.5
+3/13/22,North San Juan,U,>TL,NE,R3,D2.5
+3/13/22,Steamboat & Flat Tops,AM,<TL,NW,R1,D1
+3/13/22,Front Range,N,>TL,S,R1,D1
+3/13/22,Steamboat & Flat Tops,U,,N,,D1
+3/13/22,Steamboat & Flat Tops,U,,N,,D1
+3/13/22,South San Juan,N,TL,E,R1,D1.5
+3/13/22,South San Juan,N,TL,E,R1,D1.5
+3/13/22,South San Juan,N,TL,E,R1,D1.5
+3/13/22,South San Juan,N,TL,E,R1,D1.5
+3/13/22,South San Juan,N,TL,E,R1,D1.5
+3/13/22,South San Juan,N,TL,E,R1,D1.5
+3/13/22,Vail & Summit County,U,>TL,E,R3,D2
+3/13/22,Front Range,N,>TL,E,R1,D1
+3/13/22,Front Range,N,>TL,E,R1,D1
+3/13/22,Front Range,N,>TL,E,R1,D1
+3/13/22,Front Range,N,>TL,E,R1,D1
+3/13/22,Front Range,N,>TL,E,R1,D1
+3/13/22,Vail & Summit County,N,All,E,R2,D2
+3/13/22,North San Juan,N,>TL,S,R1,D1.5
+3/13/22,Vail & Summit County,N,TL,NE,R2,D2
+3/13/22,South San Juan,N,<TL,W,R1,D1
+3/13/22,South San Juan,N,<TL,W,R1,D1
+3/13/22,South San Juan,N,<TL,W,R1,D1
+3/13/22,South San Juan,N,<TL,W,R1,D1
+3/13/22,Sawatch,N,<TL,NE,R1,D1.5
+3/13/22,South San Juan,N,<TL,SE,R1,D1.5
+3/13/22,South San Juan,N,<TL,E,R1,D1.5
+3/13/22,South San Juan,N,<TL,SE,R1,D1.5
+3/13/22,South San Juan,N,,SE,R1,D1.5
+3/13/22,North San Juan,N,<TL,NW,R1,D1.5
+3/13/22,North San Juan,N,<TL,W,R1,D1
+3/14/22,Front Range,N,TL,SE,R1,D1
+3/14/22,Aspen,N,TL,SE,R1,D1
+3/14/22,Aspen,N,TL,SE,R1,D1
+3/14/22,Aspen,N,TL,SE,R1,D1
+3/14/22,Aspen,U,TL,E,R2,D2
+3/14/22,Vail & Summit County,U,<TL,E,R1,D1.5
+3/14/22,Grand Mesa,N,<TL,NE,R2,D1.5
+3/14/22,Grand Mesa,N,<TL,NE,R2,D1.5
+3/14/22,Vail & Summit County,N,>TL,SW,R1,D1.5
+3/14/22,South San Juan,N,>TL,SW,R1,D1.5
+3/14/22,South San Juan,N,>TL,SW,R1,D1.5
+3/14/22,South San Juan,N,>TL,SW,R1,D1.5
+3/14/22,Vail & Summit County,AS,>TL,SE,R2,D2
+3/14/22,North San Juan,AS,<TL,NE,R1,D1.5
+3/14/22,Aspen,AS,>TL,SE,R1,D1
+3/14/22,Aspen,AS,>TL,SE,R1,D1
+3/14/22,Vail & Summit County,AE,>TL,E,R3,D2
+3/14/22,Vail & Summit County,AS,>TL,SE,R1,D1.5
+3/14/22,Front Range,N,>TL,SE,R1,D1.5
+3/14/22,Front Range,AS,<TL,N,R1,D1
+3/15/22,Vail & Summit County,AS,>TL,E,R2,D2
+3/15/22,Gunnison,N,TL,S,R2,D1.5
+3/15/22,Gunnison,N,<TL,S,R2,D2
+3/15/22,Grand Mesa,AS,<TL,E,R1,D1
+3/15/22,Grand Mesa,AS,<TL,E,R1,D1
+3/15/22,Grand Mesa,AS,<TL,E,R1,D1
+3/15/22,Grand Mesa,AS,<TL,E,R1,D1
+3/15/22,North San Juan,N,>TL,E,R2,D2
+3/15/22,North San Juan,N,>TL,N,R1,D1.5
+3/15/22,North San Juan,N,>TL,NW,R2,D2
+3/15/22,North San Juan,N,>TL,N,R2,D2
+3/16/22,Front Range,N,>TL,NE,R2,D2
+3/16/22,Vail & Summit County,AS,<TL,W,R1,D1.5
+3/16/22,Front Range,U,>TL,E,R2,D2
+3/16/22,Aspen,N,>TL,SE,R1,D1.5
+3/16/22,Steamboat & Flat Tops,N,<TL,N,R1,D1
+3/16/22,Aspen,N,<TL,E,R2,D2
+3/16/22,Vail & Summit County,N,<TL,SE,R1,D1
+3/16/22,Aspen,AS,<TL,NE,R2,D1
+3/17/22,Aspen,AS,TL,NE,R1,D1
+3/17/22,North San Juan,AS,<TL,E,,D2
+3/17/22,North San Juan,AS,<TL,E,,D1.5
+3/17/22,North San Juan,N,<TL,NE,,D1.5
+3/17/22,North San Juan,N,TL,NE,R1,D1.5
+3/17/22,Front Range,N,<TL,W,R1,D1.5
+3/17/22,Front Range,AS,<TL,W,R1,D1.5
+3/17/22,Grand Mesa,N,TL,N,R2,D1.5
+3/17/22,Vail & Summit County,N,>TL,E,,D1.5
+3/17/22,Sawatch,N,>TL,E,R1,D1
+3/17/22,Sawatch,N,>TL,E,R1,D1
+3/17/22,Sawatch,N,>TL,E,R1,D1
+3/17/22,Sawatch,N,>TL,E,R1,D1
+3/17/22,Sawatch,N,>TL,E,R1,D1
+3/17/22,Sawatch,N,>TL,E,R1,D1
+3/17/22,South San Juan,AM,>TL,N,R2,D2
+3/17/22,Aspen,N,>TL,E,R1,D2
+3/17/22,Aspen,N,>TL,E,R1,D2
+3/17/22,Grand Mesa,N,<TL,NW,R1,D1
+3/17/22,North San Juan,AR,>TL,NW,R3,D2.5
+3/18/22,Front Range,N,TL,E,R2,D2
+3/18/22,Vail & Summit County,N,>TL,NW,R1,D1.5
+3/18/22,Aspen,AS,TL,E,R1,D1.5
+3/18/22,Front Range,N,>TL,NW,R2,D2.5
+3/18/22,Sawatch,N,>TL,W,,D1
+3/18/22,North San Juan,U,TL,NW,R2,D2
+3/18/22,Vail & Summit County,N,>TL,E,R1,D1.5
+3/18/22,Vail & Summit County,N,>TL,E,R1,D1
+3/18/22,Vail & Summit County,N,>TL,E,R1,D1
+3/18/22,Gunnison,AM,<TL,E,R2,D1.5
+3/18/22,Aspen,AS,>TL,E,R3,D2.5
+3/18/22,Aspen,N,>TL,N,R2,D2
+3/18/22,Vail & Summit County,AS,TL,NW,R2,D2.5
+3/18/22,Aspen,AS,<TL,E,R2,D1.5
+3/18/22,Front Range,AS,<TL,N,R1,D1
+3/18/22,Gunnison,AR,TL,E,R1,D1
+3/18/22,Gunnison,AR,TL,E,R1,D1
+3/18/22,Aspen,AS,TL,E,R1,D2
+3/18/22,Aspen,AS,<TL,E,R1,D1
+3/18/22,Vail & Summit County,N,>TL,E,R1,D1
+3/18/22,Gunnison,AM,TL,E,R2,D2
+3/18/22,Front Range,N,>TL,NE,R1,D1.5
+3/18/22,Front Range,AS,TL,E,R1,D1.5
+3/18/22,UNK,N,>TL,NE,R1,D1
+3/18/22,Vail & Summit County,N,>TL,N,R2,D2
+3/18/22,Vail & Summit County,AS,>TL,SE,R1,D1
+3/18/22,Front Range,AS,TL,N,R1,D2
+3/19/22,Front Range,AS,>TL,S,R1,D1
+3/19/22,Front Range,N,>TL,E,R2,D1.5
+3/19/22,North San Juan,N,>TL,W,R1,D1.5
+3/19/22,Aspen,AS,TL,E,R2,D2
+3/19/22,Sawatch,AM,>TL,NE,R2,D2
+3/19/22,Sawatch,AS,TL,N,R1,D1
+3/19/22,Sawatch,AS,>TL,NW,R1,D1
+3/19/22,Vail & Summit County,N,<TL,SW,R1,D1
+3/19/22,Vail & Summit County,N,<TL,SW,R1,D1
+3/19/22,Vail & Summit County,N,<TL,SW,R1,D1
+3/19/22,North San Juan,N,>TL,E,R1,D1
+3/19/22,Front Range,N,>TL,E,R2,D2
+3/19/22,Steamboat & Flat Tops,U,TL,N,R1,D1
+3/19/22,Steamboat & Flat Tops,AS,<TL,NW,R2,D2
+3/19/22,Vail & Summit County,AS,<TL,NE,R2,D2
+3/19/22,Front Range,N,>TL,SE,R1,D1.5
+3/19/22,Vail & Summit County,AS,>TL,E,R1,D1
+3/19/22,Vail & Summit County,AS,TL,E,R1,D1.5
+3/19/22,Sawatch,AS,TL,E,R1,D1.5
+3/20/22,Vail & Summit County,N,>TL,E,R2,D2
+3/20/22,Vail & Summit County,AS,>TL,N,R1,D1.5
+3/20/22,Front Range,N,>TL,SE,R2,D2
+3/20/22,Vail & Summit County,AS,>TL,N,R2,D2
+3/20/22,Vail & Summit County,AS,<TL,NW,R2,D2.5
+3/20/22,North San Juan,AS,>TL,NW,R1,D1
+3/20/22,Aspen,AS,TL,NW,R1,D1
+3/20/22,Vail & Summit County,AS,>TL,N,R1,D1
+3/20/22,Vail & Summit County,N,TL,W,R1,D1
+3/20/22,Gunnison,AS,<TL,NW,R1,D1
+3/20/22,Front Range,AM,<TL,N,R2,D1.5
+3/20/22,Vail & Summit County,U,>TL,SE,R2,D2
+3/20/22,Front Range,AS,>TL,S,R1,D1
+3/20/22,Vail & Summit County,AS,>TL,NW,R1,D2
+3/20/22,South San Juan,N,>TL,S,R1,D2
+3/21/22,Vail & Summit County,N,>TL,N,R2,D2.5
+3/22/22,Gunnison,AS,>TL,NW,R1,D1
+3/22/22,Aspen,N,TL,NE,R2,D2
+3/22/22,South San Juan,N,>TL,E,R2,D2
+3/23/22,Front Range,U,>TL,NE,R1,D1
+3/23/22,Sawatch,N,>TL,SE,R1,D2
+3/23/22,North San Juan,N,>TL,E,R1,D1
+3/23/22,Sawatch,N,>TL,SE,R1,D1
+3/23/22,Vail & Summit County,N,>TL,W,R1,D1
+3/23/22,Vail & Summit County,N,>TL,N,R1,D1
+3/23/22,North San Juan,N,>TL,NE,R3,D2.5
+3/23/22,North San Juan,U,>TL,E,R1,D1.5
+3/23/22,Vail & Summit County,N,>TL,SE,R1,D1
+3/23/22,Aspen,AS,<TL,N,R2,D2
+3/23/22,Vail & Summit County,U,<TL,E,R1,D1
+3/23/22,Gunnison,N,>TL,NE,R1,D1
+3/23/22,Gunnison,N,>TL,NE,R1,D1
+3/23/22,Vail & Summit County,N,TL,E,R1,D1.5
+3/23/22,Sawatch,N,>TL,E,R1,D1
+3/23/22,Sawatch,N,>TL,E,R1,D1
+3/23/22,Sawatch,N,>TL,E,R1,D1
+3/23/22,Sawatch,N,>TL,E,R1,D1
+3/23/22,Front Range,N,>TL,E,R2,D2
+3/23/22,Vail & Summit County,N,>TL,W,R2,D2
+3/23/22,North San Juan,N,>TL,SE,R2,D1.5
+3/23/22,North San Juan,U,TL,NW,R2,D2
+3/23/22,Sawatch,N,<TL,N,R1,D1
+3/23/22,Sawatch,N,>TL,E,R2,D2
+3/23/22,Front Range,AR,>TL,SE,R1,D1
+3/23/22,Vail & Summit County,N,>TL,NW,R1,D1
+3/23/22,Vail & Summit County,N,>TL,NW,R2,D1.5
+3/23/22,Vail & Summit County,N,>TL,W,R2,D1.5
+3/23/22,Front Range,AX,TL,N,R2,D1.5
+3/23/22,Front Range,AX,<TL,N,R3,D1.5
+3/23/22,Front Range,AX,<TL,N,R2,D1.5
+3/23/22,Front Range,AX,<TL,N,R2,D1.5
+3/23/22,Front Range,AE,,W,R1,D1
+3/23/22,Vail & Summit County,AE,TL,E,R3,D1.5
+3/23/22,Vail & Summit County,AE,TL,E,R2,D1
+3/23/22,Vail & Summit County,AE,>TL,E,R3,D1.5
+3/23/22,Vail & Summit County,AE,>TL,E,R3,D1.5
+3/23/22,Vail & Summit County,AE,>TL,E,R3,D1
+3/24/22,Vail & Summit County,N,>TL,E,R2,D1.5
+3/24/22,Vail & Summit County,N,>TL,W,R2,D1
+3/24/22,Sawatch,N,>TL,E,R2,D2
+3/24/22,Sawatch,N,>TL,E,R2,D2
+3/24/22,Sawatch,N,>TL,S,R1,D1
+3/24/22,Sawatch,N,>TL,S,R1,D1
+3/24/22,Sawatch,N,>TL,S,R1,D1
+3/24/22,Sawatch,N,>TL,SE,R1,D1.5
+3/24/22,Front Range,N,>TL,SE,R1,D1.5
+3/24/22,Aspen,AS,<TL,N,R3,D2
+3/24/22,Aspen,N,TL,NW,R2,D1.5
+3/24/22,Aspen,N,TL,N,R1,D2
+3/24/22,Aspen,N,TL,E,R2,D2
+3/24/22,Vail & Summit County,N,TL,SW,R1,D1.5
+3/24/22,Vail & Summit County,N,>TL,SE,R1,D1.5
+3/24/22,South San Juan,N,<TL,SE,R1,D1
+3/24/22,Vail & Summit County,U,TL,NE,R1,D1
+3/24/22,South San Juan,N,TL,SE,R1,D1
+3/24/22,South San Juan,N,TL,SE,R1,D1
+3/24/22,North San Juan,N,>TL,SE,R2,D2
+3/24/22,Aspen,N,>TL,NW,R2,D2
+3/24/22,Front Range,AX,>TL,SE,R1,D1.5
+3/24/22,Front Range,AX,>TL,SE,R2,D2
+3/24/22,Vail & Summit County,AX,>TL,NW,R1,D1
+3/24/22,Vail & Summit County,AL,>TL,W,R1,D1
+3/25/22,North San Juan,U,TL,W,R2,D2
+3/25/22,North San Juan,N,>TL,W,R2,D1.5
+3/25/22,Aspen,N,<TL,W,R1,D1
+3/25/22,Aspen,N,<TL,W,R1,D1
+3/25/22,Aspen,N,<TL,W,R1,D1
+3/25/22,Aspen,N,<TL,W,R1,D1
+3/25/22,Aspen,N,<TL,W,R1,D1
+3/25/22,Gunnison,N,TL,W,R1,D1
+3/25/22,Gunnison,N,TL,W,R1,D1
+3/25/22,Gunnison,N,TL,W,R1,D1
+3/25/22,Gunnison,N,TL,W,R1,D1
+3/25/22,Gunnison,N,TL,W,R1,D1
+3/25/22,Gunnison,N,>TL,E,R1,D1
+3/25/22,Gunnison,N,>TL,E,R1,D1
+3/25/22,Gunnison,N,>TL,E,R1,D1
+3/25/22,Gunnison,N,>TL,E,R1,D1
+3/25/22,Gunnison,N,>TL,E,R1,D1
+3/25/22,Gunnison,N,>TL,E,R1,D1
+3/25/22,South San Juan,N,<TL,W,R1,D1.5
+3/25/22,South San Juan,N,<TL,W,R1,D1.5
+3/25/22,South San Juan,N,<TL,W,R1,D1.5
+3/25/22,North San Juan,N,>TL,E,R3,D2
+3/25/22,North San Juan,N,>TL,E,R3,D2
+3/25/22,Front Range,AR,TL,NE,R2,D2
+3/25/22,North San Juan,N,>TL,E,R1,D1
+3/25/22,North San Juan,N,>TL,E,R1,D1
+3/25/22,North San Juan,N,>TL,E,R1,D1
+3/25/22,North San Juan,N,>TL,E,R1,D1
+3/25/22,Gunnison,N,>TL,S,R1,D1
+3/25/22,Gunnison,N,>TL,S,R1,D1
+3/25/22,Gunnison,N,>TL,S,R1,D1
+3/25/22,Gunnison,N,>TL,S,R1,D1
+3/25/22,Vail & Summit County,N,>TL,W,R1,D1
+3/25/22,Gunnison,N,>TL,SE,R1,D1
+3/25/22,Gunnison,N,>TL,SE,R1,D1
+3/25/22,Gunnison,N,>TL,SE,R1,D1
+3/25/22,Gunnison,N,>TL,SE,R1,D1
+3/25/22,Gunnison,N,TL,E,R1,D1.5
+3/25/22,Gunnison,N,TL,E,R1,D1.5
+3/25/22,Gunnison,N,TL,E,R1,D1.5
+3/25/22,North San Juan,N,<TL,N,R1,D1.5
+3/26/22,Aspen,AS,TL,SE,R1,D1
+3/26/22,Gunnison,N,TL,SW,R1,D1.5
+3/26/22,Gunnison,N,TL,SW,R1,D1.5
+3/26/22,Gunnison,N,TL,SW,R1,D1.5
+3/26/22,Front Range,N,<TL,E,R1,D1.5
+3/26/22,Sawatch,N,>TL,SE,R1,D1
+3/26/22,Sawatch,N,>TL,SE,R1,D1
+3/26/22,Gunnison,N,<TL,E,R2,D2
+3/26/22,Gunnison,N,>TL,SE,R1,D1.5
+3/26/22,Gunnison,N,TL,SE,R1,D1
+3/26/22,Gunnison,N,TL,SE,R1,D1
+3/26/22,Gunnison,N,TL,SE,R1,D1
+3/26/22,North San Juan,N,>TL,E,R1,D1
+3/26/22,Gunnison,N,<TL,E,R1,D1.5
+3/26/22,Gunnison,N,<TL,E,R1,D1.5
+3/26/22,Gunnison,N,<TL,E,R1,D1.5
+3/26/22,Gunnison,N,>TL,E,R1,D1
+3/26/22,Gunnison,N,>TL,E,R1,D1
+3/26/22,Gunnison,N,>TL,E,R1,D1
+3/26/22,North San Juan,N,TL,N,R2,D1.5
+3/26/22,North San Juan,N,TL,N,R2,D1.5
+3/26/22,North San Juan,N,TL,N,R2,D1.5
+3/26/22,North San Juan,N,TL,SW,R2,D1.5
+3/26/22,North San Juan,N,TL,SW,R2,D1.5
+3/26/22,North San Juan,N,TL,SW,R2,D1.5
+3/26/22,Sawatch,N,<TL,NE,R1,D1
+3/26/22,Gunnison,N,<TL,E,R1,D1.5
+3/26/22,Gunnison,N,<TL,E,R1,D1.5
+3/26/22,North San Juan,N,TL,W,R1,D2
+3/26/22,Gunnison,N,TL,E,R1,D1
+3/26/22,Gunnison,N,TL,E,R1,D1
+3/26/22,Gunnison,N,TL,E,R1,D1
+3/26/22,Gunnison,N,TL,E,R1,D1
+3/26/22,Gunnison,N,TL,E,R1,D1
+3/26/22,Gunnison,N,TL,E,R1,D1
+3/26/22,Gunnison,N,TL,E,R1,D1
+3/26/22,Aspen,N,<TL,W,R1,D1
+3/26/22,Aspen,N,<TL,W,R1,D1
+3/26/22,Aspen,N,<TL,W,R1,D1
+3/26/22,Aspen,N,<TL,W,R1,D1
+3/26/22,Aspen,N,<TL,W,R1,D1
+3/26/22,Aspen,N,<TL,W,R1,D1
+3/26/22,Aspen,N,TL,E,R2,D2
+3/26/22,Aspen,N,TL,NE,R1,D2
+3/26/22,North San Juan,AS,>TL,SE,R2,D1
+3/26/22,Steamboat & Flat Tops,N,<TL,NW,R1,D1
+3/26/22,North San Juan,N,<TL,W,R2,D1
+3/26/22,Vail & Summit County,N,TL,SW,R2,D1.5
+3/26/22,Sawatch,N,>TL,E,R1,D1
+3/26/22,Sawatch,N,TL,SE,R1,D1
+3/26/22,Steamboat & Flat Tops,N,<TL,N,R1,D1.5
+3/26/22,South San Juan,N,>TL,E,R1,D2
+3/26/22,South San Juan,N,<TL,NE,R1,D1
+3/26/22,Gunnison,N,TL,E,R1,D1.5
+3/26/22,Gunnison,N,TL,E,R1,D1.5
+3/26/22,Gunnison,N,<TL,E,R2,D2
+3/26/22,South San Juan,N,<TL,E,R1,D2
+3/26/22,Gunnison,N,>TL,E,R1,D1
+3/26/22,Gunnison,N,>TL,E,R1,D1
+3/26/22,Gunnison,N,>TL,E,R1,D1
+3/26/22,Gunnison,N,>TL,E,R1,D1
+3/26/22,Gunnison,N,>TL,E,R1,D1
+3/26/22,Gunnison,N,>TL,E,R1,D1
+3/26/22,North San Juan,AS,>TL,SE,R1,D1
+3/26/22,North San Juan,AS,<TL,NE,R1,D1
+3/26/22,North San Juan,N,TL,SE,R2,D2
+3/26/22,North San Juan,N,<TL,E,R1,D1
+3/26/22,North San Juan,N,TL,E,R1,D1
+3/26/22,North San Juan,N,TL,E,R1,D1.5
+3/26/22,Front Range,N,>TL,E,R1,D2
+3/26/22,North San Juan,U,>TL,NE,R1,D1.5
+3/26/22,Front Range,N,>TL,S,R2,D2
+3/26/22,North San Juan,N,>TL,E,R1,D1.5
+3/26/22,North San Juan,N,>TL,E,R1,D1.5
+3/26/22,Front Range,N,<TL,SE,R1,D1
+3/26/22,Vail & Summit County,N,<TL,E,R1,D1
+3/26/22,Vail & Summit County,N,<TL,W,R1,D1.5
+3/26/22,Front Range,N,<TL,SE,R1,D1
+3/26/22,Front Range,N,<TL,E,R1,D1
+3/26/22,Vail & Summit County,N,,SW,,
+3/26/22,North San Juan,N,>TL,E,R3,D3
+3/26/22,Front Range,N,<TL,E,R1,D1
+3/26/22,Vail & Summit County,N,<TL,NW,R1,D1
+3/26/22,North San Juan,N,<TL,NE,R1,D1
+3/26/22,Vail & Summit County,N,<TL,W,R1,D1
+3/26/22,North San Juan,N,>TL,S,R2,D2
+3/26/22,North San Juan,N,<TL,NE,R1,D1
+3/26/22,North San Juan,N,<TL,E,R1,D1
+3/26/22,Vail & Summit County,N,>TL,SW,R1,D1.5
+3/26/22,Vail & Summit County,N,<TL,NW,R1,D1.5
+3/26/22,Sawatch,N,<TL,E,R1,D1
+3/26/22,Vail & Summit County,N,TL,NW,R1,D1
+3/26/22,Vail & Summit County,N,>TL,NW,R2,D2
+3/26/22,North San Juan,N,>TL,W,R1,D2.5
+3/27/22,Steamboat & Flat Tops,N,<TL,SE,R1,D1
+3/27/22,Gunnison,N,TL,E,R2,D2
+3/27/22,Aspen,N,TL,W,R1,D2
+3/27/22,Aspen,N,TL,W,R1,D2
+3/27/22,Sawatch,U,>TL,SE,R2,D1.5
+3/27/22,North San Juan,N,TL,E,R1,D1.5
+3/27/22,North San Juan,N,TL,E,R1,D1.5
+3/27/22,North San Juan,N,TL,E,R1,D1.5
+3/27/22,North San Juan,N,TL,E,R1,D1.5
+3/27/22,Gunnison,N,>TL,W,R2,D2
+3/27/22,North San Juan,AS,<TL,NE,R1,D1.5
+3/27/22,Vail & Summit County,U,<TL,E,R1,D1
+3/27/22,Gunnison,N,>TL,NW,R1,D1.5
+3/27/22,Gunnison,N,>TL,E,R2,D2
+3/27/22,Aspen,N,TL,SW,R1,D1.5
+3/27/22,Aspen,N,TL,SW,R1,D1.5
+3/27/22,Vail & Summit County,N,<TL,NE,R1,D1.5
+3/27/22,Vail & Summit County,N,<TL,NE,R1,D1.5
+3/27/22,Aspen,N,>TL,SE,,D2
+3/27/22,Aspen,N,<TL,NE,R2,D2
+3/27/22,Aspen,N,TL,NW,R1,D2
+3/27/22,North San Juan,N,<TL,NW,R2,D1.5
+3/27/22,North San Juan,N,<TL,NW,R2,D1.5
+3/27/22,Front Range,N,TL,SE,R2,D1
+3/27/22,Aspen,N,<TL,E,R1,D1.5
+3/27/22,North San Juan,N,TL,SW,R1,D1.5
+3/27/22,North San Juan,N,>TL,W,R2,D2
+3/27/22,Aspen,N,<TL,W,R1,D1.5
+3/27/22,Steamboat & Flat Tops,U,<TL,,R1,D1.5
+3/27/22,Gunnison,N,TL,W,R1,D1.5
+3/27/22,Gunnison,N,TL,W,R1,D1.5
+3/27/22,North San Juan,N,TL,E,R1,D2
+3/27/22,Front Range,N,TL,SE,R2,D1.5
+3/27/22,North San Juan,N,TL,E,R1,D1.5
+3/27/22,North San Juan,N,TL,E,R1,D1.5
+3/27/22,North San Juan,N,TL,E,R1,D1.5
+3/27/22,North San Juan,N,TL,E,R1,D1.5
+3/27/22,North San Juan,N,TL,E,R1,D1.5
+3/27/22,Aspen,N,TL,W,R1,D1.5
+3/27/22,Vail & Summit County,N,<TL,NW,R2,D1.5
+3/27/22,Front Range,N,TL,W,R1,D1
+3/27/22,Front Range,N,<TL,E,R1,D1
+3/27/22,Front Range,N,<TL,E,R1,D1
+3/27/22,Vail & Summit County,N,<TL,E,R1,D1.5
+3/27/22,Vail & Summit County,N,<TL,E,R2,D2
+3/27/22,Vail & Summit County,N,<TL,E,R2,D1.5
+3/27/22,Vail & Summit County,N,<TL,W,R2,D1.5
+3/27/22,Vail & Summit County,N,<TL,NW,R2,D1.5
+3/27/22,Vail & Summit County,N,>TL,NW,R1,D1
+3/27/22,Vail & Summit County,N,>TL,NW,R1,D1
+3/27/22,South San Juan,N,<TL,NE,R1,D1
+3/27/22,North San Juan,N,<TL,N,R2,D1.5
+3/27/22,Sawatch,N,<TL,E,R2,D2
+3/27/22,North San Juan,N,<TL,W,R1,D1.5
+3/28/22,Gunnison,N,<TL,NE,R1,D1.5
+3/28/22,South San Juan,N,TL,W,R1,D1.5
+3/28/22,South San Juan,N,TL,W,R1,D1.5
+3/28/22,Vail & Summit County,N,TL,S,R3,D2
+3/28/22,Steamboat & Flat Tops,N,TL,E,R1,D1
+3/28/22,Gunnison,N,TL,NW,R1,D1.5
+3/28/22,Gunnison,N,TL,NW,R1,D1.5
+3/28/22,Aspen,N,>TL,SE,R1,D1
+3/28/22,Aspen,N,>TL,SE,R1,D1
+3/28/22,Aspen,N,>TL,SE,R1,D1
+3/28/22,Gunnison,N,TL,W,R1,D1.5
+3/28/22,Gunnison,U,TL,W,,D1.5
+3/28/22,Gunnison,N,TL,W,R2,D2
+3/28/22,Sawatch,N,>TL,NW,R1,D1.5
+3/28/22,Steamboat & Flat Tops,N,<TL,N,R1,D1.5
+3/28/22,Sawatch,N,<TL,E,R1,D1
+3/28/22,Sawatch,N,<TL,E,R1,D1
+3/28/22,Sawatch,N,<TL,E,R1,D1
+3/28/22,Gunnison,N,TL,SE,R2,D1.5
+3/28/22,Gunnison,N,<TL,W,R2,D1.5
+3/28/22,Sawatch,N,>TL,S,R1,D1.5
+3/28/22,Sawatch,N,>TL,S,R1,D1.5
+3/28/22,Sawatch,N,>TL,S,R1,D1.5
+3/28/22,Sawatch,N,>TL,S,R1,D1.5
+3/28/22,Gunnison,N,>TL,SE,R1,D2
+3/28/22,Gunnison,N,>TL,SE,R1,D2
+3/28/22,Aspen,N,>TL,SE,R1,D1
+3/28/22,Aspen,N,>TL,SE,R1,D1
+3/28/22,Aspen,N,>TL,SE,R1,D1
+3/28/22,Aspen,N,>TL,SE,R1,D1
+3/28/22,Gunnison,N,<TL,W,R2,D1.5
+3/28/22,Gunnison,N,>TL,SE,R1,D1.5
+3/28/22,Gunnison,N,>TL,SE,R1,D1.5
+3/28/22,Gunnison,N,>TL,SE,R1,D1.5
+3/28/22,Sawatch,N,<TL,N,R2,D1
+3/28/22,Aspen,N,>TL,E,R1,D1.5
+3/28/22,Aspen,N,>TL,E,R1,D1.5
+3/28/22,Aspen,N,>TL,E,R1,D1.5
+3/28/22,Aspen,N,>TL,E,R1,D1.5
+3/28/22,Vail & Summit County,N,TL,NE,R2,D2
+3/28/22,North San Juan,N,<TL,W,R1,D2
+3/28/22,North San Juan,N,<TL,W,R1,D2
+3/28/22,North San Juan,N,<TL,W,R1,D1
+3/28/22,North San Juan,N,<TL,E,R1,D1.5
+3/29/22,Vail & Summit County,N,<TL,E,R2,D1.5
+3/29/22,Front Range,N,>TL,E,R1,D1.5
+3/29/22,North San Juan,AS,TL,E,R2,D2
+3/29/22,Steamboat & Flat Tops,U,<TL,N,,
+3/29/22,South San Juan,N,<TL,W,R1,D1.5
+3/29/22,South San Juan,N,<TL,W,R1,D1.5
+3/29/22,South San Juan,N,<TL,W,R1,D1.5
+3/29/22,South San Juan,N,TL,W,R1,D1.5
+3/29/22,Vail & Summit County,N,TL,W,R2,D2
+3/29/22,North San Juan,N,TL,E,R1,D2
+3/29/22,South San Juan,N,TL,NW,R1,D2
+3/29/22,South San Juan,N,TL,W,R1,D2
+3/29/22,South San Juan,N,TL,W,R1,D2
+3/29/22,Vail & Summit County,N,TL,SW,R2,D1.5
+3/29/22,South San Juan,N,>TL,E,R1,D1.5
+3/29/22,South San Juan,N,>TL,E,R1,D1.5
+3/29/22,South San Juan,N,>TL,E,R1,D1.5
+3/29/22,Steamboat & Flat Tops,U,<TL,,R2,D1.5
+3/29/22,South San Juan,N,<TL,W,R1,D1.5
+3/29/22,South San Juan,N,<TL,W,R1,D1.5
+3/29/22,North San Juan,AS,<TL,NE,R1,D1.5
+3/30/22,South San Juan,AS,>TL,E,R2,D2
+3/30/22,Gunnison,N,>TL,S,R2,D2
+3/30/22,Gunnison,AS,TL,SE,R1,D1.5
+3/30/22,North San Juan,N,>TL,NE,R2,D2.5
+3/30/22,Gunnison,AS,TL,N,R1,D1.5
+3/30/22,Gunnison,AS,TL,N,R1,D1.5
+3/30/22,Front Range,AS,>TL,NE,R1,D1
+3/30/22,Front Range,AS,>TL,NE,R1,D1
+3/30/22,Gunnison,N,>TL,NE,R1,D1.5
+3/30/22,Gunnison,N,>TL,NE,R1,D1.5
+3/30/22,Gunnison,N,>TL,NE,R1,D1.5
+3/30/22,Aspen,N,>TL,SE,R1,D1.5
+3/30/22,Gunnison,N,>TL,SE,R2,D2
+3/30/22,Gunnison,N,>TL,SE,R2,D2
+3/30/22,Gunnison,N,>TL,SE,R2,D2
+3/30/22,Gunnison,N,>TL,SE,R2,D2
+3/30/22,Gunnison,N,>TL,SE,R1,D1.5
+3/30/22,Gunnison,N,>TL,E,R1,D1.5
+3/30/22,Gunnison,N,>TL,E,R1,D1.5
+3/30/22,Gunnison,N,>TL,NE,R2,D2
+3/30/22,North San Juan,N,>TL,SE,R2,D2
+3/30/22,Aspen,N,<TL,E,R1,D1
+3/30/22,South San Juan,N,<TL,E,R1,D1.5
+3/30/22,South San Juan,N,>TL,E,R1,D1.5
+3/30/22,South San Juan,N,>TL,E,R1,D1.5
+3/30/22,South San Juan,N,>TL,E,R1,D1.5
+3/30/22,Front Range,AX,TL,N,R2,D1.5
+3/30/22,Front Range,AX,<TL,N,R2,D1.5
+3/30/22,Front Range,AX,<TL,N,R2,D1.5
+3/30/22,Front Range,AX,>TL,E,R3,D2
+3/30/22,Front Range,AX,<TL,N,R3,D2
+3/30/22,Vail & Summit County,N,>TL,E,R2,D1.5
+3/31/22,Vail & Summit County,N,>TL,N,R1,D1.5
+3/31/22,Vail & Summit County,N,>TL,SE,R1,D2
+3/31/22,Gunnison,AM,TL,SE,R1,D1
+3/31/22,Aspen,AS,>TL,SE,R1,D1
+3/31/22,Gunnison,N,>TL,NE,R2,D2.5
+3/31/22,Vail & Summit County,U,>TL,E,R2,D2
+3/31/22,Sawatch,N,TL,NE,R1,D1
+3/31/22,Steamboat & Flat Tops,AS,<TL,E,R1,D1
+3/31/22,Steamboat & Flat Tops,AS,<TL,E,R1,D1
+3/31/22,Steamboat & Flat Tops,AS,<TL,SE,R1,D1
+3/31/22,Steamboat & Flat Tops,AS,<TL,SE,R1,D1
+3/31/22,Front Range,N,>TL,S,,D1
+3/31/22,Gunnison,N,>TL,E,R1,D1.5
+3/31/22,Gunnison,N,>TL,E,R1,D1.5
+3/31/22,Gunnison,N,>TL,E,R1,D1.5
+3/31/22,Steamboat & Flat Tops,N,<TL,SE,R1,D1
+3/31/22,Steamboat & Flat Tops,N,<TL,SE,R1,D1
+3/31/22,Steamboat & Flat Tops,N,<TL,SE,R1,D1
+3/31/22,Steamboat & Flat Tops,N,<TL,SE,R1,D1
+3/31/22,North San Juan,AS,>TL,SE,R1,D1
+3/31/22,Gunnison,AR,TL,N,R1,D1.5
+3/31/22,Vail & Summit County,N,>TL,E,R2,D2.5
+3/31/22,Vail & Summit County,N,>TL,E,R2,D2.5
+3/31/22,North San Juan,N,<TL,NW,R1,D1
+4/1/22,Sawatch,N,>TL,E,R3,D3
+4/1/22,Sawatch,AS,>TL,SE,R1,D1
+4/1/22,Gunnison,N,>TL,SE,R1,D1
+4/1/22,Gunnison,N,>TL,SE,R1,D1
+4/1/22,South San Juan,N,>TL,N,,D2
+4/1/22,South San Juan,U,>TL,N,,D1.5
+4/1/22,South San Juan,N,>TL,E,R2,D2
+4/1/22,Sawatch,AS,>TL,SE,R3,D1
+4/1/22,North San Juan,N,>TL,E,R1,D1
+4/1/22,South San Juan,N,>TL,SE,R1,D1.5
+4/1/22,South San Juan,N,>TL,SE,R1,D1.5
+4/1/22,South San Juan,N,>TL,SE,R1,D1.5
+4/1/22,South San Juan,N,>TL,SE,R1,D1.5
+4/1/22,South San Juan,N,>TL,SE,R1,D1.5
+4/1/22,Gunnison,AS,>TL,SE,R1,D1
+4/1/22,Gunnison,AS,>TL,SE,R1,D1
+4/1/22,Gunnison,AS,>TL,SE,R1,D1
+4/1/22,Gunnison,AS,>TL,SE,R1,D1
+4/1/22,Grand Mesa,AM,TL,N,R2,D1.5
+4/1/22,Gunnison,N,>TL,SE,R1,D1
+4/1/22,Gunnison,N,>TL,SE,R1,D1
+4/1/22,Gunnison,N,>TL,SE,R1,D1
+4/1/22,Gunnison,N,>TL,SE,R1,D1
+4/1/22,Gunnison,N,>TL,SE,R1,D1
+4/1/22,Gunnison,N,>TL,SE,R1,D1
+4/2/22,Vail & Summit County,AS,TL,SW,R1,D1
+4/2/22,Vail & Summit County,AS,TL,SW,R1,D1
+4/2/22,Vail & Summit County,AS,TL,SW,R1,D1
+4/2/22,North San Juan,AS,TL,N,R1,D1
+4/2/22,Vail & Summit County,N,>TL,E,R2,D2
+4/2/22,Sawatch,AS,>TL,SE,R1,D1
+4/2/22,Sawatch,AS,>TL,SE,R1,D1
+4/2/22,Aspen,N,>TL,NE,R2,D1
+4/2/22,Sawatch,U,>TL,NE,R2,D2
+4/2/22,Steamboat & Flat Tops,N,<TL,S,,
+4/2/22,Sawatch,N,>TL,NE,R2,D1.5
+4/2/22,Front Range,AS,TL,NE,R1,D1
+4/2/22,Gunnison,N,<TL,E,R1,D1
+4/2/22,Gunnison,N,<TL,E,R1,D1
+4/2/22,Gunnison,N,<TL,E,R1,D1
+4/2/22,Sawatch,N,>TL,SE,R1,D1
+4/2/22,Front Range,AM,<TL,E,R2,D1.5
+4/2/22,Vail & Summit County,AS,TL,E,R1,D1.5
+4/2/22,Gunnison,N,>TL,E,R1,D1
+4/2/22,Gunnison,N,>TL,E,R1,D1
+4/2/22,Gunnison,N,TL,E,R1,D1
+4/2/22,Gunnison,N,TL,E,R1,D1
+4/2/22,Gunnison,N,TL,E,R1,D1
+4/2/22,Gunnison,N,TL,E,R1,D1
+4/2/22,Gunnison,N,TL,E,R1,D1
+4/2/22,North San Juan,N,<TL,NW,R1,D1.5
+4/3/22,North San Juan,N,TL,N,,D1.5
+4/3/22,Front Range,AM,>TL,E,R3,D2
+4/3/22,Aspen,N,>TL,E,R2,D2
+4/3/22,Sawatch,AS,>TL,SE,R1,D1
+4/3/22,Sawatch,N,>TL,E,R1,D1
+4/3/22,Sawatch,N,>TL,E,R1,D1
+4/3/22,Sawatch,N,>TL,E,R1,D1
+4/3/22,Sawatch,N,>TL,E,R1,D1
+4/3/22,Sawatch,N,>TL,E,R1,D1
+4/3/22,Sawatch,N,>TL,E,R1,D1
+4/3/22,Sawatch,N,>TL,E,R1,D1
+4/3/22,Sawatch,N,>TL,E,R1,D1
+4/3/22,North San Juan,U,>TL,SE,R1,D1.5
+4/4/22,Vail & Summit County,N,TL,E,R2,D1.5
+4/4/22,Vail & Summit County,N,TL,NW,R2,D2
+4/4/22,Vail & Summit County,N,TL,NW,R2,D2
+4/4/22,Vail & Summit County,N,TL,NW,R1,D1
+4/4/22,Gunnison,N,<TL,E,R2,D1.5
+4/4/22,Gunnison,N,<TL,E,R2,D1.5
+4/4/22,Gunnison,N,<TL,E,R2,D1.5
+4/4/22,Gunnison,N,<TL,E,R2,D1.5
+4/4/22,Vail & Summit County,N,TL,E,R2,D2
+4/4/22,Sawatch,N,TL,E,R1,D2
+4/5/22,North San Juan,N,>TL,E,R1,D1.5
+4/5/22,Aspen,N,TL,N,,D2
+4/5/22,Aspen,N,TL,N,,D2
+4/5/22,North San Juan,N,>TL,NE,R2,D2
+4/5/22,Aspen,N,>TL,E,R2,D2
+4/5/22,Front Range,U,>TL,N,R1,D2
+4/5/22,Aspen,N,TL,NE,R2,D2
+4/5/22,Sawatch,N,>TL,SE,R2,D2
+4/5/22,Sawatch,N,>TL,NE,R2,D2
+4/6/22,Sawatch,N,>TL,NE,R1,D2
+4/6/22,Sawatch,N,>TL,NE,R1,D1
+4/6/22,Sawatch,N,>TL,NE,R1,D1
+4/6/22,Front Range,N,>TL,E,R2,D2
+4/7/22,Aspen,N,>TL,NE,R1,D1.5
+4/7/22,Aspen,N,>TL,NE,R1,D1.5
+4/7/22,Front Range,N,>TL,E,R2,D1.5
+4/7/22,Vail & Summit County,U,>TL,NE,R3,D2
+4/7/22,Vail & Summit County,U,TL,NE,R2,D2
+4/7/22,Front Range,N,>TL,NE,,D2
+4/7/22,Steamboat & Flat Tops,N,TL,N,R2,D1.5
+4/7/22,Front Range,U,>TL,E,R2,
+4/8/22,Front Range,N,>TL,S,R1,D1
+4/8/22,Front Range,N,>TL,E,R1,D1
+4/8/22,Front Range,N,>TL,E,R1,D1
+4/8/22,Front Range,N,>TL,E,R1,D1
+4/9/22,Aspen,N,<TL,N,R2,D2
+4/10/22,Vail & Summit County,AM,>TL,All,R1,D1
+4/12/22,South San Juan,N,>TL,NE,R1,D1
+4/12/22,Gunnison,N,TL,NE,R1,D1
+4/12/22,South San Juan,N,>TL,NE,R1,D1.5
+4/13/22,Gunnison,AS,<TL,N,R1,D1
+4/13/22,Gunnison,AS,<TL,N,R1,D1
+4/13/22,Gunnison,AS,<TL,N,R1,D1
+4/13/22,Gunnison,AS,<TL,N,R1,D1
+4/13/22,Gunnison,AS,<TL,N,R1,D1
+4/13/22,Gunnison,AS,<TL,N,R1,D1
+4/13/22,Gunnison,AS,<TL,N,R1,D1
+4/13/22,Gunnison,AS,<TL,N,R1,D1
+4/13/22,Gunnison,AS,<TL,N,R1,D1
+4/13/22,Gunnison,AS,<TL,N,R1,D1
+4/13/22,Sawatch,N,TL,E,R3,D2.5
+4/13/22,Gunnison,N,>TL,E,R1,D1.5
+4/13/22,Gunnison,AS,TL,NE,R1,D1
+4/13/22,Gunnison,AS,TL,NE,R1,D1
+4/13/22,Aspen,N,>TL,NE,R1,D1.5
+4/13/22,Front Range,AX,<TL,N,R4,D2.5
+4/13/22,Front Range,AX,TL,N,R2,D1.5
+4/13/22,Front Range,AX,>TL,E,R2,D1
+4/13/22,Front Range,AX,<TL,N,R3,D1.5
+4/13/22,Front Range,AX,<TL,N,R1,D1
+4/14/22,Gunnison,N,,,,D1
+4/14/22,Gunnison,N,,,,D1
+4/14/22,Gunnison,N,,,,D1
+4/14/22,Sawatch,U,>TL,E,R4,D3
+4/14/22,Gunnison,AS,<TL,NE,R1,D1.5
+4/14/22,Vail & Summit County,AS,<TL,NE,R1,D1.5
+4/14/22,Steamboat & Flat Tops,N,TL,SE,R1,D2
+4/14/22,Aspen,N,>TL,N,R2,D2.5
+4/14/22,Vail & Summit County,N,TL,SE,R1,D1
+4/14/22,Vail & Summit County,N,TL,SE,R1,D1
+4/14/22,Vail & Summit County,N,<TL,N,R2,D2
+4/14/22,Vail & Summit County,N,<TL,N,R2,D2
+4/14/22,Vail & Summit County,N,>TL,NE,R3,D2.5
+4/14/22,Front Range,N,>TL,S,R1,D1.5
+4/14/22,Sawatch,N,>TL,E,R3,D1.5
+4/15/22,Front Range,N,>TL,SE,R2,D2
+4/15/22,Gunnison,N,<TL,SE,R1,D1
+4/15/22,Gunnison,N,<TL,SE,R1,D1
+4/15/22,Aspen,N,>TL,E,R1,D1
+4/15/22,Front Range,AS,TL,NE,R2,D1.5
+4/16/22,Aspen,N,>TL,NE,R1,D1.5
+4/16/22,Front Range,N,>TL,E,R1,D1.5
+4/16/22,Vail & Summit County,N,>TL,NE,R2,D2
+4/16/22,Front Range,N,<TL,E,R1,D1
+4/16/22,Vail & Summit County,N,>TL,NE,R2,D2.5
+4/16/22,Front Range,N,>TL,N,R1,D1.5
+4/16/22,Front Range,N,>TL,SE,R2,D2
+4/16/22,Front Range,N,>TL,E,R2,D1.5
+4/17/22,North San Juan,U,,,,
+4/17/22,Front Range,N,>TL,SE,R1,D1
+4/17/22,South San Juan,N,>TL,E,R1,D1.5
+4/17/22,South San Juan,N,>TL,E,R1,D1.5
+4/17/22,Aspen,N,<TL,SE,R3,D2.5
+4/17/22,Sawatch,AH,,SE,,
+4/18/22,South San Juan,N,>TL,S,R1,D1
+4/18/22,South San Juan,N,>TL,S,R1,D1
+4/18/22,Vail & Summit County,AS,>TL,NE,R1,D1.5
+4/18/22,Gunnison,N,TL,E,R1,D1
+4/18/22,Gunnison,N,TL,E,R1,D1
+4/18/22,Gunnison,N,TL,E,R1,D1
+4/18/22,Gunnison,N,TL,E,R1,D1
+4/18/22,Gunnison,N,TL,E,R1,D1
+4/18/22,Gunnison,N,TL,E,R1,D1
+4/18/22,South San Juan,N,<TL,W,R1,D1.5
+4/18/22,South San Juan,N,<TL,W,R1,D1.5
+4/18/22,South San Juan,N,<TL,W,R1,D1.5
+4/18/22,South San Juan,N,<TL,W,R1,D1.5
+4/18/22,Front Range,N,>TL,NE,R2,D1.5
+4/18/22,Front Range,N,>TL,S,R2,D1.5
+4/18/22,South San Juan,N,>TL,SE,R1,D1.5
+4/18/22,Vail & Summit County,N,>TL,E,R2,D2
+4/18/22,Vail & Summit County,AS,>TL,NE,R1,D1
+4/18/22,Front Range,AX,TL,N,R1,D1
+4/18/22,Front Range,AX,TL,N,R1,D1
+4/18/22,Front Range,AX,TL,E,R1,D1.5
+4/18/22,Front Range,AX,TL,N,R1,D1
+4/18/22,Front Range,AX,TL,N,R1,D1.5
+4/18/22,Front Range,AX,TL,N,R1,D1
+4/18/22,Front Range,AX,TL,N,R1,D1
+4/18/22,Vail & Summit County,N,TL,NW,R1,D1
+4/18/22,Vail & Summit County,N,TL,W,R1,D1
+4/18/22,Sawatch,U,>TL,E,R3,D2
+4/19/22,South San Juan,N,>TL,E,R1,D1.5
+4/19/22,Front Range,N,>TL,E,R2,D2
+4/19/22,Aspen,N,>TL,NE,R1,D1.5
+4/19/22,South San Juan,N,>TL,SE,R1,D1.5
+4/20/22,Vail & Summit County,N,>TL,NE,R1,D2
+4/20/22,Vail & Summit County,N,<TL,NE,R1,D1
+4/20/22,North San Juan,N,TL,E,R3,D2.5
+4/21/22,North San Juan,N,>TL,NE,R1,D1
+4/21/22,North San Juan,N,>TL,E,R1,D1.5
+4/21/22,Aspen,N,<TL,N,R1,D1.5
+4/21/22,Vail & Summit County,N,<TL,NW,R1,D1
+4/21/22,Aspen,N,TL,SE,,D1
+4/21/22,Vail & Summit County,U,<TL,NW,R2,D1.5
+4/21/22,Front Range,N,<TL,NE,R2,D1
+4/21/22,Vail & Summit County,N,>TL,NW,R2,D1
+4/21/22,Vail & Summit County,N,>TL,W,R2,D1
+4/21/22,Vail & Summit County,N,>TL,W,R2,D1
+4/22/22,Vail & Summit County,N,>TL,E,R2,D1.5
+4/22/22,Front Range,N,>TL,,R1,D1.5
+4/22/22,Aspen,N,>TL,W,,D1.5
+4/22/22,Vail & Summit County,N,TL,NE,,
+4/22/22,Sawatch,N,<TL,NE,R1,D1.5
+4/22/22,Vail & Summit County,N,TL,N,,
+4/22/22,Front Range,N,>TL,,R1,D1
+4/22/22,Front Range,N,>TL,,R1,D1
+4/22/22,Front Range,N,>TL,,R1,D1
+4/22/22,Front Range,N,>TL,SE,,
+4/22/22,Front Range,N,>TL,NE,,
+4/22/22,Front Range,N,>TL,E,R1,D2
+4/23/22,Gunnison,AS,TL,NE,R1,D1.5
+4/23/22,Gunnison,AS,TL,NE,R1,D1.5
+4/23/22,Gunnison,AS,TL,NE,R1,D1.5
+4/23/22,Front Range,AS,TL,NE,,D1
+4/23/22,Front Range,U,TL,NE,,D1
+4/23/22,Aspen,N,TL,NE,,D1
+4/23/22,Aspen,N,TL,NE,,D1
+4/23/22,Vail & Summit County,N,>TL,NE,R1,D2
+4/23/22,Gunnison,N,>TL,E,R1,D1
+4/23/22,Gunnison,N,>TL,N,R1,D1.5
+4/23/22,Gunnison,AS,<TL,N,R1,D1.5
+4/23/22,Vail & Summit County,AS,>TL,N,R2,D2
+4/23/22,Sawatch,N,>TL,E,R1,D1.5
+4/24/22,North San Juan,AS,>TL,E,R1,D1
+4/24/22,North San Juan,AS,TL,NE,R1,D1
+4/24/22,North San Juan,AS,>TL,E,R2,D2
+4/24/22,Gunnison,N,>TL,SE,R1,D1.5
+4/24/22,North San Juan,AS,>TL,N,R1,D1
+4/24/22,Vail & Summit County,N,TL,NE,,D1.5
+4/24/22,Vail & Summit County,N,TL,NE,R1,D1.5
+4/24/22,Front Range,AR,>TL,E,R2,D1.5
+4/24/22,Front Range,AX,TL,N,R1,D1
+4/24/22,Front Range,AX,TL,N,R1,D1.5
+4/24/22,Front Range,AX,TL,N,R1,D1
+4/24/22,Front Range,AX,TL,N,R1,D1
+4/24/22,Front Range,AX,TL,N,R1,D1
+4/25/22,Front Range,N,TL,E,R2,D1.5
+4/25/22,Aspen,N,TL,S,,D1
+4/25/22,Aspen,N,TL,S,,D1
+4/25/22,Aspen,N,TL,S,,D1
+4/25/22,Aspen,N,TL,S,,D1
+4/25/22,Aspen,N,TL,S,,D1
+4/25/22,Aspen,N,TL,S,,D1
+4/25/22,Aspen,N,TL,S,,D1
+4/25/22,Aspen,N,TL,S,,D1
+4/25/22,Aspen,N,>TL,NE,R2,D2
+4/25/22,Front Range,N,TL,N,R2,D2
+4/25/22,Front Range,N,>TL,SE,R1,D1
+4/25/22,Front Range,N,>TL,SE,R1,D1
+4/25/22,North San Juan,N,TL,W,R1,D1
+4/25/22,North San Juan,N,>TL,SE,R1,D1
+4/25/22,Front Range,N,>TL,N,R1,D1
+4/25/22,Front Range,N,>TL,N,R1,D1
+4/25/22,North San Juan,N,>TL,E,R1,D1
+4/25/22,Aspen,N,TL,SE,,D2
+4/25/22,Aspen,N,TL,SE,,D2
+4/25/22,Front Range,N,TL,N,R1,D1
+4/25/22,Vail & Summit County,N,>TL,NW,R1,D1.5
+4/25/22,Vail & Summit County,N,TL,NW,R2,D1
+4/25/22,Vail & Summit County,N,<TL,NW,R2,D1.5
+4/25/22,Sawatch,U,>TL,E,R2,D1.5
+4/25/22,Sawatch,N,TL,NE,R1,D1.5
+4/26/22,Vail & Summit County,N,>TL,S,R1,D1
+4/26/22,Vail & Summit County,N,>TL,S,R1,D1
+4/26/22,Front Range,N,>TL,NE,R1,D1
+4/26/22,Vail & Summit County,N,>TL,NE,R1,D1.5
+4/26/22,Vail & Summit County,AS,>TL,N,R1,D1
+4/26/22,Vail & Summit County,AS,>TL,N,R1,D1
+4/26/22,Front Range,AS,>TL,NE,R2,D2
+4/26/22,Vail & Summit County,N,>TL,NE,R2,D1.5
+4/26/22,Vail & Summit County,N,>TL,E,R1,D1
+4/26/22,Vail & Summit County,AS,>TL,NE,R4,D3
+4/26/22,Vail & Summit County,N,>TL,NW,R1,D1.5
+4/26/22,Vail & Summit County,N,>TL,W,R1,D1
+4/26/22,Sawatch,U,,NE,R1,D1
+4/27/22,South San Juan,N,TL,NW,R1,D1
+4/27/22,South San Juan,N,TL,NW,R1,D1
+4/27/22,South San Juan,N,TL,NW,R1,D1
+4/27/22,South San Juan,N,TL,NW,R1,D1
+4/27/22,South San Juan,N,TL,NW,R1,D1
+4/27/22,Vail & Summit County,N,TL,NE,R1,D1.5
+4/28/22,Front Range,AS,>TL,E,R2,D1.5
+4/28/22,Front Range,N,<TL,,R1,D1
+4/30/22,Vail & Summit County,AS,>TL,N,R1,D1
+5/1/22,Steamboat & Flat Tops,N,TL,NE,R1,D1
+5/3/22,Front Range,AS,>TL,NE,R1,D1
+5/3/22,Front Range,N,<TL,SE,R1,D1
+5/4/22,Sawatch,U,>TL,SE,R1,D1
+5/4/22,Vail & Summit County,N,>TL,NW,R2,D2
+5/5/22,Sawatch,AV,TL,W,R2,D1.5
+5/5/22,Sawatch,AV,TL,W,R2,D1.5
+5/5/22,Sawatch,AV,TL,W,R2,D1.5
+5/5/22,Sawatch,AV,TL,W,R2,D1.5
+5/5/22,Sawatch,AV,TL,W,R2,D1.5
+5/5/22,Sawatch,AV,TL,W,R2,D1.5
+5/6/22,Vail & Summit County,AS,>TL,NE,R1,D1
+5/6/22,Vail & Summit County,N,>TL,E,R1,D1.5
+5/6/22,Vail & Summit County,N,>TL,E,R1,D1.5
+5/6/22,Front Range,N,>TL,SE,R1,D1
+5/6/22,Front Range,N,>TL,SE,R1,D1
+5/6/22,Front Range,N,>TL,SE,R1,D1
+5/6/22,Sawatch,N,<TL,N,R1,D1
+5/6/22,Sawatch,N,<TL,N,R1,D1
+5/6/22,Sawatch,N,<TL,N,R1,D1
+5/6/22,Front Range,N,>TL,E,,
+5/6/22,South San Juan,N,>TL,NW,R2,D1.5
+5/6/22,North San Juan,N,>TL,NW,R2,D2
+5/6/22,South San Juan,N,>TL,NW,R1,D1
+5/6/22,Sawatch,N,<TL,N,R1,D1
+5/6/22,Front Range,AS,>TL,E,R1,D1
+5/7/22,Aspen,N,>TL,NE,R1,D1
+5/7/22,Aspen,N,>TL,NE,R1,D1
+5/7/22,Aspen,N,>TL,NE,R1,D1
+5/7/22,Front Range,U,,,R1,D1
+5/7/22,Front Range,U,,,R1,D1
+5/7/22,Front Range,U,,,R1,D1
+5/7/22,Front Range,U,,,R1,D1
+5/7/22,Front Range,U,,,R1,D1
+5/7/22,Front Range,U,,,R1,D1
+5/7/22,Front Range,U,,,R1,D1
+5/7/22,Front Range,U,,,R1,D1
+5/7/22,Front Range,U,,,R1,D1
+5/7/22,Front Range,U,,,R1,D1
+5/7/22,Front Range,U,,,R1,D1
+5/7/22,Front Range,U,,,R1,D1
+5/7/22,Front Range,U,,,R1,D1
+5/7/22,Front Range,U,,,R1,D1
+5/7/22,Front Range,U,,,R1,D1
+5/7/22,Front Range,U,,,R1,D1
+5/7/22,Front Range,U,,,R1,D1
+5/7/22,Front Range,U,,,R1,D1
+5/7/22,Front Range,U,,,R1,D1
+5/7/22,Front Range,U,,,R1,D1
+5/7/22,Front Range,U,,,R1,D1
+5/7/22,Front Range,U,,,R1,D1
+5/7/22,Front Range,U,,,R1,D1
+5/7/22,Front Range,U,,,R1,D1
+5/7/22,Front Range,U,,,R1,D1
+5/7/22,Front Range,U,,,R1,D1
+5/7/22,Front Range,U,,,R1,D1
+5/7/22,Front Range,U,,,R1,D1
+5/7/22,Front Range,U,,,R1,D1
+5/7/22,Front Range,U,,,R1,D1
+5/7/22,Vail & Summit County,N,<TL,N,R1,D1
+5/7/22,Front Range,N,>TL,,R1,D1
+5/7/22,Front Range,N,>TL,E,R1,D1
+5/7/22,Front Range,N,>TL,E,R1,D1
+5/7/22,Front Range,N,>TL,E,R1,D1
+5/7/22,Front Range,N,>TL,E,R1,D1
+5/7/22,Aspen,N,>TL,E,,D1.5
+5/7/22,Aspen,N,>TL,W,R1,D1
+5/7/22,Aspen,N,>TL,W,R1,D1
+5/8/22,Sawatch,N,TL,S,R1,D1.5
+5/8/22,Front Range,N,<TL,NW,R1,D1.5
+5/9/22,Front Range,AC,>TL,SE,R1,D1
+5/10/22,Front Range,U,<TL,NE,R1,D1
+5/10/22,Front Range,U,All,SE,R1,D1
+5/10/22,Front Range,U,All,SE,R1,D1
+5/10/22,Front Range,U,All,SE,R1,D1
+5/10/22,Front Range,U,All,SE,R1,D1
+5/10/22,Front Range,U,All,SE,R1,D1
+5/10/22,Front Range,U,>TL,NE,R1,D1
+5/10/22,Front Range,U,>TL,NE,R1,D1
+5/10/22,Front Range,U,>TL,NE,R1,D1
+5/10/22,Front Range,U,>TL,NE,R1,D1
+5/10/22,Front Range,U,>TL,NE,R1,D1
+5/10/22,Front Range,U,>TL,NE,R1,D1
+5/10/22,Vail & Summit County,N,>TL,NW,R3,D2
+5/11/22,Front Range,N,>TL,E,R1,D1
+5/11/22,Aspen,N,>TL,E,R2,D1.5
+5/11/22,Sawatch,N,>TL,N,R1,D1.5
+5/11/22,Front Range,N,>TL,E,R1,D2
+5/11/22,Front Range,N,>TL,E,R1,D1
+5/11/22,Sawatch,N,>TL,E,R1,D1.5
+5/11/22,Sawatch,U,>TL,SE,R2,D2
+5/12/22,Sawatch,N,TL,NE,R1,D1.5
+5/14/22,Sawatch,AS,>TL,SE,R1,D1
+5/14/22,Sawatch,AS,>TL,SE,R1,D1
+5/14/22,Front Range,N,>TL,E,R2,D2
+5/15/22,Sawatch,N,>TL,E,,D2
+5/15/22,Sawatch,N,>TL,E,R2,D2
+5/15/22,Sawatch,N,>TL,E,R2,D2
+5/16/22,Vail & Summit County,N,>TL,NE,R1,D1
+5/16/22,Vail & Summit County,N,>TL,NE,R1,D1
+5/16/22,Vail & Summit County,N,>TL,NE,R1,D1
+5/16/22,Vail & Summit County,N,>TL,NE,R1,D1
+5/16/22,Vail & Summit County,N,>TL,NE,R1,D1
+5/16/22,Vail & Summit County,N,>TL,NE,R1,D1
+5/16/22,Front Range,N,>TL,E,R1,D1
+5/16/22,Gunnison,N,>TL,NE,R1,D2
+5/16/22,Gunnison,N,>TL,NE,R1,D2
+5/16/22,Gunnison,N,>TL,NE,R1,D2
+5/16/22,Gunnison,N,>TL,NE,R1,D2
+5/16/22,Front Range,N,>TL,SE,R1,D1.5
+5/16/22,Gunnison,N,>TL,,R1,D1.5
+5/16/22,Gunnison,N,>TL,,R1,D1.5
+5/16/22,Gunnison,N,>TL,,R1,D1.5
+5/16/22,Gunnison,N,>TL,,R1,D1.5
+5/16/22,Gunnison,N,>TL,,R1,D1.5
+5/16/22,Gunnison,N,>TL,,R1,D1.5
+5/16/22,Gunnison,N,>TL,,R1,D1.5
+5/16/22,Gunnison,N,>TL,,R1,D1.5
+5/16/22,Gunnison,N,>TL,,R1,D1.5
+5/16/22,Gunnison,N,>TL,,R1,D1.5
+5/16/22,Gunnison,N,>TL,,R1,D1.5
+5/16/22,Gunnison,N,>TL,,R1,D1.5
+5/16/22,Gunnison,N,>TL,,R1,D1.5
+5/16/22,Gunnison,N,>TL,,R1,D1.5
+5/16/22,Gunnison,N,>TL,,R1,D1.5
+5/16/22,Gunnison,N,>TL,,R1,D1.5
+5/16/22,Gunnison,N,>TL,,R1,D1.5
+5/16/22,Gunnison,N,>TL,,R1,D1.5
+5/16/22,Gunnison,N,>TL,,R1,D1.5
+5/16/22,Gunnison,N,>TL,,R1,D1.5
+5/16/22,Sawatch,AH,>TL,E,R1,D1
+5/16/22,Aspen,AH,>TL,E,R1,D1
+5/16/22,Sawatch,AH,>TL,E,R1,D1
+5/16/22,Aspen,AH,>TL,E,R1,D1
+5/16/22,Sawatch,AH,>TL,SE,R1,D1
+5/16/22,Sawatch,AH,>TL,E,R1,D1.5
+5/16/22,Sawatch,AH,>TL,E,R2,D2
+5/16/22,Sawatch,AH,>TL,SE,R1,D1
+5/16/22,Sawatch,AH,>TL,SE,R1,D1
+5/16/22,Sawatch,AH,>TL,SE,R1,D1
+5/16/22,Sawatch,AH,>TL,E,R1,D1
+5/16/22,Sawatch,AH,>TL,SE,R1,D1
+5/16/22,Sawatch,AH,>TL,E,R1,D1
+5/16/22,Sawatch,AH,>TL,SE,R1,D1
+5/16/22,Sawatch,AH,>TL,SE,R1,D1
+5/16/22,Sawatch,AH,>TL,SE,R1,D1
+5/16/22,Sawatch,AH,>TL,SE,R1,D1
+5/16/22,Sawatch,AH,>TL,E,R1,D1
+5/16/22,Sawatch,AH,>TL,E,R1,D1
+5/16/22,Sawatch,AH,>TL,SE,R1,D1
+5/17/22,UNK,N,>TL,E,R1,D2
+5/17/22,Sawatch,N,>TL,NE,R1,D1.5
+5/17/22,Sawatch,N,>TL,NE,R1,D1.5
+5/17/22,Vail & Summit County,N,>TL,E,R1,D1.5
+5/17/22,Vail & Summit County,N,>TL,E,R1,D1.5
+5/17/22,Vail & Summit County,N,>TL,E,R1,D1.5
+5/17/22,Aspen,N,>TL,NW,R2,D2
+5/17/22,Sawatch,AH,>TL,SE,R1,D1
+5/17/22,Sawatch,AH,>TL,S,R1,D1
+5/17/22,Sawatch,AH,>TL,S,R1,D1
+5/17/22,Sawatch,AH,>TL,S,R1,D1
+5/17/22,Sawatch,AH,,E,R1,D1
+5/17/22,Sawatch,AH,,SE,R1,D1
+5/17/22,Sawatch,AH,,SE,R1,D1
+5/17/22,Sawatch,AH,,SE,R1,D1
+5/17/22,Sawatch,AH,,E,R1,D1.5
+5/17/22,Sawatch,AH,,SE,R1,D1
+5/17/22,Sawatch,AH,,SE,R1,D1
+5/17/22,Sawatch,AH,,E,R1,D1
+5/17/22,Sawatch,AH,,SE,R1,D1
+5/17/22,Sawatch,AH,,E,R1,D1
+5/17/22,Sawatch,AH,,SE,R1,D1
+5/17/22,Sawatch,AH,,E,R1,D1
+5/18/22,Sawatch,N,>TL,E,R2,D2
+5/18/22,Sawatch,N,>TL,E,R2,D1.5
+5/18/22,Sawatch,N,>TL,E,R2,D1.5
+5/20/22,Vail & Summit County,N,>TL,NE,R1,D1
+5/20/22,Vail & Summit County,N,>TL,NE,R1,D1
+5/20/22,Vail & Summit County,N,>TL,NE,R1,D1
+5/20/22,Front Range,AS,TL,E,,D1.5
+5/21/22,Front Range,AS,TL,NE,R1,D1
+5/21/22,Front Range,AS,TL,NE,R1,D1
+5/21/22,Vail & Summit County,AS,>TL,NE,R1,D1
+5/21/22,Front Range,AS,>TL,E,,
+5/21/22,Front Range,AS,>TL,E,,
+5/21/22,Aspen,N,>TL,N,R1,
+5/21/22,Front Range,N,>TL,NE,R1,D1
+5/21/22,Front Range,AS,>TL,N,R1,D1.5
+5/21/22,Sawatch,AS,TL,NE,R1,D1.5
+5/21/22,Front Range,AS,>TL,N,,
+5/21/22,Front Range,AX,<TL,N,R3,D1.5
+5/21/22,Front Range,AX,>TL,N,R3,D1.5
+5/21/22,Front Range,AX,>TL,E,R3,D1.5
+5/21/22,Front Range,AX,<TL,N,R3,D1.5
+5/21/22,Front Range,AX,,N,R3,D1
+5/21/22,Front Range,AX,TL,N,R3,D1
+5/21/22,Front Range,AX,<TL,N,R3,D1.5
+5/21/22,Front Range,AX,TL,N,R2,D1.5
+5/21/22,Front Range,AX,TL,N,R2,D1
+5/22/22,Front Range,AS,TL,E,R1,D1
+5/22/22,Front Range,AS,TL,E,R1,D1
+5/22/22,Front Range,N,>TL,N,R1,D1.5
+5/22/22,Front Range,N,>TL,E,R1,D1
+5/22/22,Front Range,N,>TL,NE,R1,D1
+5/22/22,Front Range,U,TL,E,R1,D1
+5/22/22,Front Range,U,TL,E,R1,D1
+5/22/22,Front Range,U,TL,E,R1,D1
+5/22/22,Vail & Summit County,AS,>TL,E,R1,D1.5
+5/22/22,Vail & Summit County,AS,>TL,E,R1,D1.5
+5/22/22,Front Range,AS,TL,SE,R1,D1
+5/22/22,Front Range,AS,TL,SE,R1,D1
+5/23/22,Aspen,N,>TL,NW,R2,D2
+5/23/22,Vail & Summit County,AS,>TL,NE,R2,D1.5
+5/24/22,Sawatch,N,>TL,NE,R1,D1
+5/24/22,Sawatch,N,>TL,NE,R1,D1
+5/24/22,Sawatch,AS,>TL,N,R1,D1
+5/24/22,Sawatch,N,>TL,E,R1,D1
+5/24/22,Sawatch,N,>TL,E,R1,D1
+5/24/22,Sawatch,N,>TL,E,R1,D1
+5/25/22,Vail & Summit County,AS,>TL,N,R1,D1
+5/25/22,Vail & Summit County,AS,>TL,SE,R1,D1
+5/25/22,Front Range,N,>TL,SE,,
+5/25/22,Vail & Summit County,AS,>TL,E,R1,D1.5
+5/25/22,Front Range,N,>TL,SE,R1,D1.5
+5/25/22,Front Range,N,>TL,SE,R1,D1.5
+5/26/22,Front Range,AF,>TL,N,R2,D1.5
+5/26/22,Vail & Summit County,U,>TL,NE,R2,D1
+5/26/22,Front Range,N,>TL,E,R1,D1
+5/26/22,Front Range,N,>TL,E,R1,D1
+5/26/22,Sawatch,N,>TL,N,R1,D1
+5/27/22,Vail & Summit County,AR,>TL,NE,R1,D1
+5/29/22,Front Range,N,>TL,N,,
+5/31/22,Front Range,N,>TL,NE,R1,D1
+5/31/22,Sawatch,AS,>TL,NE,R1,D1
+5/31/22,Front Range,N,>TL,E,R1,D1
+6/1/22,Vail & Summit County,AS,>TL,W,R1,D1.5
+6/1/22,Front Range,AS,>TL,NE,R2,D1.5
+6/1/22,Vail & Summit County,AS,>TL,NE,R1,D1
+6/2/22,Sawatch,AS,>TL,NE,R1,D1
+6/2/22,Front Range,AS,>TL,NE,R2,D1
+6/4/22,Front Range,N,>TL,,R1,D1

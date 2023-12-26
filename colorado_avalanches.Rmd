@@ -1,0 +1,163 @@
+---
+title: "Temporal, Spatial, and Size Distribution of Avalanches in Colorado during the 2021-2022 Season"
+author: "Elise Chan"
+output: 
+  html_document:
+      code_folding: hide
+date: "Fall 2022"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(
+  echo=TRUE,
+  message=FALSE,
+  warning=FALSE
+)
+```
+
+```{r}
+#load packages
+library(tidyverse)
+library(dplyr)
+library(ggplot2)
+library(stringr)
+library(lubridate)
+library(kableExtra)
+```
+
+```{r}
+# load data
+obs <- read.csv("CAIC_obs.csv", na.strings = c("", "NA"))
+compass <- read.csv("compass.csv")
+
+obs <- obs %>% 
+  na.omit() %>% 
+  # convert aspect from cardinal to degrees using join
+  left_join(compass, by=c("Aspect"="Cardinal")) %>% 
+  # remove letter from size measurement and convert to number
+  mutate(R.Size = as.numeric(str_remove_all(R.Size, "R"))) %>% 
+  mutate(D.Size = as.numeric(str_remove_all(D.Size, "D"))) %>% 
+  # convert date format so time series stays in chronological order
+  mutate(Date = ymd(mdy(Date)))
+```
+
+Figure 1.
+```{r}
+series <- data.frame(
+    count = count(obs %>% group_by(Date)))
+
+series %>% 
+  ggplot(aes(x=count.Date,y=count.n)) +
+  geom_line(size=0.5, color="#3375B2") +
+  theme_light() +
+  scale_x_date(date_labels = "%m-%Y", date_breaks = "1 month", date_minor_breaks = "1 week") +
+  theme(panel.grid.major = element_line(color="lightgray",size=0.4)) +
+  xlab("Date") +
+  ylab("Number of Avalanches") +
+  labs(title="Number of Recorded Avalanches per Day",
+       subtitle = "Colorado 2021-2022 Season",
+       caption = "Source: Colorado Avalanche Information Center (CAIC)")
+```
+
+Figure 2.
+```{r}
+obs_pivot <- obs %>% 
+  mutate(Date = str_remove_all(as.character(Date),"-")) %>% 
+  filter(Date %in% c("20211209", "20211210", "20211231","20220101", "20220223", "20220224")) %>% 
+  group_by(Date, Zone) %>% 
+  tally() %>% 
+  pivot_wider(
+            names_from = Date,
+            names_prefix = "day",
+            values_from = n) %>% 
+  mutate("Dec910" = replace_na(day20211209 + day20211210, 0),
+         "Dec311" = replace_na(day20211231 + day20220101, 0),
+         "Feb2324" = replace_na(day20220223 + day20220224, 0)) %>% 
+  arrange(by=desc(Feb2324)) 
+
+# obs_perc <- obs_pivot %>% 
+#   select(Dec910, Dec311, Feb2324)
+# colSums(obs_perc)
+
+obs_pivot <- obs_pivot %>% 
+  mutate("percDec910" = round(Dec910/356*100, digits=1),
+         "percDec311" = round(Dec311/301*100, digits=1),
+         "percFeb2324" = round(Feb2324/474*100, digits=1))
+
+obs_table <- obs_pivot %>% 
+  select(Zone, percDec910, percDec311, percFeb2324)
+
+kbl(obs_table,
+    col.names = c("Zone", "Dec 9-10, 2021", "Dec 31-Jan 1, 2022", "Feb 23-24, 2022"),
+    caption = "Percent of Avalanches Per Zone during Spikes in the Colorado 2021-2022 Season") %>% 
+  kable_styling(bootstrap_options="condensed",full_width = F) %>% 
+  footnote(general = "Source: Colorado Avalanche Information Center (CAIC)", general_title="")
+```
+
+Figure 3.
+```{r}
+#compile data for chart
+polar <- obs %>% 
+  subset(Aspect!="All" & Aspect!="U") %>% # only avys with cardinal aspects
+  group_by(Aspect, Elevation)
+
+#specify order of stacked bars
+polar$Elevation <- factor(polar$Elevation, levels=c("All",">TL","TL","<TL")) 
+
+#all aspects but not centered
+ggplot(polar, aes(x = Degrees, fill = Elevation)) +
+  geom_histogram(binwidth = 45, boundary=-22.5, color = "black", size = .25) + #center=0
+  coord_polar() + #makes circular
+  scale_x_continuous(limits = c(-22.5,360-22.5), #limits not include 0 data but not centered
+                     breaks = compass$Degrees,
+                     labels = compass$Cardinal) +
+  scale_fill_brewer(labels = c("All","Above Treeline","At Treeline","Below Treeline")) +
+  theme_minimal() +
+  labs(title = "Recorded Avalanches by Aspect and Elevation",
+       subtitle = "Colorado 2021-2022 Season",
+       caption = "Source: Colorado Avalanche Information Center (CAIC)") + 
+  xlab("Aspect") +
+  ylab("Number of Avalanches")
+```
+
+Figure 4.
+```{r}
+size_count <- obs %>% 
+  group_by(D.Size, R.Size) %>% 
+  tally()
+
+ggplot(size_count, aes(x=D.Size, y=R.Size)) +
+  geom_point(aes(size=n, color=n)) +
+  scale_x_continuous(limits = c(0, 5)) +
+  scale_y_continuous(limits = c(0, 5)) +
+  scale_size(range=c(1,10), breaks=c(10, 100, 500, 1000)) +
+  scale_fill_brewer() +
+  guides(color=FALSE, size=FALSE) + # to keep guide legends use =guide_legend()
+  geom_text(aes(label = n), size = 3, vjust = 3) +
+  coord_fixed(ratio=1) +
+  theme_light() +
+  labs(title="Size of Avalanches", 
+       subtitle="Colorado 2021-2022 Season, 3863 Total Avalanches",
+       x="Destructive Size (destructive potential)",
+       y="Relative Size (volume relative to path size)",
+       caption = "Source: Colorado Avalanche Information Center (CAIC)") 
+```
+
+**References**
+
+Chang, Winston. (2022). *R Graphics Cookbook 2nd Edition*, "8.16 Making a Circular Plot". https://r-graphics.org/recipe-axes-polar. 
+
+Colorado Avalanche Information Center. (2022). *Observation Explorer* [Data set]. https://forecasts.avalanche.state.co.us/explorer/.
+
+
+
+**Notes**
+
+* Used a new plot type: circular bar plot with polar coordinates  (Fig 3)
+
+* Used left_join to convert cardinal aspect to degree (Fig 3, setup code chunk)
+
+* Used pivot_wider and kable to format table (Fig 2)
+
+* Used stringr to convert R and D Sizes to numeric values (Fig 4, setup code chunk)
+
